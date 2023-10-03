@@ -106,5 +106,14 @@
     "key": "Benedetta-uBkMblVEeu",
     "skin_name": "Panigale V4S Rider",
     "sort": "7"
+  },
+  "Brody-pDI7P6fsr3": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/brody%20collector.zip",
+    "hero": "Brody",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/7c/Hero1005-portrait.png/revision/latest?cb=20220525170323",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/7c/Hero1005-portrait.png/revision/latest?cb=20220525170323",
+    "key": "Brody-pDI7P6fsr3",
+    "skin_name": "Ore-chemist",
+    "sort": "8"
   }
 }
