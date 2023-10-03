@@ -215,5 +215,14 @@
     "key": "Kagura-qsUqVa7TlX",
     "skin_name": "Water Lily",
     "sort": "3"
+  },
+  "Kagura-GhHX0MrbWE": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/kagura%20exorcist.zip",
+    "hero": "Kagura",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d6/Hero258-portrait.png/revision/latest?cb=20220915121143",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/d6/Hero258-portrait.png/revision/latest?cb=20220915121143",
+    "key": "Kagura-GhHX0MrbWE",
+    "skin_name": "Exorcist",
+    "sort": "4"
   }
 }
