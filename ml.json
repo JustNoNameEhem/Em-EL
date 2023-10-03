@@ -160,5 +160,14 @@
     "key": "Claude-BMroUE804D",
     "skin_name": "Heaart Aflame",
     "sort": "6"
+  },
+  "Claude-4edhxN7XTt": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/claude%20sanrio.zip",
+    "hero": "Claude",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/c6/Hero659-portrait.png/revision/latest?cb=20220525165642",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/c/c6/Hero659-portrait.png/revision/latest?cb=20220525165642",
+    "key": "Claude-4edhxN7XTt",
+    "skin_name": "Bad Bro",
+    "sort": "7"
   }
 }
