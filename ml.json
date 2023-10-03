@@ -115,5 +115,14 @@
     "key": "Brody-pDI7P6fsr3",
     "skin_name": "Ore-chemist",
     "sort": "8"
+  },
+  "Bruno-PhB5SrfBN7": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/bruno%20dawning%20star.zip",
+    "hero": "Bruno",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/da/Hero126-portrait.png/revision/latest?cb=20220525164552",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/da/Hero126-portrait.png/revision/latest?cb=20220525164552",
+    "key": "Bruno-PhB5SrfBN7",
+    "skin_name": "Firebolt",
+    "sort": "1"
   }
 }
