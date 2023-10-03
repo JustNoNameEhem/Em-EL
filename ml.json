@@ -349,5 +349,14 @@
     "key": "Selena-I0OeBTsHpx",
     "skin_name": "S.T.U.N",
     "sort": "1"
+  },
+  "Selena-pLOI8bwEpM": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/selena%20zodiac.zip",
+    "hero": "Selena",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/40/Hero634-portrait.png/revision/latest?cb=20230514163409",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/40/Hero634-portrait.png/revision/latest?cb=20230514163409",
+    "key": "Selena-pLOI8bwEpM",
+    "skin_name": "Zodiac",
+    "sort": "2"
   }
 }
