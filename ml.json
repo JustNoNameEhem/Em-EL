@@ -278,5 +278,14 @@
     "key": "Ling-KqTof9tgdr",
     "skin_name": "Collector",
     "sort": "4"
+  },
+  "Lunox-cFukmPl6pd": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/lunox%20collector.zip",
+    "hero": "Lunox",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/76/Hero689-portrait.png/revision/latest?cb=20230623125739",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/76/Hero689-portrait.png/revision/latest?cb=20230623125739",
+    "key": "Lunox-cFukmPl6pd",
+    "skin_name": "Legend",
+    "sort": "6"
   }
 }
