@@ -242,5 +242,14 @@
     "key": "Lancelot-UeV8k5FrEL",
     "skin_name": "Dragon Tamer",
     "sort": "1"
+  },
+  "Lancelot-wDOgTMQHG5": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/lancelot%20metador.zip",
+    "hero": "Lancelot",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/09/Hero474-portrait.png/revision/latest?cb=20220525165247",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/09/Hero474-portrait.png/revision/latest?cb=20220525165247",
+    "key": "Lancelot-wDOgTMQHG5",
+    "skin_name": "Royal Matador",
+    "sort": "1"
   }
 }
