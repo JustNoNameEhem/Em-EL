@@ -322,5 +322,14 @@
     "key": "Odete-WyTD3x8oCw",
     "skin_name": "Christmas",
     "sort": "3"
+  },
+  "Paquito-qHNKzwUgpK": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/paquito%20collector.zip",
+    "hero": "Paquito",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3d/Hero1037-portrait.png/revision/latest?cb=20230514163428",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/3d/Hero1037-portrait.png/revision/latest?cb=20230514163428",
+    "key": "Paquito-qHNKzwUgpK",
+    "skin_name": "Collector",
+    "sort": "4"
   }
 }
