@@ -169,5 +169,14 @@
     "key": "Harley-vfNnOxP1GH",
     "skin_name": "Dream Caster",
     "sort": "5"
+  },
+  "Hayabusa-RX8j4job2t": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/hayabusa%20epic.zip",
+    "hero": "Hayabusa",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/79/Hero216-portrait.png/revision/latest?cb=20220525164755",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/79/Hero216-portrait.png/revision/latest?cb=20220525164755",
+    "key": "Hayabusa-RX8j4job2t",
+    "skin_name": "Epic",
+    "sort": "6"
   }
 }
