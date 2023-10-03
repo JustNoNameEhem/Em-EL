@@ -358,5 +358,14 @@
     "key": "Selena-pLOI8bwEpM",
     "skin_name": "Zodiac",
     "sort": "2"
+  },
+  "Sun-KHsdI6RwmU": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/sun%20collector.zip",
+    "hero": "Sun",
+    "img": "https://github.com/rahasia55/New-Default-skin/raw/main/sun%20collector.zip",
+    "img2": "https://github.com/rahasia55/New-Default-skin/raw/main/sun%20collector.zip",
+    "key": "Sun-KHsdI6RwmU",
+    "skin_name": "Collector",
+    "sort": "3"
   }
 }
