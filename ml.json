@@ -133,5 +133,14 @@
     "key": "Edith-zrNC83x5jn",
     "skin_name": "Clouds",
     "sort": "1"
+  },
+  "Fanny-gC2aHDKWqD": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/fanny%20aspirant.zip",
+    "hero": "Fanny",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d6/Hero101710-portrait.png/revision/latest?cb=20220714031230",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/d6/Hero101710-portrait.png/revision/latest?cb=20220714031230",
+    "key": "Fanny-gC2aHDKWqD",
+    "skin_name": "Aspirants",
+    "sort": "2"
   }
 }
