@@ -304,5 +304,14 @@
     "key": "Helcurt-oQylrZptVJ",
     "skin_name": "Zodiac",
     "sort": "1"
+  },
+  "Miya-hW4lvq5l3V": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/miya%20atomic.zip",
+    "hero": "Miya",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/60/Hero100112-portrait.png/revision/latest?cb=20230316133748",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/60/Hero100112-portrait.png/revision/latest?cb=20230316133748",
+    "key": "Miya-hW4lvq5l3V",
+    "skin_name": "Atomic",
+    "sort": "2"
   }
 }
