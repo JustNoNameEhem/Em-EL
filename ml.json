@@ -133,5 +133,14 @@
     "key": "Cecilion-ywmpIa1K0w",
     "skin_name": "Crimson Wings",
     "sort": "2"
+  },
+  "Chou-LRjfFpLzoY": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/chou%20echo.zip",
+    "hero": "Chou",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/ef/Hero102612-portrait.png/revision/latest?cb=20230805043953",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/ef/Hero102612-portrait.png/revision/latest?cb=20230805043953",
+    "key": "Chou-LRjfFpLzoY",
+    "skin_name": "Echo",
+    "sort": "3"
   }
 }
