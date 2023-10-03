@@ -124,5 +124,14 @@
     "key": "Bruno-PhB5SrfBN7",
     "skin_name": "Firebolt",
     "sort": "1"
+  },
+  "Cecilion-ywmpIa1K0w": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/cecilion%20colec.zip",
+    "hero": "Cecilion",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/42/Hero916-portrait.png/revision/latest?cb=20220915122137",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/42/Hero916-portrait.png/revision/latest?cb=20220915122137",
+    "key": "Cecilion-ywmpIa1K0w",
+    "skin_name": "Crimson Wings",
+    "sort": "2"
   }
 }
