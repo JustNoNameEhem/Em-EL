@@ -34,5 +34,14 @@
     "key": "Baxia-QR56sBWFol",
     "skin_name": "zscsz",
     "sort": "2"
+  },
+  "Alice-LT69VrnjPh": {
+    "download": "sca",
+    "hero": "Alice",
+    "img": "sca",
+    "img2": "csa",
+    "key": "Alice-LT69VrnjPh",
+    "skin_name": "sca",
+    "sort": "8"
   }
 }
