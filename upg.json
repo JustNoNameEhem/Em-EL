@@ -1,1 +1,65 @@
-{}
+{
+      "Ling-NTSC0m4uaJzW4z0LDFy": {
+      "download": "https://github.com/AnehGamingOfficial/MueHEHEHEHEHEHHEHEHE/raw/main/Ling%20Collector%20Normal.zip",
+      "hero": "Ling",
+      "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/be/Hero842-portrait.png/revision/latest?cb=20220525170015",
+      "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/0e/Hero846-portrait.png/revision/latest?cb=20220525170020",
+      "key": "Ling-NTSC0m4uaJzW4z0LDFy",
+      "skin_name": "Normal > Collector",
+      "sort": "0"
+    },
+    "Ling-NUaFg3M6weVLcM7qR27": {
+      "download": "https://github.com/rahasia55/AG-UP-SKIN/blob/main/ling%20basic%20to%20dragon%20tamer.zip?raw=true",
+      "hero": "Ling",
+      "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/be/Hero842-portrait.png/revision/latest?cb=20220525170015",
+      "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/57/Hero844-portrait.png/revision/latest?cb=20220525170017",
+      "key": "Ling-NUaFg3M6weVLcM7qR27",
+      "skin_name": "Normal > Dragon Tamer",
+      "sort": "0"
+    },
+    "Ling-NUaFoPm9pRnC5OkEpla": {
+      "download": "https://github.com/rahasia55/AG-UP-SKIN/blob/main/ling%20basic%20to%20kungfu%20panda.zip?raw=true",
+      "hero": "Ling",
+      "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/be/Hero842-portrait.png/revision/latest?cb=20220525170015",
+      "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/66/Hero848-portrait.png/revision/latest?cb=20220804115337",
+      "key": "Ling-NUaFoPm9pRnC5OkEpla",
+      "skin_name": "Normal > Kungfu Panda",
+      "sort": "0"
+    },
+    "Ling-NUaGAx6xv1S-gcMU6CU": {
+      "download": "https://github.com/rahasia55/AG-UP-SKIN/blob/main/ling%20basic%20to%20m-world.zip?raw=true",
+      "hero": "Ling",
+      "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/be/Hero842-portrait.png/revision/latest?cb=20220525170015",
+      "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/2d/Hero847-portrait.png/revision/latest?cb=20220525170021",
+      "key": "Ling-NUaGAx6xv1S-gcMU6CU",
+      "skin_name": "Normal > M-world",
+      "sort": "0"
+    },
+    "Ling-NUaGHtyH3XYva9Dl_2w": {
+      "download": "https://github.com/rahasia55/AG-UP-SKIN/blob/main/ling%20basic%20to%20special.zip?raw=true",
+      "hero": "Ling",
+      "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/be/Hero842-portrait.png/revision/latest?cb=20220525170015",
+      "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/e1/Hero845-portrait.png/revision/latest?cb=20220525170019",
+      "key": "Ling-NUaGHtyH3XYva9Dl_2w",
+      "skin_name": "Normal > Special",
+      "sort": "0"
+    },
+    "Ling-stcc": {
+      "download": "https://github.com/gemble-dotcom/AnehCoolVeryCoolTercool/raw/main/Ling%20Collector%20Stalrigut.zip",
+      "hero": "Ling",
+      "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/0d/Hero843-portrait.png/revision/latest/scale-to-width-down/154?cb=20220525170016",
+      "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/0e/Hero846-portrait.png/revision/latest/scale-to-width-down/154?cb=20220525170020",
+      "key": "Ling-stcc",
+      "skin_name": "Starlgiht > Collector",
+      "sort": "11"
+    },
+    "Ling-NUaGPWQot-ZsjQf7AxY": {
+      "download": "https://github.com/rahasia55/AG-UP-SKIN/blob/main/ling%20basic%20to%20starlight.zip?raw=true",
+      "hero": "Ling",
+      "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/be/Hero842-portrait.png/revision/latest?cb=20220525170015",
+      "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/0d/Hero843-portrait.png/revision/latest?cb=20220525170016",
+      "key": "Ling-NUaGPWQot-ZsjQf7AxY",
+      "skin_name": "Normal > Starlight",
+      "sort": "0"
+    }
+}
