@@ -1754,5 +1754,14 @@
     "key": "Mathilda-HKZc0Doy7m",
     "skin_name": "MPL",
     "sort": "1"
+  },
+  "Selena-LX1n1Rkj97": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/selena%20abyss.zip",
+    "hero": "Selena",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/1c/Hero639-portrait.png/revision/latest?cb=20220525165610",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/1c/Hero639-portrait.png/revision/latest?cb=20220525165610",
+    "key": "Selena-LX1n1Rkj97",
+    "skin_name": "Abyss",
+    "sort": "1"
   }
 }
