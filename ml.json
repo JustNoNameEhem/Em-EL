@@ -1547,5 +1547,14 @@
     "key": "Ruby-uB0cJK7Dyh",
     "skin_name": "Aspirants",
     "sort": "1"
+  },
+  "Brody-BZdZK2LiTs": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/brody%20stun.zip",
+    "hero": "Brody",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/25/Hero1003-portrait.png/revision/latest?cb=20220525170320",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/25/Hero1003-portrait.png/revision/latest?cb=20220525170320",
+    "key": "Brody-BZdZK2LiTs",
+    "skin_name": "S.T.U.N",
+    "sort": "2"
   }
 }
