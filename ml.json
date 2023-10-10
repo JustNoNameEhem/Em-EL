@@ -1619,5 +1619,14 @@
     "key": "Granger-OFTmjeO3qY",
     "skin_name": "Legend",
     "sort": "9"
+  },
+  "Guinevere-RJpUW7GDUS": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/guinevere%20legend.zip",
+    "hero": "Guinevere",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/33/Hero809-portrait.png/revision/latest?cb=20220525165927",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/33/Hero809-portrait.png/revision/latest?cb=20220525165927",
+    "key": "Guinevere-RJpUW7GDUS",
+    "skin_name": "Legend",
+    "sort": "10"
   }
 }
