@@ -8,15 +8,15 @@
     "skin_name": "Shura",
     "sort": "3"
   },
-    "Fanny-NQwFczlPbDLlvDklebY": {
-      "download": "https://github.com/gemble-dotcom/GotYourBack/raw/main/Fanny.zip",
-      "hero": "Fanny",
-      "img": "https://i.ibb.co/Yky2RCb/Screenshot-20220530-215520614-2.jpg",
-      "img2": "https://i.ibb.co/Yky2RCb/Screenshot-20220530-215520614-2.jpg",
-      "key": "Fanny-NQwFczlPbDLlvDklebY",
-      "skin_name": "",
-      "sort": "0"
-    },
+  "Fanny-NQwFczlPbDLlvDklebY": {
+    "download": "https://github.com/gemble-dotcom/GotYourBack/raw/main/Fanny.zip",
+    "hero": "Fanny",
+    "img": "https://i.ibb.co/Yky2RCb/Screenshot-20220530-215520614-2.jpg",
+    "img2": "https://i.ibb.co/Yky2RCb/Screenshot-20220530-215520614-2.jpg",
+    "key": "Fanny-NQwFczlPbDLlvDklebY",
+    "skin_name": "",
+    "sort": "0"
+  },
   "Franco-bOQkqXBC1k": {
     "download": "https://raw.githubusercontent.com/AnehGamingOfficial/temp-ml/main/temp/AnehGamingOfficial-l6yqnl0wvplfeavm06g9dfranco%20legend.zip-y2zlrvk9oac/AnehGamingOfficial.zip",
     "hero": "Franco",
@@ -1537,6 +1537,15 @@
     "img2": "https://i.postimg.cc/Jzv2L70T/Screenshot-20230417-174605033-1.jpg",
     "key": "Arlott-aJ68oq3MBL",
     "skin_name": "Inferno Lancer (Gung Chakra)",
+    "sort": "1"
+  },
+  "Ruby-uB0cJK7Dyh": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/ruby%20aspirant.zip",
+    "hero": "Ruby",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/b4/Hero298-portrait.png/revision/latest?cb=20221103134236",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/b4/Hero298-portrait.png/revision/latest?cb=20221103134236",
+    "key": "Ruby-uB0cJK7Dyh",
+    "skin_name": "Aspirants",
     "sort": "1"
   }
 }
