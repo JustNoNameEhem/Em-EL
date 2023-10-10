@@ -1718,5 +1718,14 @@
     "key": "Clint-lxnSpJxjoI",
     "skin_name": "Collector",
     "sort": "1"
+  },
+  "Irithel-Ge7C7S4dVt": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/irithel%20ducati.zip",
+    "hero": "Irithel",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/08/Hero437-portrait.png/revision/latest?cb=20230917045310",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/08/Hero437-portrait.png/revision/latest?cb=20230917045310",
+    "key": "Irithel-Ge7C7S4dVt",
+    "skin_name": "Ducati",
+    "sort": "2"
   }
 }
