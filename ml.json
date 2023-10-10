@@ -1682,5 +1682,14 @@
     "key": "Miya-RNoz0TSwPJ",
     "skin_name": "Collector",
     "sort": "2"
+  },
+  "Moskov-cqDmr7RHxK": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/moskov%20abyss.zip",
+    "hero": "Moskov",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/aa/Hero319-portrait.png/revision/latest?cb=20220802032157",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/aa/Hero319-portrait.png/revision/latest?cb=20220802032157",
+    "key": "Moskov-cqDmr7RHxK",
+    "skin_name": "Abyss",
+    "sort": "3"
   }
 }
