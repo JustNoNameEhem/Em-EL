@@ -1664,5 +1664,14 @@
     "key": "Lancelot-yCEUhymUpc",
     "skin_name": "Zodiac",
     "sort": "14"
+  },
+  "Martis-vaml098GnN": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/martis%20epic%20revamp.zip",
+    "hero": "Martis",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/6d/Hero584-portrait.png/revision/latest?cb=20220804115332",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/6d/Hero584-portrait.png/revision/latest?cb=20220804115332",
+    "key": "Martis-vaml098GnN",
+    "skin_name": "Epic",
+    "sort": "1"
   }
 }
