@@ -1583,5 +1583,14 @@
     "key": "Claude-0044KiRM6g",
     "skin_name": "Christmas",
     "sort": "5"
+  },
+  "Dyrroth-AhCjDmzKEU": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/dyrroth%20collector.zip",
+    "hero": "Dyrroth",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/cd/Hero857-portrait.png/revision/latest?cb=20230615180223",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/c/cd/Hero857-portrait.png/revision/latest?cb=20230615180223",
+    "key": "Dyrroth-AhCjDmzKEU",
+    "skin_name": "Collector",
+    "sort": "6"
   }
 }
