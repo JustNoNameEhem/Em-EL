@@ -1745,5 +1745,14 @@
     "key": "Lilya-2kwrzuzJ6q",
     "skin_name": "Neobest",
     "sort": "4"
+  },
+  "Mathilda-VqFUQdIcWQ": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/mathilda%20mdl.zip",
+    "hero": "Mathilda",
+    "img": "https://github.com/rahasia55/New-Default-skin/raw/main/mathilda%20mdl.zip",
+    "img2": "https://github.com/rahasia55/New-Default-skin/raw/main/mathilda%20mdl.zip",
+    "key": "Mathilda-VqFUQdIcWQ",
+    "skin_name": "MPL",
+    "sort": "5"
   }
 }
