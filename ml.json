@@ -1565,5 +1565,14 @@
     "key": "Chou-X2P7szOdud",
     "skin_name": "Saint Seiya",
     "sort": "3"
+  },
+  "Chou-rjlTd3JOeB": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/chou%20stun.zip",
+    "hero": "Chou",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/68/Hero269-portrait.png/revision/latest?cb=20220525164857",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/68/Hero269-portrait.png/revision/latest?cb=20220525164857",
+    "key": "Chou-rjlTd3JOeB",
+    "skin_name": "S.T.U.N",
+    "sort": "4"
   }
 }
