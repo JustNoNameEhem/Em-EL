@@ -1610,5 +1610,14 @@
     "key": "Floryn-6AjGXQzoQl",
     "skin_name": "Sanrio",
     "sort": "8"
+  },
+  "Granger-OFTmjeO3qY": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/granger%20legend.zip",
+    "hero": "Granger",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/25/Starfall_Knight.jpg/revision/latest?cb=20211010081115",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/25/Starfall_Knight.jpg/revision/latest?cb=20211010081115",
+    "key": "Granger-OFTmjeO3qY",
+    "skin_name": "Legend",
+    "sort": "9"
   }
 }
