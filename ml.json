@@ -1628,5 +1628,14 @@
     "key": "Guinevere-RJpUW7GDUS",
     "skin_name": "Legend",
     "sort": "10"
+  },
+  "Kagura-PBRs5v0XOJ": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/kagura%20clouds.zip",
+    "hero": "Kagura",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/43/Hero259-portrait.png/revision/latest?cb=20230805043819",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/43/Hero259-portrait.png/revision/latest?cb=20230805043819",
+    "key": "Kagura-PBRs5v0XOJ",
+    "skin_name": "Clouds",
+    "sort": "11"
   }
 }
