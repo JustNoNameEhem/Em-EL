@@ -1637,5 +1637,14 @@
     "key": "Kagura-PBRs5v0XOJ",
     "skin_name": "Clouds",
     "sort": "11"
+  },
+  "Kagura-GgbFeWubFV": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/kagura%20epic%20drgaon%20maiden.zip",
+    "hero": "Kagura",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/fd/Hero255-portrait.png/revision/latest?cb=20220525164843",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/fd/Hero255-portrait.png/revision/latest?cb=20220525164843",
+    "key": "Kagura-GgbFeWubFV",
+    "skin_name": "Epic",
+    "sort": "12"
   }
 }
