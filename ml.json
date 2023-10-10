@@ -1673,5 +1673,14 @@
     "key": "Martis-vaml098GnN",
     "skin_name": "Epic",
     "sort": "1"
+  },
+  "Miya-RNoz0TSwPJ": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/miya%20collector.zip",
+    "hero": "Miya",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/22/Hero100111-portrait.png/revision/latest?cb=20220804115343",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/22/Hero100111-portrait.png/revision/latest?cb=20220804115343",
+    "key": "Miya-RNoz0TSwPJ",
+    "skin_name": "Collector",
+    "sort": "2"
   }
 }
