@@ -1646,5 +1646,14 @@
     "key": "Kagura-GgbFeWubFV",
     "skin_name": "Epic",
     "sort": "12"
+  },
+  "Karina-lpjPRjmvNu": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/karina%20kof.zip",
+    "hero": "Karina",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3d/Hero087-portrait.png/revision/latest?cb=20220525164500",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/3d/Hero087-portrait.png/revision/latest?cb=20220525164500",
+    "key": "Karina-lpjPRjmvNu",
+    "skin_name": "KOF",
+    "sort": "13"
   }
 }
