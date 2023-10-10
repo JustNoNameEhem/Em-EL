@@ -1655,5 +1655,14 @@
     "key": "Karina-lpjPRjmvNu",
     "skin_name": "KOF",
     "sort": "13"
+  },
+  "Lancelot-yCEUhymUpc": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/lancelot%20zodiac.zip",
+    "hero": "Lancelot",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Hero476-portrait.png/revision/latest?cb=20230212041010",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Hero476-portrait.png/revision/latest?cb=20230212041010",
+    "key": "Lancelot-yCEUhymUpc",
+    "skin_name": "Zodiac",
+    "sort": "14"
   }
 }
