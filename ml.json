@@ -1601,5 +1601,14 @@
     "key": "Dyrroth-4j5GDWlbKT",
     "skin_name": "KOF",
     "sort": "7"
+  },
+  "Floryn-6AjGXQzoQl": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/floryn%20sanrio.zip",
+    "hero": "Floryn",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/92/Hero1123-portrait.png/revision/latest?cb=20220525170548",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/92/Hero1123-portrait.png/revision/latest?cb=20220525170548",
+    "key": "Floryn-6AjGXQzoQl",
+    "skin_name": "Sanrio",
+    "sort": "8"
   }
 }
