@@ -1736,5 +1736,14 @@
     "key": "Leomord-PlNcwy40Y9",
     "skin_name": "Abyss",
     "sort": "3"
+  },
+  "Lilya-2kwrzuzJ6q": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/lylia%20neobest.zip",
+    "hero": "Lilya",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/23/Hero866-portrait.png/revision/latest?cb=20230805043912",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/23/Hero866-portrait.png/revision/latest?cb=20230805043912",
+    "key": "Lilya-2kwrzuzJ6q",
+    "skin_name": "Neobest",
+    "sort": "4"
   }
 }
