@@ -1709,5 +1709,14 @@
     "key": "Roger-7wTDcJ8Fsw",
     "skin_name": "prime",
     "sort": "5"
+  },
+  "Clint-lxnSpJxjoI": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/clint%20collector.zip",
+    "hero": "Clint",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/1f/Hero139-portrait.png/revision/latest?cb=20230316133647",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/1f/Hero139-portrait.png/revision/latest?cb=20230316133647",
+    "key": "Clint-lxnSpJxjoI",
+    "skin_name": "Collector",
+    "sort": "1"
   }
 }
