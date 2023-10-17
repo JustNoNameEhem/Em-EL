@@ -1838,5 +1838,14 @@
     "key": "Layla-OsyLqOkk3q",
     "skin_name": "Starlight",
     "sort": "3"
+  },
+  "Vexana-SlZz4Y3HWO": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/vexana%20collector.zip",
+    "hero": "Vexana",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a0/Hero386-portrait.png/revision/latest?cb=20230917045309",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/a0/Hero386-portrait.png/revision/latest?cb=20230917045309",
+    "key": "Vexana-SlZz4Y3HWO",
+    "skin_name": "Collector",
+    "sort": "4"
   }
 }
