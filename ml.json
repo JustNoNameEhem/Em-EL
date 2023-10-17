@@ -1820,5 +1820,14 @@
     "key": "Kaja-XqxfozQfwk",
     "skin_name": "Epic",
     "sort": "1"
+  },
+  "Lancelot-dQneugdVXV": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/lancelot%20elite%20new.zip",
+    "hero": "Lancelot",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/05/Hero104711-portrait.png/revision/latest?cb=20230917045336",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/05/Hero104711-portrait.png/revision/latest?cb=20230917045336",
+    "key": "Lancelot-dQneugdVXV",
+    "skin_name": "Elite",
+    "sort": "2"
   }
 }
