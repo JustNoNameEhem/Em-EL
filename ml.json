@@ -1919,5 +1919,14 @@
     "key": "Ling-XRS1P0bIxh",
     "skin_name": "Lord Shen",
     "sort": "2"
+  },
+  "Melissa-gI5Hh7Fw3u": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/melissa%20star.zip",
+    "hero": "Melissa",
+    "img": "https://github.com/rahasia55/new/blob/main/melissa.png",
+    "img2": "https://github.com/rahasia55/new/blob/main/melissa.png",
+    "key": "Melissa-gI5Hh7Fw3u",
+    "skin_name": "Star",
+    "sort": "3"
   }
 }
