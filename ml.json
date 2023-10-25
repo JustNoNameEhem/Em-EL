@@ -1946,5 +1946,14 @@
     "key": "Parsha-lPIf7NrNad",
     "skin_name": "Epic",
     "sort": "3"
+  },
+  "Thamus-fAWLGFS0WS": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/thamuz%20kungfu%20panda.zip",
+    "hero": "Thamus",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/78/Hero725-portrait.png/revision/latest?cb=20220804115335",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/78/Hero725-portrait.png/revision/latest?cb=20220804115335",
+    "key": "Thamus-fAWLGFS0WS",
+    "skin_name": "General Kai",
+    "sort": "4"
   }
 }
