@@ -1928,5 +1928,14 @@
     "key": "Melissa-PSVNkTBDnP",
     "skin_name": "Star",
     "sort": "1"
+  },
+  "Odete-idaGbtqr2X": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/odette%20epic.zip",
+    "hero": "Odete",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/51/Hero464-portrait.png/revision/latest?cb=20220525165238",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/51/Hero464-portrait.png/revision/latest?cb=20220525165238",
+    "key": "Odete-idaGbtqr2X",
+    "skin_name": "Epic",
+    "sort": "2"
   }
 }
