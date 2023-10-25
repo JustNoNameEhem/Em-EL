@@ -1883,5 +1883,14 @@
     "key": "Aamon-lMHFfndyCF",
     "skin_name": "Star",
     "sort": "3"
+  },
+  "Fanny-0aHb9RBlGA": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/fanny%20valentine.zip",
+    "hero": "Fanny",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero101711-portrait.png/revision/latest?cb=20230212035453",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero101711-portrait.png/revision/latest?cb=20230212035453",
+    "key": "Fanny-0aHb9RBlGA",
+    "skin_name": "valentine",
+    "sort": "1"
   }
 }
