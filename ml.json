@@ -1865,5 +1865,14 @@
     "key": "Badang-38kzEzWy5a",
     "skin_name": "saint seiya",
     "sort": "1"
+  },
+  "Aldous-vuJs3lTryo": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/aldous%20transformers.zip",
+    "hero": "Aldous",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/36/Hero648-portrait.png/revision/latest?cb=20220525165625",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/36/Hero648-portrait.png/revision/latest?cb=20220525165625",
+    "key": "Aldous-vuJs3lTryo",
+    "skin_name": "transformers",
+    "sort": "2"
   }
 }
