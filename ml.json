@@ -1955,5 +1955,14 @@
     "key": "Thamus-fAWLGFS0WS",
     "skin_name": "General Kai",
     "sort": "4"
+  },
+  "Wanwan-EU9G2LMbM9": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/wanwan%20mworld.zip",
+    "hero": "Wanwan",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d7/Hero897-portrait.png/revision/latest?cb=20220525170132",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/d7/Hero897-portrait.png/revision/latest?cb=20220525170132",
+    "key": "Wanwan-EU9G2LMbM9",
+    "skin_name": "Mworld",
+    "sort": "2"
   }
 }
