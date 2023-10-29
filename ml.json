@@ -1991,5 +1991,14 @@
     "key": "Aurora-4zhROI9ujX",
     "skin_name": "Zodiac",
     "sort": "2"
+  },
+  "Balmond-FMbNsbAq8k": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/balmond%20collector.zip",
+    "hero": "Balmond",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/01/Hero025-portrait.png/revision/latest?cb=20220525164309",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/01/Hero025-portrait.png/revision/latest?cb=20220525164309",
+    "key": "Balmond-FMbNsbAq8k",
+    "skin_name": "Collector",
+    "sort": "3"
   }
 }
