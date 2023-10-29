@@ -2045,5 +2045,14 @@
     "key": "Franco-55k54xRfdb",
     "skin_name": "Epic",
     "sort": "5"
+  },
+  "Guinevere-okGyadThEe": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/guinevere%20kof.zip",
+    "hero": "Guinevere",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/2e/Hero803-portrait.png/revision/latest?cb=20220525165906",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/2e/Hero803-portrait.png/revision/latest?cb=20220525165906",
+    "key": "Guinevere-okGyadThEe",
+    "skin_name": "Kof",
+    "sort": "6"
   }
 }
