@@ -2018,5 +2018,14 @@
     "key": "Cyclops-zlJbuEB8DG",
     "skin_name": "Stars War",
     "sort": "2"
+  },
+  "Esmeralda-EeoLQRzw5q": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/esmeralda%20hero.zip",
+    "hero": "Esmeralda",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/ad/Hero817-portrait.png/revision/latest?cb=20220525165938",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/ad/Hero817-portrait.png/revision/latest?cb=20220525165938",
+    "key": "Esmeralda-EeoLQRzw5q",
+    "skin_name": "Dawning",
+    "sort": "3"
   }
 }
