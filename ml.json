@@ -2000,5 +2000,14 @@
     "key": "Balmond-FMbNsbAq8k",
     "skin_name": "Collector",
     "sort": "3"
+  },
+  "Chang'e-6wXHE7hqSn": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/change%20sanrio.zip",
+    "hero": "Chang'e",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/df/Moon_Artist.jpg/revision/latest?cb=20220217001724",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/df/Moon_Artist.jpg/revision/latest?cb=20220217001724",
+    "key": "Chang'e-6wXHE7hqSn",
+    "skin_name": "Sanrio",
+    "sort": "1"
   }
 }
