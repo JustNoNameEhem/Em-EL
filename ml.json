@@ -2054,5 +2054,14 @@
     "key": "Guinevere-okGyadThEe",
     "skin_name": "Kof",
     "sort": "6"
+  },
+  "Hayabusa-ivQOHiSkh6": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/hayabusa%20epic.zip",
+    "hero": "Hayabusa",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/79/Hero216-portrait.png/revision/latest?cb=20220525164755",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/79/Hero216-portrait.png/revision/latest?cb=20220525164755",
+    "key": "Hayabusa-ivQOHiSkh6",
+    "skin_name": "Epic",
+    "sort": "7"
   }
 }
