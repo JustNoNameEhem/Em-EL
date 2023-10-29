@@ -1982,5 +1982,14 @@
     "key": "Angela-Ry31WbhBGJ",
     "skin_name": "Aspirant",
     "sort": "1"
+  },
+  "Aurora-4zhROI9ujX": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/aurora%20zodiac.zip",
+    "hero": "Aurora",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/73/Hero365-portrait.png/revision/latest?cb=20221216103124",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/73/Hero365-portrait.png/revision/latest?cb=20221216103124",
+    "key": "Aurora-4zhROI9ujX",
+    "skin_name": "Zodiac",
+    "sort": "2"
   }
 }
