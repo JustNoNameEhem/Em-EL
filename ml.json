@@ -2135,5 +2135,14 @@
     "key": "Luo Yi-VfruLXiKVW",
     "skin_name": "Collector",
     "sort": "9"
+  },
+  "Moskov-n6Y6zEfAkc": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/moskov%20twilight%20dragon.zip",
+    "hero": "Moskov",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/84/Hero316-portrait.png/revision/latest?cb=20220525165004",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/84/Hero316-portrait.png/revision/latest?cb=20220525165004",
+    "key": "Moskov-n6Y6zEfAkc",
+    "skin_name": "Epic",
+    "sort": "10"
   }
 }
