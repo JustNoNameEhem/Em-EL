@@ -2099,5 +2099,14 @@
     "key": "Khufra-QBWKLYnI5J",
     "skin_name": "Collector",
     "sort": "4"
+  },
+  "Leomord-yFvscuKRzu": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/leomord%20epic.zip",
+    "hero": "Leomord",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero675-portrait.png/revision/latest?cb=20230514163416",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero675-portrait.png/revision/latest?cb=20230514163416",
+    "key": "Leomord-yFvscuKRzu",
+    "skin_name": "Epic",
+    "sort": "5"
   }
 }
