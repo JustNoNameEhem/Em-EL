@@ -2126,5 +2126,14 @@
     "key": "Lolita-SFZFxayKQv",
     "skin_name": "Lunar Fest",
     "sort": "8"
+  },
+  "Luo Yi-VfruLXiKVW": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/luo%20yi%20collector.zip",
+    "hero": "Luo Yi",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/51/Hero966-portrait.png/revision/latest?cb=20220628180005",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/51/Hero966-portrait.png/revision/latest?cb=20220628180005",
+    "key": "Luo Yi-VfruLXiKVW",
+    "skin_name": "Collector",
+    "sort": "9"
   }
 }
