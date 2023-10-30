@@ -2090,5 +2090,14 @@
     "key": "Karrie-csTfZ6cd49",
     "skin_name": "Epic",
     "sort": "3"
+  },
+  "Khufra-QBWKLYnI5J": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/khufra%20collector.zip",
+    "hero": "Khufra",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e8/Hero785-portrait.png/revision/latest?cb=20220525165828",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/e8/Hero785-portrait.png/revision/latest?cb=20220525165828",
+    "key": "Khufra-QBWKLYnI5J",
+    "skin_name": "Collector",
+    "sort": "4"
   }
 }
