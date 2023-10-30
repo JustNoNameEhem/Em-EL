@@ -2108,5 +2108,14 @@
     "key": "Leomord-yFvscuKRzu",
     "skin_name": "Epic",
     "sort": "5"
+  },
+  "Lesley-jGBThue6sS": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/lesley%20legend.zip",
+    "hero": "Lesley",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/2a/Hero537-portrait.png/revision/latest?cb=20220525165406",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/2a/Hero537-portrait.png/revision/latest?cb=20220525165406",
+    "key": "Lesley-jGBThue6sS",
+    "skin_name": "Legend",
+    "sort": "6"
   }
 }
