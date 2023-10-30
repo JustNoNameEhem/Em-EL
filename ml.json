@@ -2072,5 +2072,14 @@
     "key": "Johnson-DuFA3lmx0l",
     "skin_name": "Transformer",
     "sort": "1"
+  },
+  "Kagura-DIjQ4tqNQP": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/kagura%20star.zip",
+    "hero": "Kagura",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d5/Hero256-portrait.png/revision/latest?cb=20220525164844",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/d5/Hero256-portrait.png/revision/latest?cb=20220525164844",
+    "key": "Kagura-DIjQ4tqNQP",
+    "skin_name": "Star",
+    "sort": "2"
   }
 }
