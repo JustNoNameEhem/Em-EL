@@ -2216,5 +2216,14 @@
     "key": "Irithel-FKd0F8rpfk",
     "skin_name": "Zodiac",
     "sort": "2"
+  },
+  "Miya-m14EgiaERK": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/miya%20christmas.zip",
+    "hero": "Miya",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/67/Hero013-portrait.png/revision/latest?cb=20220525164212",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/67/Hero013-portrait.png/revision/latest?cb=20220525164212",
+    "key": "Miya-m14EgiaERK",
+    "skin_name": "Christmas",
+    "sort": "3"
   }
 }
