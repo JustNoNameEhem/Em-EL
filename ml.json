@@ -2198,5 +2198,14 @@
     "key": "Arlott-rzpSdJxole",
     "skin_name": "Star",
     "sort": "5"
+  },
+  "Claude-VKwQYGrz1t": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/claude%20epic.zip",
+    "hero": "Claude",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/63/Hero654-portrait.png/revision/latest?cb=20220525165637",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/63/Hero654-portrait.png/revision/latest?cb=20220525165637",
+    "key": "Claude-VKwQYGrz1t",
+    "skin_name": "Epic",
+    "sort": "1"
   }
 }
