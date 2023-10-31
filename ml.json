@@ -2225,5 +2225,14 @@
     "key": "Miya-m14EgiaERK",
     "skin_name": "Christmas",
     "sort": "3"
+  },
+  "Nana-OWk1gKCGHI": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/nana%20collector.zip",
+    "hero": "Nana",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e1/Hero058-portrait.png/revision/latest?cb=20220525164410",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/e1/Hero058-portrait.png/revision/latest?cb=20220525164410",
+    "key": "Nana-OWk1gKCGHI",
+    "skin_name": "Collector",
+    "sort": "4"
   }
 }
