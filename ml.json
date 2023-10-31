@@ -2207,5 +2207,14 @@
     "key": "Claude-VKwQYGrz1t",
     "skin_name": "Epic",
     "sort": "1"
+  },
+  "Irithel-FKd0F8rpfk": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/irithel%20zodiac.zip",
+    "hero": "Irithel",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/93/Hero435-portrait.png/revision/latest?cb=20220525165214",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/93/Hero435-portrait.png/revision/latest?cb=20220525165214",
+    "key": "Irithel-FKd0F8rpfk",
+    "skin_name": "Zodiac",
+    "sort": "2"
   }
 }
