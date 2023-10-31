@@ -2171,5 +2171,14 @@
     "key": "Angela-bfn4z2tOXr",
     "skin_name": "Annual star",
     "sort": "2"
+  },
+  "Angela-slIShSSQ8J": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/angela%20collector.zip",
+    "hero": "Angela",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/b5/Hero557-portrait.png/revision/latest?cb=20220525165436",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/b5/Hero557-portrait.png/revision/latest?cb=20220525165436",
+    "key": "Angela-slIShSSQ8J",
+    "skin_name": "Collector",
+    "sort": "3"
   }
 }
