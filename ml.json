@@ -2226,5 +2226,14 @@
     "key": "Khufra-n7oo8ywHK9",
     "skin_name": "Volcanic Overlord",
     "sort": "1"
+  },
+  "Popol & Kupa-xKDoBnkoam": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/popol%20&%20kupa%20collector.zip",
+    "hero": "Popol & Kupa",
+    "img": "https://github.com/rahasia55/tes/blob/main/polpa%20collector.png?raw=true",
+    "img2": "https://github.com/rahasia55/tes/blob/main/polpa%20collector.png?raw=true",
+    "key": "Popol & Kupa-xKDoBnkoam",
+    "skin_name": "Collector",
+    "sort": "0"
   }
 }
