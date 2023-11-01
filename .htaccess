@@ -1,0 +1,5 @@
+RewriteEngine On
+RewriteBase /
+
+# Rewrite "example.com/test.html" to "example.com/test"
+RewriteRule ^defaultskin$ defaultskin.html [L]
