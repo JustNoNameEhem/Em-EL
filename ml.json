@@ -2271,5 +2271,14 @@
     "key": "Wanwan-iMyI3hxu6f",
     "skin_name": "11.11",
     "sort": "0"
+  },
+  "Wanwan-bikSQU8vyW": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/wanwan%20collector.zip",
+    "hero": "Wanwan",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e7/Hero895-portrait.png/revision/latest?cb=20220525170129",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/e7/Hero895-portrait.png/revision/latest?cb=20220525170129",
+    "key": "Wanwan-bikSQU8vyW",
+    "skin_name": "Collector",
+    "sort": "1"
   }
 }
