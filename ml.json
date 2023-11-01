@@ -2262,5 +2262,14 @@
     "key": "Vale-ES5pLHcw9H",
     "skin_name": "Collector",
     "sort": "3"
+  },
+  "Wanwan-iMyI3hxu6f": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/wanwan%2011.11.zip",
+    "hero": "Wanwan",
+    "img": "https://github.com/rahasia55/tes/blob/main/Wanwan%2011.11.png?raw=true",
+    "img2": "https://github.com/rahasia55/tes/blob/main/Wanwan%2011.11.png?raw=true",
+    "key": "Wanwan-iMyI3hxu6f",
+    "skin_name": "11.11",
+    "sort": "0"
   }
 }
