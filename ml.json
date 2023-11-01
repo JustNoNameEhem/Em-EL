@@ -2235,5 +2235,14 @@
     "key": "Popol & Kupa-xKDoBnkoam",
     "skin_name": "Collector",
     "sort": "0"
+  },
+  "Rafaela-hKWbsKevnp": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/rafaela%20saber.zip",
+    "hero": "Rafaela",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f0/Hero145-portrait.png/revision/latest?cb=20220525164616",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/f0/Hero145-portrait.png/revision/latest?cb=20220525164616",
+    "key": "Rafaela-hKWbsKevnp",
+    "skin_name": "S.A.B.E.R",
+    "sort": "1"
   }
 }
