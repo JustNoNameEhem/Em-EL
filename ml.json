@@ -2298,5 +2298,14 @@
     "key": "Yu Zhong-h4IA8jIOgc",
     "skin_name": "M5",
     "sort": "3"
+  },
+  "Yu Zhong-YKDxIUMSXT": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/yu%20zhong%20prime.zip",
+    "hero": "Yu Zhong",
+    "img": "https://github.com/rahasia55/tes/blob/main/yu%20zhong%20prime.png?raw=true",
+    "img2": "https://github.com/rahasia55/tes/blob/main/yu%20zhong%20prime.png?raw=true",
+    "key": "Yu Zhong-YKDxIUMSXT",
+    "skin_name": "Prime",
+    "sort": "4"
   }
 }
