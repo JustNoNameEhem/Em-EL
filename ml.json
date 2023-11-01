@@ -2289,5 +2289,14 @@
     "key": "Yu Zhong-nIMI3rlM8x",
     "skin_name": "Collector",
     "sort": "2"
+  },
+  "Yu Zhong-h4IA8jIOgc": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/yu%20zhong%20m5.zip",
+    "hero": "Yu Zhong",
+    "img": "https://github.com/rahasia55/tes/blob/main/yu%20zhong%20m5.png?raw=true",
+    "img2": "https://github.com/rahasia55/tes/blob/main/yu%20zhong%20m5.png?raw=true",
+    "key": "Yu Zhong-h4IA8jIOgc",
+    "skin_name": "M5",
+    "sort": "3"
   }
 }
