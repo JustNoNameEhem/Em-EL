@@ -2316,5 +2316,14 @@
     "key": "Esmeralda-KgEs6dogFA",
     "skin_name": "Collector",
     "sort": "1"
+  },
+  "Gusion-G4cXjPcyp2": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/gusion%20legend.zip",
+    "hero": "Gusion",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Hero568-portrait.png/revision/latest?cb=20220525165451",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Hero568-portrait.png/revision/latest?cb=20220525165451",
+    "key": "Gusion-G4cXjPcyp2",
+    "skin_name": "Legend",
+    "sort": "2"
   }
 }
