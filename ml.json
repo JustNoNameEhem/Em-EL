@@ -2325,5 +2325,14 @@
     "key": "Gusion-G4cXjPcyp2",
     "skin_name": "Legend",
     "sort": "2"
+  },
+  "Kadita-S8GF1zoNS8": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/kadita%20mpl.zip",
+    "hero": "Kadita",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/40/Hero755-portrait.png/revision/latest?cb=20230805043909",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/40/Hero755-portrait.png/revision/latest?cb=20230805043909",
+    "key": "Kadita-S8GF1zoNS8",
+    "skin_name": "MPL",
+    "sort": "3"
   }
 }
