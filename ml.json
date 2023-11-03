@@ -2361,5 +2361,14 @@
     "key": "Ruby-PS8GVN3yrW",
     "skin_name": "Collector",
     "sort": "7"
+  },
+  "Valir-zEN6Ya9UkG": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/valir%20legend.zip",
+    "hero": "Valir",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Hero577-portrait.png/revision/latest?cb=20220525165502",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Hero577-portrait.png/revision/latest?cb=20220525165502",
+    "key": "Valir-zEN6Ya9UkG",
+    "skin_name": "Legend",
+    "sort": "8"
   }
 }
