@@ -2343,5 +2343,14 @@
     "key": "Ling-1udj40cbM5",
     "skin_name": "Dragon Tamer",
     "sort": "5"
+  },
+  "Ling-xD0iXqikP4": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/ling%20star.zip",
+    "hero": "Ling",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/0d/Hero843-portrait.png/revision/latest?cb=20220525170016",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/0d/Hero843-portrait.png/revision/latest?cb=20220525170016",
+    "key": "Ling-xD0iXqikP4",
+    "skin_name": "Star",
+    "sort": "6"
   }
 }
