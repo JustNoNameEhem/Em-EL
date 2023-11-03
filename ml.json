@@ -2370,5 +2370,14 @@
     "key": "Valir-zEN6Ya9UkG",
     "skin_name": "Legend",
     "sort": "8"
+  },
+  "Xavier-umPWwlWGHQ": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/xavier%20clouds.zip",
+    "hero": "Xavier",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Hero1155-portrait.png/revision/latest?cb=20230805043928",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Hero1155-portrait.png/revision/latest?cb=20230805043928",
+    "key": "Xavier-umPWwlWGHQ",
+    "skin_name": "Clouds",
+    "sort": "9"
   }
 }
