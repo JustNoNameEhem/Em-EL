@@ -142,5 +142,14 @@
     "key": "Aldous-rrAesztnmI",
     "skin_name": "Basic - Collector",
     "sort": "1"
+  },
+  "Aldous-ZtCivZ5UWR": {
+    "download": "https://github.com/rahasia55/New-Up-Skin/raw/main/aldous%20elite%20to%20collector.zip",
+    "hero": "Aldous",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/9c/Hero643-portrait.png/revision/latest?cb=20220525165620",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/bc/Hero647-portrait.png/revision/latest?cb=20220525165624",
+    "key": "Aldous-ZtCivZ5UWR",
+    "skin_name": "Elite - Collector",
+    "sort": "2"
   }
 }
