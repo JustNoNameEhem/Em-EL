@@ -214,5 +214,14 @@
     "key": "Alucard-3z0T9jRh2a",
     "skin_name": "Star - Legend",
     "sort": "7"
+  },
+  "Angela-UCv1SeUart": {
+    "download": "https://github.com/rahasia55/New-Up-Skin/blob/main/angela%20basic%20annual%20starlight.zip",
+    "hero": "Angela",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Hero552-portrait.png/revision/latest?cb=20220525165431",
+    "img2": "https://github.com/rahasia55/tes/blob/main/annual%20star.png?raw=true",
+    "key": "Angela-UCv1SeUart",
+    "skin_name": "Basic - annual star",
+    "sort": "8"
   }
 }
