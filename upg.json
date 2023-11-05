@@ -268,5 +268,14 @@
     "key": "Aurora-Rzeny1Mku1",
     "skin_name": "Basic - KOF",
     "sort": "12"
+  },
+  "Beatrix-2UnSzIPCmF": {
+    "download": "https://github.com/rahasia55/New-Up-Skin/blob/main/beatrix%20basic%20to%20prime.zip",
+    "hero": "Beatrix",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/35/Hero1052-portrait.png/revision/latest?cb=20220525170421",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/bc/Hero1056-portrait.png/revision/latest?cb=20221216103146",
+    "key": "Beatrix-2UnSzIPCmF",
+    "skin_name": "Basic - prime",
+    "sort": "12"
   }
 }
