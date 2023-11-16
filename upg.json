@@ -367,5 +367,14 @@
     "key": "Chou-oRVBXi9VBk",
     "skin_name": "Basic - S.T.U.N",
     "sort": "1"
+  },
+  "Chou-ZfxWUEVHHW": {
+    "download": "https://github.com/rahasia55/New-Up-Skin/raw/main/chou%20elite%20to%20echo.zip",
+    "hero": "Chou",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/af/Hero264-portrait.png/revision/latest?cb=20220525164852",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/ef/Hero102612-portrait.png/revision/latest?cb=20230805043953",
+    "key": "Chou-ZfxWUEVHHW",
+    "skin_name": "Elite - Echo",
+    "sort": "2"
   }
 }
