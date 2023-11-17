@@ -502,5 +502,14 @@
     "key": "Dyrroth-TDUSI6OiXo",
     "skin_name": "Basic - KOF",
     "sort": "1"
+  },
+  "Dyrroth-wd2X3aZ7GU": {
+    "download": "https://github.com/rahasia55/New-Up-Skin/raw/main/dyrroth%20basic%20to%20venom.zip",
+    "hero": "Dyrroth",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/2c/Hero852-portrait.png/revision/latest?cb=20220525170032",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/1b/Hero856-portrait.png/revision/latest?cb=20220525170036",
+    "key": "Dyrroth-wd2X3aZ7GU",
+    "skin_name": "Basic - VENOM",
+    "sort": "1"
   }
 }
