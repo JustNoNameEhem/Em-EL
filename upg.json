@@ -493,5 +493,14 @@
     "key": "Dyrroth-1Cf3nC1l2I",
     "skin_name": "Basic - Collector",
     "sort": "1"
+  },
+  "Dyrroth-TDUSI6OiXo": {
+    "download": "https://github.com/rahasia55/New-Up-Skin/raw/main/dyrroth%20basic%20to%20kof.zip",
+    "hero": "Dyrroth",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/2c/Hero852-portrait.png/revision/latest?cb=20220525170032",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/1d/Hero853-portrait.png/revision/latest?cb=20220525170033",
+    "key": "Dyrroth-TDUSI6OiXo",
+    "skin_name": "Basic - KOF",
+    "sort": "1"
   }
 }
