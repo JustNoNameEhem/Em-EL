@@ -430,5 +430,14 @@
     "key": "Claude-SxDECAUran",
     "skin_name": "Basic - Epic",
     "sort": "1"
+  },
+  "Claude-TDh2iueknn": {
+    "download": "https://github.com/rahasia55/New-Up-Skin/raw/main/claude%20basic%20to%20valentine.zip",
+    "hero": "Claude",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Hero652-portrait.png/revision/latest?cb=20220525165635",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/7e/Hero106510-portrait.png/revision/latest?cb=20230212035455",
+    "key": "Claude-TDh2iueknn",
+    "skin_name": "Basic - Valentine",
+    "sort": "1"
   }
 }
