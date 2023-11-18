@@ -565,5 +565,14 @@
     "key": "Bruno-X8ZGI3CCZJ",
     "skin_name": "Elite - Dawning",
     "sort": "3"
+  },
+  "Chou-SSNRMGMJz3": {
+    "download": "https://github.com/rahasia55/New-Up-Skin/raw/main/chou%20basic%20to%20kof.zip",
+    "hero": "Chou",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/fa/Hero262-portrait.png/revision/latest?cb=20220719071254",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/3c/Hero266-portrait.png/revision/latest?cb=20220525164854",
+    "key": "Chou-SSNRMGMJz3",
+    "skin_name": "Basic - KOF",
+    "sort": "1"
   }
 }
