@@ -574,5 +574,14 @@
     "key": "Chou-SSNRMGMJz3",
     "skin_name": "Basic - KOF",
     "sort": "1"
+  },
+  "Chou-LXlw6c93VY": {
+    "download": "https://github.com/rahasia55/New-Up-Skin/raw/main/chou%20elite%20to%20kof.zip",
+    "hero": "Chou",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/af/Hero264-portrait.png/revision/latest?cb=20220525164852",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/3c/Hero266-portrait.png/revision/latest?cb=20220525164854",
+    "key": "Chou-LXlw6c93VY",
+    "skin_name": "Elite - KOF",
+    "sort": "2"
   }
 }
