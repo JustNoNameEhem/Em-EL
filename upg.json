@@ -538,5 +538,14 @@
     "key": "Beatrix-Aj4Iigj3QJ",
     "skin_name": "Basic - Star",
     "sort": "1"
+  },
+  "Beatrix-E59WtCeio9": {
+    "download": "https://github.com/rahasia55/New-Up-Skin/raw/main/beatrix%20elite%20to%20star.zip",
+    "hero": "Beatrix",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/25/Hero1053-portrait.png/revision/latest?cb=20220525170422",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/02/Hero1054-portrait.png/revision/latest?cb=20220525170423",
+    "key": "Beatrix-E59WtCeio9",
+    "skin_name": "Elite - Star",
+    "sort": "2"
   }
 }
