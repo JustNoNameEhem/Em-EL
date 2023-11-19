@@ -754,5 +754,14 @@
     "key": "Granger-BvhLW19827",
     "skin_name": "Basic - Legend",
     "sort": "1"
+  },
+  "Granger-v5lGgv75PJ": {
+    "download": "https://github.com/rahasia55/New-Up-Skin/raw/main/granger%20elite%20to%20legend.zip",
+    "hero": "Granger",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/5b/Doomsday_Terminator.jpg/revision/latest?cb=20211010080956",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/25/Starfall_Knight.jpg/revision/latest?cb=20211010081115",
+    "key": "Granger-v5lGgv75PJ",
+    "skin_name": "Elite - Legend",
+    "sort": "2"
   }
 }
