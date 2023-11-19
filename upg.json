@@ -745,5 +745,14 @@
     "key": "Fredrin-JGtX7zp4TD",
     "skin_name": "Basic - Neobeast",
     "sort": "1"
+  },
+  "Granger-BvhLW19827": {
+    "download": "https://github.com/rahasia55/New-Up-Skin/raw/main/granger%20basic%20to%20legend.zip",
+    "hero": "Granger",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d8/Bardic_Whisper.jpg/revision/latest?cb=20211010080921",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/25/Starfall_Knight.jpg/revision/latest?cb=20211010081115",
+    "key": "Granger-BvhLW19827",
+    "skin_name": "Basic - Legend",
+    "sort": "1"
   }
 }
