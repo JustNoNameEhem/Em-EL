@@ -2434,5 +2434,14 @@
     "key": "Alucard-51pjAVTAnv",
     "skin_name": "Epic",
     "sort": "3"
+  },
+  "Alucard-aMJx9JcH7a": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/alu%20lightborn.zip",
+    "hero": "Alucard",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/13/Hero079-portrait.png/revision/latest?cb=20220920090132",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/13/Hero079-portrait.png/revision/latest?cb=20220920090132",
+    "key": "Alucard-aMJx9JcH7a",
+    "skin_name": "Lightborn",
+    "sort": "4"
   }
 }
