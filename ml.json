@@ -2398,5 +2398,14 @@
     "key": "Aldous-cIuV4srzzb",
     "skin_name": "M1",
     "sort": "2"
+  },
+  "Alice-N9Hitmcdne": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/alice%20epic.zip",
+    "hero": "Alice",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Hero043-portrait.png/revision/latest?cb=20220525164350",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Hero043-portrait.png/revision/latest?cb=20220525164350",
+    "key": "Alice-N9Hitmcdne",
+    "skin_name": "Epic",
+    "sort": "3"
   }
 }
