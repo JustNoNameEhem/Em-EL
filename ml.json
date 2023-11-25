@@ -2443,5 +2443,14 @@
     "key": "Alucard-aMJx9JcH7a",
     "skin_name": "Lightborn",
     "sort": "4"
+  },
+  "Alucard-LpkD9egPDR": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/alu%20valentine.zip",
+    "hero": "Alucard",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/28/Hero076-portrait.png/revision/latest?cb=20220525164441",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/28/Hero076-portrait.png/revision/latest?cb=20220525164441",
+    "key": "Alucard-LpkD9egPDR",
+    "skin_name": "Valentine",
+    "sort": "5"
   }
 }
