@@ -2389,5 +2389,14 @@
     "key": "Aamon-VOmFCZu22O",
     "skin_name": "Star",
     "sort": "1"
+  },
+  "Aldous-cIuV4srzzb": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/aldous%20m1.zip",
+    "hero": "Aldous",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/96/Hero645-portrait.png/revision/latest?cb=20220525165622",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/96/Hero645-portrait.png/revision/latest?cb=20220525165622",
+    "key": "Aldous-cIuV4srzzb",
+    "skin_name": "M1",
+    "sort": "2"
   }
 }
