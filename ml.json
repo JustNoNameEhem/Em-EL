@@ -2452,5 +2452,14 @@
     "key": "Alucard-LpkD9egPDR",
     "skin_name": "Valentine",
     "sort": "5"
+  },
+  "Arlott-yoL9Va5ini": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/arlott%20star.zip",
+    "hero": "Arlott",
+    "img": "https://pbs.twimg.com/media/F9hsK60bMAAAoem.jpg:large",
+    "img2": "https://pbs.twimg.com/media/F9hsK60bMAAAoem.jpg:large",
+    "key": "Arlott-yoL9Va5ini",
+    "skin_name": "Star",
+    "sort": "6"
   }
 }
