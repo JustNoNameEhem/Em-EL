@@ -2461,5 +2461,14 @@
     "key": "Arlott-yoL9Va5ini",
     "skin_name": "Star",
     "sort": "6"
+  },
+  "Atlas-xI1fEnjrj7": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/atlas%20elite.zip",
+    "hero": "Atlas",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/ec/Hero933-portrait.png/revision/latest?cb=20220525170224",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/ec/Hero933-portrait.png/revision/latest?cb=20220525170224",
+    "key": "Atlas-xI1fEnjrj7",
+    "skin_name": "Elite",
+    "sort": "7"
   }
 }
