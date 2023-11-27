@@ -1222,5 +1222,14 @@
     "key": "Alucard-WnM9lfMTlW",
     "skin_name": "Basic - Epic",
     "sort": "1"
+  },
+  "Alucard-LhtjbK56mG": {
+    "download": "https://github.com/rahasia55/New-Up-Skin/raw/main/alucard%20basic%20to%20lightborn.zip",
+    "hero": "Alucard",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/fe/Hero072-portrait.png/revision/latest?cb=20220525164436",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/fe/Hero072-portrait.png/revision/latest?cb=20220525164436",
+    "key": "Alucard-LhtjbK56mG",
+    "skin_name": "Basic - Lightborn",
+    "sort": "1"
   }
 }
