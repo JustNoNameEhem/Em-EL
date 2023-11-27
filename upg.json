@@ -1303,5 +1303,14 @@
     "key": "Alucard-tSq1rYViqv",
     "skin_name": "Empire Agent - Lightborn",
     "sort": "16"
+  },
+  "Alucard-0UKuZc80TJ": {
+    "download": "https://github.com/rahasia55/New-Up-Skin/raw/main/alucard%20season%20to%20lightborn.zip",
+    "hero": "Alucard",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/36/Hero073-portrait.png/revision/latest?cb=20220525164437",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/13/Hero079-portrait.png/revision/latest?cb=20220920090132",
+    "key": "Alucard-0UKuZc80TJ",
+    "skin_name": "Season - Lightborn",
+    "sort": "15"
   }
 }
