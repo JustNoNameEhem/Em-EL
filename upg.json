@@ -1240,5 +1240,14 @@
     "key": "Alucard-VnoPlSwZPU",
     "skin_name": "Empire Agent - Epic",
     "sort": "16"
+  },
+  "Alucard-ztzOSvSqBN": {
+    "download": "https://github.com/rahasia55/New-Up-Skin/raw/main/alucard%20empire%20agent%20to%20lightborn.zip",
+    "hero": "Alucard",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/14/Hero078-portrait.png/revision/latest?cb=20220525164443",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/13/Hero079-portrait.png/revision/latest?cb=20220920090132",
+    "key": "Alucard-ztzOSvSqBN",
+    "skin_name": "Empire Agent - Lightborn",
+    "sort": "16"
   }
 }
