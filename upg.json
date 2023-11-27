@@ -1312,5 +1312,14 @@
     "key": "Alucard-0UKuZc80TJ",
     "skin_name": "Season - Lightborn",
     "sort": "15"
+  },
+  "Alucard-lrYxVjVw7k": {
+    "download": "https://github.com/rahasia55/New-Up-Skin/raw/main/alucard%20star%20to%20epic.zip",
+    "hero": "Alucard",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/96/Hero075-portrait.png/revision/latest?cb=20220525164439",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/66/Hero074-portrait.png/revision/latest?cb=20220525164438",
+    "key": "Alucard-lrYxVjVw7k",
+    "skin_name": "Star - Epic",
+    "sort": "7"
   }
 }
