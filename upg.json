@@ -1501,5 +1501,14 @@
     "key": "Lancelot-unrFZkqIvK",
     "skin_name": "Floral > Hero",
     "sort": "9"
+  },
+  "Lancelot-CwSP15L3hf": {
+    "download": "https://raw.githubusercontent.com/AnehGamingOfficial/temp-ml/main/temp/AnehGamingOfficial-yp0t56kt8rk5csu2mzaf9dragon%20tamer-gmhpcs8qn29/AnehGamingOfficial.zip",
+    "hero": "Lancelot",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/25/Hero104710-portrait.png/revision/latest?cb=20220804115345",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/ee/Hero478-portrait.png/revision/latest?cb=20220525165251",
+    "key": "Lancelot-CwSP15L3hf",
+    "skin_name": "Dragon > Hero",
+    "sort": "10"
   }
 }
