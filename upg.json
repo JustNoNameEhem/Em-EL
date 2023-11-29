@@ -1447,5 +1447,14 @@
     "key": "Aldous-d8huZSxrR4",
     "skin_name": "Basic - mistbenders",
     "sort": "1"
+  },
+  "Aldous-AjOsEUQu0q": {
+    "download": "https://github.com/rahasia55/New-Up-Skin/raw/main/aldous%20elite%20to%20mistbenders.zip",
+    "hero": "Aldous",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/9c/Hero643-portrait.png/revision/latest?cb=20220525165620",
+    "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwkIjGrlRVbkKzTnQwB0JyNBDMFjyLC2E4PQ&usqp=CAU",
+    "key": "Aldous-AjOsEUQu0q",
+    "skin_name": "Elite - Mistbenders",
+    "sort": "2"
   }
 }
