@@ -1384,5 +1384,14 @@
     "key": "Lancelot-OE5tvdwQ5P",
     "skin_name": "Basic - Epic",
     "sort": "1"
+  },
+  "Lancelot-K2a70wshz9": {
+    "download": "https://github.com/rahasia55/New-Up-Skin/raw/main/lancelot%20basic%20to%20swordmaster.zip",
+    "hero": "Lancelot",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/fb/Hero472-portrait.png/revision/latest?cb=20220525165245",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/ee/Hero478-portrait.png/revision/latest?cb=20220525165251",
+    "key": "Lancelot-K2a70wshz9",
+    "skin_name": "Basic - Dawning",
+    "sort": "1"
   }
 }
