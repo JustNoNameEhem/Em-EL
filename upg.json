@@ -1393,5 +1393,14 @@
     "key": "Lancelot-K2a70wshz9",
     "skin_name": "Basic - Dawning",
     "sort": "1"
+  },
+  "Lancelot-w2P5d9hkdi": {
+    "download": "https://github.com/rahasia55/New-Up-Skin/raw/main/lancelot%20basic%20to%20zodiac.zip",
+    "hero": "Lancelot",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/fb/Hero472-portrait.png/revision/latest?cb=20220525165245",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Hero476-portrait.png/revision/latest?cb=20230212041010",
+    "key": "Lancelot-w2P5d9hkdi",
+    "skin_name": "Basic - Zodiac",
+    "sort": "1"
   }
 }
