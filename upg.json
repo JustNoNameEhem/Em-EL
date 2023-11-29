@@ -1339,5 +1339,14 @@
     "key": "Alucard-wkB6IHJYwJ",
     "skin_name": "Star - Lightborn",
     "sort": "0"
+  },
+  "Arlott-vjAvuhBrW6": {
+    "download": "https://github.com/rahasia55/New-Up-Skin/raw/main/arlott%20basic%20to%20star.zip",
+    "hero": "Arlott",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/db/Hero1202-portrait.png/revision/latest?cb=20230208125754",
+    "img2": "https://pbs.twimg.com/media/F9hsK60bMAAAoem.jpg:large",
+    "key": "Arlott-vjAvuhBrW6",
+    "skin_name": "Basic - Star",
+    "sort": "1"
   }
 }
