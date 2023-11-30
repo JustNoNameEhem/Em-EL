@@ -2561,5 +2561,14 @@
     "key": "Nana-AUK6cxUXhs",
     "skin_name": "Mistbenders",
     "sort": "4"
+  },
+  "Valentina-aBYk2VUPIG": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/valentina%20collector.zip",
+    "hero": "Valentina",
+    "img": "https://i.pinimg.com/originals/c3/91/86/c391861583e83aadcad1bd701298974c.jpg",
+    "img2": "https://i.pinimg.com/originals/c3/91/86/c391861583e83aadcad1bd701298974c.jpg",
+    "key": "Valentina-aBYk2VUPIG",
+    "skin_name": "Collector",
+    "sort": "5"
   }
 }
