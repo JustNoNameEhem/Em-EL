@@ -2552,5 +2552,14 @@
     "key": "Joy-6UcEorEQfj",
     "skin_name": "Elite",
     "sort": "3"
+  },
+  "Nana-AUK6cxUXhs": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/nana%20mistbender.zip",
+    "hero": "Nana",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThiyssLpYswRXjQog_RwJzYXvQvADVfWLV7A&usqp=CAU",
+    "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThiyssLpYswRXjQog_RwJzYXvQvADVfWLV7A&usqp=CAU",
+    "key": "Nana-AUK6cxUXhs",
+    "skin_name": "Mistbenders",
+    "sort": "4"
   }
 }
