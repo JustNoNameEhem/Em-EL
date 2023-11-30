@@ -2525,5 +2525,14 @@
     "key": "Nana-jQEDmHvAKN",
     "skin_name": "Mistbender",
     "sort": "1"
+  },
+  "Aldous-ZFWgSrLGA6": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/aldous%20mistbenders.zip",
+    "hero": "Aldous",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwkIjGrlRVbkKzTnQwB0JyNBDMFjyLC2E4PQ&usqp=CAU",
+    "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwkIjGrlRVbkKzTnQwB0JyNBDMFjyLC2E4PQ&usqp=CAU",
+    "key": "Aldous-ZFWgSrLGA6",
+    "skin_name": "Mistbenders",
+    "sort": "1"
   }
 }
