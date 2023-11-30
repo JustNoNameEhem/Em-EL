@@ -1546,5 +1546,14 @@
     "key": "Layla-wLMKqd0noJ",
     "skin_name": "Star - Aspirant",
     "sort": "7"
+  },
+  "Layla-CeOuF1scWM": {
+    "download": "https://github.com/rahasia55/New-Up-Skin/raw/main/layla%20basic%20to%20aspirant.zip",
+    "hero": "Layla",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/18/Hero182-portrait.png/revision/latest?cb=20220525164719",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/1c/Hero189-portrait.png/revision/latest?cb=20220525164729",
+    "key": "Layla-CeOuF1scWM",
+    "skin_name": "Basic - Aspirant",
+    "sort": "1"
   }
 }
