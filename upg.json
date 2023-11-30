@@ -1582,5 +1582,14 @@
     "key": "Ling-uNX59ZkiPj",
     "skin_name": "Basic - Kungfu Panda",
     "sort": "1"
+  },
+  "Ling-RtLYoA4GRd": {
+    "download": "https://github.com/rahasia55/New-Up-Skin/raw/main/ling%20basic%20to%20starlight.zip",
+    "hero": "Ling",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/be/Hero842-portrait.png/revision/latest?cb=20220525170015",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/0d/Hero843-portrait.png/revision/latest?cb=20220525170016",
+    "key": "Ling-RtLYoA4GRd",
+    "skin_name": "Basic - Star",
+    "sort": "1"
   }
 }
