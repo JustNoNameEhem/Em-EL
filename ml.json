@@ -2534,5 +2534,14 @@
     "key": "Aldous-ZFWgSrLGA6",
     "skin_name": "Mistbenders",
     "sort": "1"
+  },
+  "Harith-TnIemXVZWW": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/harith%20christmas.zip",
+    "hero": "Harith",
+    "img": "https://pbs.twimg.com/media/F96QiRmaIAAx-KQ?format=jpg&name=large",
+    "img2": "https://pbs.twimg.com/media/F96QiRmaIAAx-KQ?format=jpg&name=large",
+    "key": "Harith-TnIemXVZWW",
+    "skin_name": "Christmas",
+    "sort": "2"
   }
 }
