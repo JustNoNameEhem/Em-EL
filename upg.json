@@ -1771,5 +1771,14 @@
     "key": "Selena-DtrvWllHFo",
     "skin_name": "Elite - Abyss",
     "sort": "2"
+  },
+  "Selena-ICceMKMdrn": {
+    "download": "https://github.com/rahasia55/New-Up-Skin/raw/main/selena%20elite%20to%20zodiac.zip",
+    "hero": "Selena",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/92/Hero637-portrait.png/revision/latest?cb=20220525165608",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/40/Hero634-portrait.png/revision/latest?cb=20230514163409",
+    "key": "Selena-ICceMKMdrn",
+    "skin_name": "Elite Zodiac",
+    "sort": "2"
   }
 }
