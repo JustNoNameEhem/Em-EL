@@ -1816,5 +1816,14 @@
     "key": "X-Borg-7XEKSe3DsU",
     "skin_name": "Basic - Transformers",
     "sort": "1"
+  },
+  "X-Borg-VosVvdyAAN": {
+    "download": "https://github.com/rahasia55/New-Up-Skin/raw/main/xborg%20elite%20to%20bumblebee.zip",
+    "hero": "X-Borg",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/ad/Moto_Drifter.jpg/revision/latest?cb=20210825031848",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/ab/Bumblebee.jpg/revision/latest?cb=20220203090121",
+    "key": "X-Borg-VosVvdyAAN",
+    "skin_name": "Elite - transformers",
+    "sort": "2"
   }
 }
