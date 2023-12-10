@@ -1933,5 +1933,14 @@
     "key": "Balerick-HVLQMgofdQ",
     "skin_name": "Basic - Special",
     "sort": "1"
+  },
+  "Nana-WpGQJSbMTd": {
+    "download": "https://github.com/rahasia55/New-Up-Skin/raw/main/nana%20elite%20slumber%20to%20mistbenders.zip",
+    "hero": "Nana",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/41/Hero054-portrait.png/revision/latest?cb=20220525164406",
+    "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCZG14AR9bBor5qn3UmVlI91RRPvpPfFYe4Q&usqp=CAU",
+    "key": "Nana-WpGQJSbMTd",
+    "skin_name": "Elite - Mistbenders",
+    "sort": "2"
   }
 }
