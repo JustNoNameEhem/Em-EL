@@ -1978,5 +1978,14 @@
     "key": "Zilong-M3nGjc11Lo",
     "skin_name": "Elite - Summer",
     "sort": "2"
+  },
+  "Zilong-slAr3O2HVV": {
+    "download": "https://github.com/rahasia55/New-Up-Skin/raw/main/zilong%20loyal%20spear%20to%20summer.zip",
+    "hero": "Zilong",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f1/Hero168-portrait.png/revision/latest?cb=20220525164652",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/9b/Hero169-portrait.png/revision/latest?cb=20220908164047",
+    "key": "Zilong-slAr3O2HVV",
+    "skin_name": "Loyal Spear - Summer",
+    "sort": "16"
   }
 }
