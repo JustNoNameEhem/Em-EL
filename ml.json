@@ -2579,5 +2579,14 @@
     "key": "Badang-PRK2wgUTk5",
     "skin_name": "Collector",
     "sort": "2"
+  },
+  "Badang-i8kaatDLdU": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/badang%20zodiac.zip",
+    "hero": "Badang",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/89/Hero774-portrait.png/revision/latest?cb=20230623125824",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/89/Hero774-portrait.png/revision/latest?cb=20230623125824",
+    "key": "Badang-i8kaatDLdU",
+    "skin_name": "Zodiac",
+    "sort": "3"
   }
 }
