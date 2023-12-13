@@ -2597,5 +2597,14 @@
     "key": "Balerick-bxs90qzP4T",
     "skin_name": "Elite",
     "sort": "4"
+  },
+  "Balerick-RNpmOmlNPm": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/belerick%20special2.zip",
+    "hero": "Balerick",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/bc/Emerald_Guardian.jpg/revision/latest?cb=20220324085057",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/bc/Emerald_Guardian.jpg/revision/latest?cb=20220324085057",
+    "key": "Balerick-RNpmOmlNPm",
+    "skin_name": "Special",
+    "sort": "5"
   }
 }
