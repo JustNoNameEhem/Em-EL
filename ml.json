@@ -2624,5 +2624,14 @@
     "key": "Zhask-Yjo8WFkGyf",
     "skin_name": "Epic",
     "sort": "1"
+  },
+  "Zhask-V75L45QFei": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/zhask%20zodiac.zip",
+    "hero": "Zhask",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/0a/Hero504-portrait.png/revision/latest?cb=20230623125728",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/0a/Hero504-portrait.png/revision/latest?cb=20230623125728",
+    "key": "Zhask-V75L45QFei",
+    "skin_name": "Zodiac",
+    "sort": "2"
   }
 }
