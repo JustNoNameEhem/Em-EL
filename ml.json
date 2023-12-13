@@ -2606,5 +2606,14 @@
     "key": "Balerick-RNpmOmlNPm",
     "skin_name": "Special",
     "sort": "5"
+  },
+  "Yve-FWxcs112JT": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/yve%20elite.zip",
+    "hero": "Yve",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/66/Hero1013-portrait.png/revision/latest?cb=20220525170335",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/66/Hero1013-portrait.png/revision/latest?cb=20220525170335",
+    "key": "Yve-FWxcs112JT",
+    "skin_name": "Elite",
+    "sort": "6"
   }
 }
