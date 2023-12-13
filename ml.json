@@ -2588,5 +2588,14 @@
     "key": "Badang-i8kaatDLdU",
     "skin_name": "Zodiac",
     "sort": "3"
+  },
+  "Balerick-bxs90qzP4T": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/belerick%20elite.zip",
+    "hero": "Balerick",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/14/Torch_Guardian_%28rework%29.jpg/revision/latest?cb=20211222023805",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/14/Torch_Guardian_%28rework%29.jpg/revision/latest?cb=20211222023805",
+    "key": "Balerick-bxs90qzP4T",
+    "skin_name": "Elite",
+    "sort": "4"
   }
 }
