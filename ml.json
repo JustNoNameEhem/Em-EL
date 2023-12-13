@@ -2642,5 +2642,14 @@
     "key": "Zilong-lMWvd9rC3P",
     "skin_name": "Epic",
     "sort": "3"
+  },
+  "Zilong-OaOaEETV8h": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/zilong%20summer.zip",
+    "hero": "Zilong",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/9b/Hero169-portrait.png/revision/latest?cb=20220908164047",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/9b/Hero169-portrait.png/revision/latest?cb=20220908164047",
+    "key": "Zilong-OaOaEETV8h",
+    "skin_name": "Summer",
+    "sort": "4"
   }
 }
