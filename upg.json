@@ -2104,5 +2104,14 @@
     "key": "X-Borg-BdPC7pl6Xd",
     "skin_name": "Basic - Epic",
     "sort": "1"
+  },
+  "X-Borg-NC5yi7QbHK": {
+    "download": "https://github.com/rahasia55/New-Up-Skin/raw/main/xborg%20elite%20to%20epic.zip",
+    "hero": "X-Borg",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/ad/Moto_Drifter.jpg/revision/latest?cb=20210825031848",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/1b/Tesla_Maniac.jpg/revision/latest?cb=20211215020419",
+    "key": "X-Borg-NC5yi7QbHK",
+    "skin_name": "Elite - Epic",
+    "sort": "2"
   }
 }
