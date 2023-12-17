@@ -2032,5 +2032,14 @@
     "key": "Wanwan-5qkVSaQq7x",
     "skin_name": "Basic - Collector",
     "sort": "1"
+  },
+  "Wanwan-0IxQVDE6Lp": {
+    "download": "https://github.com/rahasia55/New-Up-Skin/raw/main/wanwan%20basic%20to%20mpl.zip",
+    "hero": "Wanwan",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/0d/Hero892-portrait.png/revision/latest?cb=20220525170126",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/82/Hero896-portrait.png/revision/latest?cb=20220525170131",
+    "key": "Wanwan-0IxQVDE6Lp",
+    "skin_name": "Basic - MPL",
+    "sort": "1"
   }
 }
