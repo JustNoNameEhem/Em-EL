@@ -2050,5 +2050,14 @@
     "key": "Wanwan-kFDOp8Xdul",
     "skin_name": "Basic - Mworld",
     "sort": "1"
+  },
+  "Wanwan-Rrm3tVbcUy": {
+    "download": "https://github.com/rahasia55/New-Up-Skin/raw/main/wanwan%20elite%20to%20collector.zip",
+    "hero": "Wanwan",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/1c/Hero893-portrait.png/revision/latest?cb=20220525170127",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/e7/Hero895-portrait.png/revision/latest?cb=20220525170129",
+    "key": "Wanwan-Rrm3tVbcUy",
+    "skin_name": "Elite - Collector",
+    "sort": "2"
   }
 }
