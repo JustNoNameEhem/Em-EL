@@ -2660,5 +2660,14 @@
     "key": "Vexana-aDMWZc1Weu",
     "skin_name": "Epic",
     "sort": "1"
+  },
+  "Vexana-UPuDCculVm": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/vexana%20star.zip",
+    "hero": "Vexana",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a9/Hero385-portrait.png/revision/latest?cb=20221103134615",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/a9/Hero385-portrait.png/revision/latest?cb=20221103134615",
+    "key": "Vexana-UPuDCculVm",
+    "skin_name": "Star",
+    "sort": "2"
   }
 }
