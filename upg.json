@@ -2275,5 +2275,14 @@
     "key": "Lapu-Lapu-O4OkqmXcrX",
     "skin_name": "Basic - Collector",
     "sort": "1"
+  },
+  "Lapu-Lapu-T9KiLFnXGa": {
+    "download": "https://github.com/rahasia55/New-Up-Skin/raw/main/lapu%20lapu%20elite%20to%20collector.zip",
+    "hero": "Lapu-Lapu",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/ea/Hero373-portrait.png/revision/latest?cb=20220525165116",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/f5/Hero377-portrait.png/revision/latest?cb=20240114105426",
+    "key": "Lapu-Lapu-T9KiLFnXGa",
+    "skin_name": "Elite - Collector",
+    "sort": "2"
   }
 }
