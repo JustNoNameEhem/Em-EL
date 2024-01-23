@@ -2329,5 +2329,14 @@
     "key": "Valir-qWmB4EcMdS",
     "skin_name": "Basic - Star",
     "sort": "0"
+  },
+  "Valir-Ua5GvqpUk2": {
+    "download": "https://github.com/rahasia55/New-Up-Skin/raw/main/valir%20basic%20to%20collector.zip",
+    "hero": "Valir",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/0d/Hero572-portrait.png/revision/latest?cb=20220525165457",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/9c/Hero576-portrait.png/revision/latest?cb=20220525165501",
+    "key": "Valir-Ua5GvqpUk2",
+    "skin_name": "Basic - Collector",
+    "sort": "1"
   }
 }
