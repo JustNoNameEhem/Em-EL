@@ -2759,5 +2759,14 @@
     "key": "Karrie-bJ4t9ApbiT",
     "skin_name": "Epic",
     "sort": "1"
+  },
+  "Natan-MtjTCciJUr": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/natan%20special.zip",
+    "hero": "Natan",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/db/Hero1076-portrait.png/revision/latest?cb=20240114153250",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/db/Hero1076-portrait.png/revision/latest?cb=20240114153250",
+    "key": "Natan-MtjTCciJUr",
+    "skin_name": "Special",
+    "sort": "2"
   }
 }
