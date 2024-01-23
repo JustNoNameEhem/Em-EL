@@ -2356,5 +2356,14 @@
     "key": "Valir-ba5IlPEQI3",
     "skin_name": "Basic - Seiya",
     "sort": "1"
+  },
+  "Valir-fmaRdxOwWN": {
+    "download": "https://github.com/rahasia55/New-Up-Skin/raw/main/valir%20star%20to%20saint%20seiya2.zip",
+    "hero": "Valir",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/cb/Hero574-portrait.png/revision/latest?cb=20220525165459",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/d9/Hero579-portrait.png/revision/latest?cb=20220915121957",
+    "key": "Valir-fmaRdxOwWN",
+    "skin_name": "Star - Seiya",
+    "sort": "7"
   }
 }
