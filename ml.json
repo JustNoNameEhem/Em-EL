@@ -2795,5 +2795,14 @@
     "key": "Chou-81Ykulxgiz",
     "skin_name": "Zero One",
     "sort": "2"
+  },
+  "Chou-usokSRf87P": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/chou%20x%20rock%20lee.zip",
+    "hero": "Chou",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFk37UEPu4l_-_JHLKh10QKgv6p077mlBgKw&usqp=CAU",
+    "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFk37UEPu4l_-_JHLKh10QKgv6p077mlBgKw&usqp=CAU",
+    "key": "Chou-usokSRf87P",
+    "skin_name": "Rock Lee",
+    "sort": "3"
   }
 }
