@@ -2786,5 +2786,14 @@
     "key": "Aamon-kWIoqMAZCT",
     "skin_name": "Alhaitham",
     "sort": "1"
+  },
+  "Chou-81Ykulxgiz": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/chou%20x%20kamen%20rider%20zero%20one.zip",
+    "hero": "Chou",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjzEhlCCjzFPxBI4jR72csaixQ3cO_e7jGmA&usqp=CAU",
+    "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjzEhlCCjzFPxBI4jR72csaixQ3cO_e7jGmA&usqp=CAU",
+    "key": "Chou-81Ykulxgiz",
+    "skin_name": "Zero One",
+    "sort": "2"
   }
 }
