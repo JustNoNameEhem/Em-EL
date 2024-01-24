@@ -2813,5 +2813,14 @@
     "key": "Lancelot-qy4YS5QJwg",
     "skin_name": "Kirigakure Saizo",
     "sort": "4"
+  },
+  "Martis-n8DTfU8XK7": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/martis%20x%20madara.zip",
+    "hero": "Martis",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHQVQrcpmS3TIggtbNLHpjh1KCKI4L5kaeUg&usqp=CAU",
+    "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHQVQrcpmS3TIggtbNLHpjh1KCKI4L5kaeUg&usqp=CAU",
+    "key": "Martis-n8DTfU8XK7",
+    "skin_name": "Madara",
+    "sort": "5"
   }
 }
