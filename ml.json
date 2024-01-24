@@ -2831,5 +2831,14 @@
     "key": "Silvana-E5hb2JHQJ0",
     "skin_name": "Ino",
     "sort": "1"
+  },
+  "Zilong-4Rcg9Gn8Dm": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/zilong%20x%20sasuke.zip",
+    "hero": "Zilong",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSysdupo2lVuDuX3qom0WA_vuqL0pWRQkkFWQ&usqp=CAU",
+    "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSysdupo2lVuDuX3qom0WA_vuqL0pWRQkkFWQ&usqp=CAU",
+    "key": "Zilong-4Rcg9Gn8Dm",
+    "skin_name": "Sasuke",
+    "sort": "2"
   }
 }
