@@ -2912,5 +2912,14 @@
     "key": "Benedetta-oqxPC4iTvh",
     "skin_name": "Okita Souji",
     "sort": "3"
+  },
+  "Chou-oUgXTO1AaF": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/chou%20x%20eren.zip",
+    "hero": "Chou",
+    "img": "https://github.com/rahasia55/tes/blob/main/chou%20x%20eren.png",
+    "img2": "https://github.com/rahasia55/tes/blob/main/chou%20x%20eren.png",
+    "key": "Chou-oUgXTO1AaF",
+    "skin_name": "Eren",
+    "sort": "4"
   }
 }
