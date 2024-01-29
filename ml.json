@@ -2885,5 +2885,14 @@
     "key": "Martis-pAOfvujE8W",
     "skin_name": "Levi",
     "sort": "2"
+  },
+  "Badang-JdiPCghzBB": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/badang%20x%20neji.zip",
+    "hero": "Badang",
+    "img": "https://raw.githubusercontent.com/rahasia55/tes/main/badang%20x%20neji.png",
+    "img2": "https://raw.githubusercontent.com/rahasia55/tes/main/badang%20x%20neji.png",
+    "key": "Badang-JdiPCghzBB",
+    "skin_name": "Neji",
+    "sort": "1"
   }
 }
