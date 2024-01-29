@@ -2984,5 +2984,14 @@
     "key": "Sun-MzeujlLidG",
     "skin_name": "Naruto",
     "sort": "4"
+  },
+  "Zilong-j1mh5gpNLj": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/zilong%20maeda%20keiji.zip",
+    "hero": "Zilong",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_wdWuj5YtNx7RXGUteT3guLA0Fjh_ZRK2lg&usqp=CAU",
+    "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_wdWuj5YtNx7RXGUteT3guLA0Fjh_ZRK2lg&usqp=CAU",
+    "key": "Zilong-j1mh5gpNLj",
+    "skin_name": "Maeda Keiji",
+    "sort": "5"
   }
 }
