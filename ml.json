@@ -2939,5 +2939,14 @@
     "key": "Dyrroth-DsOeL84LBD",
     "skin_name": "Killua Zolydick",
     "sort": "6"
+  },
+  "Kadita-Z0jqC6eXTp": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/kadita%20x%20conan.zip",
+    "hero": "Kadita",
+    "img": "https://github.com/rahasia55/tes/blob/main/kadita%20x%20conan.png",
+    "img2": "https://github.com/rahasia55/tes/blob/main/kadita%20x%20conan.png",
+    "key": "Kadita-Z0jqC6eXTp",
+    "skin_name": "Conan",
+    "sort": "7"
   }
 }
