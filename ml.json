@@ -2903,5 +2903,14 @@
     "key": "Barats-8SUStg8Qju",
     "skin_name": "Colossal Titan",
     "sort": "2"
+  },
+  "Benedetta-oqxPC4iTvh": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/benedetta%20x%20okita%20souji.zip",
+    "hero": "Benedetta",
+    "img": "https://github.com/rahasia55/tes/blob/main/benedetta%20x%20okita%20souji.png",
+    "img2": "https://github.com/rahasia55/tes/blob/main/benedetta%20x%20okita%20souji.png",
+    "key": "Benedetta-oqxPC4iTvh",
+    "skin_name": "Okita Souji",
+    "sort": "3"
   }
 }
