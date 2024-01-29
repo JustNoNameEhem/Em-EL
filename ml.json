@@ -2975,5 +2975,14 @@
     "key": "Roger-rAR5GlAH8d",
     "skin_name": "Porco",
     "sort": "3"
+  },
+  "Sun-MzeujlLidG": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/sun%20x%20naruto.zip",
+    "hero": "Sun",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqSxHw6tJ0Y768WH6T7z2pgRQ5XfGECpA_dA&usqp=CAU",
+    "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqSxHw6tJ0Y768WH6T7z2pgRQ5XfGECpA_dA&usqp=CAU",
+    "key": "Sun-MzeujlLidG",
+    "skin_name": "Naruto",
+    "sort": "4"
   }
 }
