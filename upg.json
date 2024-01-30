@@ -2419,5 +2419,14 @@
     "key": "Fanny-1e8XCUWJHp",
     "skin_name": "Season - AOT",
     "sort": "15"
+  },
+  "Martis-VrsSlrHehc": {
+    "download": "https://github.com/rahasia55/New-Up-Skin/raw/main/martis%20basic%20to%20aot.zip",
+    "hero": "Martis",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/7b/Hero582-portrait.png/revision/latest?cb=20220525165506",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/c/c6/Hero587-portrait.png/revision/latest?cb=20240129101655",
+    "key": "Martis-VrsSlrHehc",
+    "skin_name": "Basic - AOT",
+    "sort": "1"
   }
 }
