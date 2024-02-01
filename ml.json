@@ -3002,5 +3002,14 @@
     "key": "Granger-E77ImCO7wc",
     "skin_name": "Valentine",
     "sort": "0"
+  },
+  "Silvana-N5dITTNZgI": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/silvanna%20valentine.zip",
+    "hero": "Silvana",
+    "img": "https://pbs.twimg.com/media/GE7Bbe4bMAA64kN?format=jpg&name=4096x4096",
+    "img2": "https://pbs.twimg.com/media/GE7Bbe4bMAA64kN?format=jpg&name=4096x4096",
+    "key": "Silvana-N5dITTNZgI",
+    "skin_name": "Valentine",
+    "sort": "1"
   }
 }
