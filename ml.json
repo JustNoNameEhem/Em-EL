@@ -3011,5 +3011,14 @@
     "key": "Silvana-N5dITTNZgI",
     "skin_name": "Valentine",
     "sort": "1"
+  },
+  "Minsittar-VmkVKjZBMX": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/minsitthar%20collector.zip",
+    "hero": "Minsittar",
+    "img": "https://pbs.twimg.com/media/GE7CfyjbAAAY4SW?format=jpg&name=4096x4096",
+    "img2": "https://pbs.twimg.com/media/GE7CfyjbAAAY4SW?format=jpg&name=4096x4096",
+    "key": "Minsittar-VmkVKjZBMX",
+    "skin_name": "Collector",
+    "sort": "2"
   }
 }
