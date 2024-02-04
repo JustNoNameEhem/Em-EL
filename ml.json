@@ -3074,5 +3074,14 @@
     "key": "Badang-LIC84QsI33",
     "skin_name": "Madara",
     "sort": "5"
+  },
+  "Benedetta-beQD72S5UK": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/benedetta%20x%20shinobu.zip",
+    "hero": "Benedetta",
+    "img": "https://raw.githubusercontent.com/rahasia55/tes/main/benedetta%20x%20shinobu.png",
+    "img2": "https://raw.githubusercontent.com/rahasia55/tes/main/benedetta%20x%20shinobu.png",
+    "key": "Benedetta-beQD72S5UK",
+    "skin_name": "Shinobu",
+    "sort": "6"
   }
 }
