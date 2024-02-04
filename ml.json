@@ -3065,5 +3065,14 @@
     "key": "Badang-jpA4Y5dDiu",
     "skin_name": "Genos",
     "sort": "4"
+  },
+  "Badang-LIC84QsI33": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/badang%20x%20madara.zip",
+    "hero": "Badang",
+    "img": "https://raw.githubusercontent.com/rahasia55/tes/main/badang%20x%20madara.png",
+    "img2": "https://raw.githubusercontent.com/rahasia55/tes/main/badang%20x%20madara.png",
+    "key": "Badang-LIC84QsI33",
+    "skin_name": "Madara",
+    "sort": "5"
   }
 }
