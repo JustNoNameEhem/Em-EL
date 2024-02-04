@@ -3092,5 +3092,14 @@
     "key": "Bruno-h2YcPyNSqA",
     "skin_name": "Tsubasa",
     "sort": "7"
+  },
+  "Chou-HFKbAyLzSp": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/chou%20armored%20titan.zip",
+    "hero": "Chou",
+    "img": "https://raw.githubusercontent.com/rahasia55/tes/main/chou%20armored%20titan.png",
+    "img2": "https://raw.githubusercontent.com/rahasia55/tes/main/chou%20armored%20titan.png",
+    "key": "Chou-HFKbAyLzSp",
+    "skin_name": "Armored Titan",
+    "sort": "8"
   }
 }
