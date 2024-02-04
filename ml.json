@@ -3047,5 +3047,14 @@
     "key": "Arlott-7Rof7FXqMD",
     "skin_name": "Iguro Obanai",
     "sort": "2"
+  },
+  "Arlott-lqTPd6l6X1": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/arlott%20x%20kirito.zip",
+    "hero": "Arlott",
+    "img": "https://raw.githubusercontent.com/rahasia55/tes/main/arlott%20x%20kirito.png",
+    "img2": "https://raw.githubusercontent.com/rahasia55/tes/main/arlott%20x%20kirito.png",
+    "key": "Arlott-lqTPd6l6X1",
+    "skin_name": "Kirito",
+    "sort": "3"
   }
 }
