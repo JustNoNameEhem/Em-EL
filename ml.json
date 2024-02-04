@@ -3056,5 +3056,14 @@
     "key": "Arlott-lqTPd6l6X1",
     "skin_name": "Kirito",
     "sort": "3"
+  },
+  "Badang-jpA4Y5dDiu": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/badang%20x%20genos.zip",
+    "hero": "Badang",
+    "img": "https://raw.githubusercontent.com/rahasia55/tes/main/badang%20x%20genos.png",
+    "img2": "https://raw.githubusercontent.com/rahasia55/tes/main/badang%20x%20genos.png",
+    "key": "Badang-jpA4Y5dDiu",
+    "skin_name": "Genos",
+    "sort": "4"
   }
 }
