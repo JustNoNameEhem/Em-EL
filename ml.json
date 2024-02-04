@@ -3038,5 +3038,14 @@
     "key": "Alucard-fd7x98i761",
     "skin_name": "Ichigo",
     "sort": "1"
+  },
+  "Arlott-7Rof7FXqMD": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/arlott%20x%20iguro%20obanai.zip",
+    "hero": "Arlott",
+    "img": "https://raw.githubusercontent.com/rahasia55/tes/main/arlott%20x%20iguro%20obanai.png",
+    "img2": "https://raw.githubusercontent.com/rahasia55/tes/main/arlott%20x%20iguro%20obanai.png",
+    "key": "Arlott-7Rof7FXqMD",
+    "skin_name": "Iguro Obanai",
+    "sort": "2"
   }
 }
