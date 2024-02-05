@@ -3146,5 +3146,14 @@
     "key": "Hayabusa-QIPGi2FCOT",
     "skin_name": "Itachi",
     "sort": "4"
+  },
+  "Julian-xFZ3gxu70q": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/julian%20x%20ursed%20weapon.zip",
+    "hero": "Julian",
+    "img": "https://github.com/rahasia55/tes/blob/main/julian%20x%20ursed%20weapon.png",
+    "img2": "https://github.com/rahasia55/tes/blob/main/julian%20x%20ursed%20weapon.png",
+    "key": "Julian-xFZ3gxu70q",
+    "skin_name": "Ursed Weapon",
+    "sort": "1"
   }
 }
