@@ -3173,5 +3173,14 @@
     "key": "Ling-hvAbmmn31a",
     "skin_name": "Itachi Anbu",
     "sort": "3"
+  },
+  "Ling-VOICDwRTTX": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/ling%20x%20sasuke.zip",
+    "hero": "Ling",
+    "img": "https://raw.githubusercontent.com/rahasia55/tes/main/ling%20x%20sasuke.png",
+    "img2": "https://raw.githubusercontent.com/rahasia55/tes/main/ling%20x%20sasuke.png",
+    "key": "Ling-VOICDwRTTX",
+    "skin_name": "Sasuke",
+    "sort": "4"
   }
 }
