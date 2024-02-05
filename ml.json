@@ -3119,5 +3119,14 @@
     "key": "Claude-bWZVrlp9l5",
     "skin_name": "Konohamaru",
     "sort": "1"
+  },
+  "Gusion-VHmoZF8STq": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/gusion%20x%20minato.zip",
+    "hero": "Gusion",
+    "img": "https://raw.githubusercontent.com/rahasia55/tes/main/gusion%20x%20minato.png",
+    "img2": "https://raw.githubusercontent.com/rahasia55/tes/main/gusion%20x%20minato.png",
+    "key": "Gusion-VHmoZF8STq",
+    "skin_name": "Minato",
+    "sort": "2"
   }
 }
