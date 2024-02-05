@@ -3209,5 +3209,14 @@
     "key": "Selena-fUFObOlDGW",
     "skin_name": "Nezoku",
     "sort": "1"
+  },
+  "Tigreal-XUPs125TxD": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/tigreal%20x%20thor.zip",
+    "hero": "Tigreal",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkzgnHTAyc36YU8Eyc28GEaohs7zFR6voxKA&usqp=CAU",
+    "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkzgnHTAyc36YU8Eyc28GEaohs7zFR6voxKA&usqp=CAU",
+    "key": "Tigreal-XUPs125TxD",
+    "skin_name": "Thor",
+    "sort": "2"
   }
 }
