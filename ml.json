@@ -3128,5 +3128,14 @@
     "key": "Gusion-VHmoZF8STq",
     "skin_name": "Minato",
     "sort": "2"
+  },
+  "Hayabusa-n38a8A5jrl": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/haya%20x%20kakasih.zip",
+    "hero": "Hayabusa",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBIZd2lew8fGJTXztBcBMd70J_-sspmaO5UA&usqp=CAU",
+    "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBIZd2lew8fGJTXztBcBMd70J_-sspmaO5UA&usqp=CAU",
+    "key": "Hayabusa-n38a8A5jrl",
+    "skin_name": "kakashi",
+    "sort": "3"
   }
 }
