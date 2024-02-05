@@ -3110,5 +3110,14 @@
     "key": "Chou-c9dW0YQZp7",
     "skin_name": "Itadori",
     "sort": "9"
+  },
+  "Claude-bWZVrlp9l5": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/claude%20x%20konohamaru.zip",
+    "hero": "Claude",
+    "img": "https://raw.githubusercontent.com/rahasia55/tes/main/claude%20x%20konohamaru.png",
+    "img2": "https://raw.githubusercontent.com/rahasia55/tes/main/claude%20x%20konohamaru.png",
+    "key": "Claude-bWZVrlp9l5",
+    "skin_name": "Konohamaru",
+    "sort": "1"
   }
 }
