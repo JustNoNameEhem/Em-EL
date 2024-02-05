@@ -3137,5 +3137,14 @@
     "key": "Hayabusa-n38a8A5jrl",
     "skin_name": "kakashi",
     "sort": "3"
+  },
+  "Hayabusa-QIPGi2FCOT": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/hayabusa%20x%20itachi.zip",
+    "hero": "Hayabusa",
+    "img": "https://raw.githubusercontent.com/rahasia55/tes/main/hayabusa%20x%20itachi.png",
+    "img2": "https://raw.githubusercontent.com/rahasia55/tes/main/hayabusa%20x%20itachi.png",
+    "key": "Hayabusa-QIPGi2FCOT",
+    "skin_name": "Itachi",
+    "sort": "4"
   }
 }
