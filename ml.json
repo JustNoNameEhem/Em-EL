@@ -3155,5 +3155,14 @@
     "key": "Julian-xFZ3gxu70q",
     "skin_name": "Ursed Weapon",
     "sort": "1"
+  },
+  "Lancelot-pU4YsoOxFC": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/lancelot%20x%20flashy%20flash.zip",
+    "hero": "Lancelot",
+    "img": "https://raw.githubusercontent.com/rahasia55/tes/main/lancelot%20x%20flashy%20flash.png",
+    "img2": "https://raw.githubusercontent.com/rahasia55/tes/main/lancelot%20x%20flashy%20flash.png",
+    "key": "Lancelot-pU4YsoOxFC",
+    "skin_name": "Flash",
+    "sort": "2"
   }
 }
