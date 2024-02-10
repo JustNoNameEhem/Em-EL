@@ -3362,5 +3362,14 @@
     "key": "Ling-wOxBm4yJ4k",
     "skin_name": "Mworld",
     "sort": "14"
+  },
+  "Ling-daNkd6vnHv": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/ling%20special.zip",
+    "hero": "Ling",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e1/Hero845-portrait.png/revision/latest?cb=20220525170019",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/e1/Hero845-portrait.png/revision/latest?cb=20220525170019",
+    "key": "Ling-daNkd6vnHv",
+    "skin_name": "Special",
+    "sort": "15"
   }
 }
