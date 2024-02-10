@@ -3335,5 +3335,14 @@
     "key": "Hayabusa-ZXuF4J2gaQ",
     "skin_name": "Starlight",
     "sort": "11"
+  },
+  "Karina-AnsUY6Nfvc": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/karina%20epic.zip",
+    "hero": "Karina",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/cd/Hero086-portrait.png/revision/latest?cb=20220525164459",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/c/cd/Hero086-portrait.png/revision/latest?cb=20220525164459",
+    "key": "Karina-AnsUY6Nfvc",
+    "skin_name": "Epic",
+    "sort": "12"
   }
 }
