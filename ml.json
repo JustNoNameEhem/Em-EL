@@ -3272,5 +3272,14 @@
     "key": "Fanny-xIVHUyq7PB",
     "skin_name": "Lightborn",
     "sort": "4"
+  },
+  "Fanny-MuWJYtReMy": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/fanny%20summer.zip",
+    "hero": "Fanny",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/7d/Hero176-portrait.png/revision/latest?cb=20220525164706",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/7d/Hero176-portrait.png/revision/latest?cb=20220525164706",
+    "key": "Fanny-MuWJYtReMy",
+    "skin_name": "Summer",
+    "sort": "5"
   }
 }
