@@ -3407,5 +3407,14 @@
     "key": "Saber-VTY5tuv5Le",
     "skin_name": "Epic",
     "sort": "19"
+  },
+  "Saber-WKYFgZWtTs": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/saber%20legend.zip",
+    "hero": "Saber",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/fa/Hero034-portrait.png/revision/latest?cb=20220525164329",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/fa/Hero034-portrait.png/revision/latest?cb=20220525164329",
+    "key": "Saber-WKYFgZWtTs",
+    "skin_name": "Legend",
+    "sort": "20"
   }
 }
