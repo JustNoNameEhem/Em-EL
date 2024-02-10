@@ -3308,5 +3308,14 @@
     "key": "Gusion-XG7cW0I9Yq",
     "skin_name": "V.E.N.O.M",
     "sort": "8"
+  },
+  "Hanzo-tdvPNtQRHw": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/hanzo%20special.zip",
+    "hero": "Hanzo",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/29/Hero694-portrait.png/revision/latest?cb=20220525165727",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/29/Hero694-portrait.png/revision/latest?cb=20220525165727",
+    "key": "Hanzo-tdvPNtQRHw",
+    "skin_name": "Special",
+    "sort": "9"
   }
 }
