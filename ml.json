@@ -3254,5 +3254,14 @@
     "key": "Benedetta-IwqeS1fDCw",
     "skin_name": "Starlight",
     "sort": "2"
+  },
+  "Fanny-ipHpbDrfWp": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/fanny%20christmas.zip",
+    "hero": "Fanny",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a3/Hero178-portrait.png/revision/latest?cb=20220525164708",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/a3/Hero178-portrait.png/revision/latest?cb=20220525164708",
+    "key": "Fanny-ipHpbDrfWp",
+    "skin_name": "Christmas",
+    "sort": "3"
   }
 }
