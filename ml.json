@@ -3326,5 +3326,14 @@
     "key": "Hayabusa-Ok2vaIX37V",
     "skin_name": "Starlight",
     "sort": "10"
+  },
+  "Hayabusa-ZXuF4J2gaQ": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/hayabusa%20star2.zip",
+    "hero": "Hayabusa",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/40/Hero217-portrait.png/revision/latest?cb=20220525164756",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/40/Hero217-portrait.png/revision/latest?cb=20220525164756",
+    "key": "Hayabusa-ZXuF4J2gaQ",
+    "skin_name": "Starlight",
+    "sort": "11"
   }
 }
