@@ -3533,5 +3533,14 @@
     "key": "Balmond-AnvW81tIqT",
     "skin_name": "Special",
     "sort": "9"
+  },
+  "Balmond-0hfheCXaGk": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/balmond%20starlight.zip",
+    "hero": "Balmond",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/87/Hero027-portrait.png/revision/latest?cb=20220525164316",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/87/Hero027-portrait.png/revision/latest?cb=20220525164316",
+    "key": "Balmond-0hfheCXaGk",
+    "skin_name": "Starlight",
+    "sort": "10"
   }
 }
