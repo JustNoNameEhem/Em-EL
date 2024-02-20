@@ -3488,5 +3488,14 @@
     "key": "Alucard-6Art1LCY7d",
     "skin_name": "Star Wars",
     "sort": "4"
+  },
+  "Aulus-n7VFfKi7KY": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/aulus%20basic.zip",
+    "hero": "Aulus",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/49/Hero1082-portrait.png/revision/latest?cb=20220525170454",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/49/Hero1082-portrait.png/revision/latest?cb=20220525170454",
+    "key": "Aulus-n7VFfKi7KY",
+    "skin_name": "Basic",
+    "sort": "5"
   }
 }
