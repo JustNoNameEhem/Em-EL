@@ -3506,5 +3506,14 @@
     "key": "Aulus-CSdLe4w2tp",
     "skin_name": "Elite",
     "sort": "6"
+  },
+  "Badang-uXcSL1rVhU": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/badang%20pegasus%20seiya.zip",
+    "hero": "Badang",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/2a/Hero777-portrait.png/revision/latest?cb=20220915122044",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/2a/Hero777-portrait.png/revision/latest?cb=20220915122044",
+    "key": "Badang-uXcSL1rVhU",
+    "skin_name": "Pegasus Seiya",
+    "sort": "7"
   }
 }
