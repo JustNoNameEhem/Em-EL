@@ -3515,5 +3515,14 @@
     "key": "Badang-uXcSL1rVhU",
     "skin_name": "Pegasus Seiya",
     "sort": "7"
+  },
+  "Badang-cHt2AvrfL4": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/balmond%20epic.zip",
+    "hero": "Badang",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/02/Hero028-portrait.png/revision/latest?cb=20230623125721",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/02/Hero028-portrait.png/revision/latest?cb=20230623125721",
+    "key": "Badang-cHt2AvrfL4",
+    "skin_name": "Epic",
+    "sort": "8"
   }
 }
