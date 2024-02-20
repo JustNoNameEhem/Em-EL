@@ -3479,5 +3479,14 @@
     "key": "Alucard-G0mNNQGuQB",
     "skin_name": "Tanjiro",
     "sort": "3"
+  },
+  "Alucard-6Art1LCY7d": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/alucard%20starwars.zip",
+    "hero": "Alucard",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/c7/Hero100710-portrait.png/revision/latest?cb=20220802034527",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/c/c7/Hero100710-portrait.png/revision/latest?cb=20220802034527",
+    "key": "Alucard-6Art1LCY7d",
+    "skin_name": "Star Wars",
+    "sort": "4"
   }
 }
