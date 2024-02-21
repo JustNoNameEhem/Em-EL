@@ -3587,5 +3587,14 @@
     "key": "Chou-0yLdu79ug3",
     "skin_name": "Starlight",
     "sort": "4"
+  },
+  "Dyrroth-htMFiD1YZC": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/dyroth%20lightborn(mod).zip",
+    "hero": "Dyrroth",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e8/Hero855-portrait.png/revision/latest?cb=20220525170035",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/e8/Hero855-portrait.png/revision/latest?cb=20220525170035",
+    "key": "Dyrroth-htMFiD1YZC",
+    "skin_name": "Lightborn M",
+    "sort": "1"
   }
 }
