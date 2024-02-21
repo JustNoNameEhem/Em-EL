@@ -3623,5 +3623,14 @@
     "key": "Freya-JuywDKtKFX",
     "skin_name": "S.A.B.E.R",
     "sort": "4"
+  },
+  "Guinevere-5yCpAJYUIh": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/guinevere%20elite.zip",
+    "hero": "Guinevere",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/fb/Hero108010-portrait.png/revision/latest?cb=20240114135706",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/fb/Hero108010-portrait.png/revision/latest?cb=20240114135706",
+    "key": "Guinevere-5yCpAJYUIh",
+    "skin_name": "Elite",
+    "sort": "5"
   }
 }
