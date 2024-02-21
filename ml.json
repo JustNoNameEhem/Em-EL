@@ -3632,5 +3632,14 @@
     "key": "Guinevere-5yCpAJYUIh",
     "skin_name": "Elite",
     "sort": "5"
+  },
+  "Guinevere-Eir4DpqaDe": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/guinevere%20special.zip",
+    "hero": "Guinevere",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/14/Hero807-portrait.png/revision/latest?cb=20220525165920",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/14/Hero807-portrait.png/revision/latest?cb=20220525165920",
+    "key": "Guinevere-Eir4DpqaDe",
+    "skin_name": "Special",
+    "sort": "6"
   }
 }
