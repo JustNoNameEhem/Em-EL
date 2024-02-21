@@ -3659,5 +3659,14 @@
     "key": "Guinevere-V8cIfBG23t",
     "skin_name": "Starlight",
     "sort": "2"
+  },
+  "Guinevere-ptvvJ1vRjp": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/guinevere%20summer.zip",
+    "hero": "Guinevere",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/43/Hero808-portrait.png/revision/latest?cb=20220525165923",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/43/Hero808-portrait.png/revision/latest?cb=20220525165923",
+    "key": "Guinevere-ptvvJ1vRjp",
+    "skin_name": "Summer",
+    "sort": "3"
   }
 }
