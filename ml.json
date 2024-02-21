@@ -3542,5 +3542,14 @@
     "key": "Balmond-0hfheCXaGk",
     "skin_name": "Starlight",
     "sort": "10"
+  },
+  "Bane-fYj1JFUbCG": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/bane%20epic.zip",
+    "hero": "Bane",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/88/Hero116-portrait.png/revision/latest?cb=20230316133645",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/88/Hero116-portrait.png/revision/latest?cb=20230316133645",
+    "key": "Bane-fYj1JFUbCG",
+    "skin_name": "Epic",
+    "sort": "1"
   }
 }
