@@ -3560,5 +3560,14 @@
     "key": "Chou-ULhyE58qZ4",
     "skin_name": "Dragon Shiryu",
     "sort": "1"
+  },
+  "Chou-s4WaNA0tJa": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/chou%20epic.zip",
+    "hero": "Chou",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/be/Hero263-portrait.png/revision/latest?cb=20220525164851",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/be/Hero263-portrait.png/revision/latest?cb=20220525164851",
+    "key": "Chou-s4WaNA0tJa",
+    "skin_name": "Epic",
+    "sort": "2"
   }
 }
