@@ -3731,5 +3731,14 @@
     "key": "Martis-clESv0ZSYV",
     "skin_name": "Starlight",
     "sort": "7"
+  },
+  "Martis-ykMco1wnrf": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/martis%20zodiac.zip",
+    "hero": "Martis",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/2d/Hero585-portrait.png/revision/latest?cb=20240114125523",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/2d/Hero585-portrait.png/revision/latest?cb=20240114125523",
+    "key": "Martis-ykMco1wnrf",
+    "skin_name": "Zodiac",
+    "sort": "8"
   }
 }
