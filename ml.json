@@ -3740,5 +3740,14 @@
     "key": "Martis-ykMco1wnrf",
     "skin_name": "Zodiac",
     "sort": "8"
+  },
+  "Masha-AHW1tkLmp7": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/masha%20dragon%20tamer.zip",
+    "hero": "Masha",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/5d/Hero884-portrait.png/revision/latest?cb=20220525170110",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/5d/Hero884-portrait.png/revision/latest?cb=20220525170110",
+    "key": "Masha-AHW1tkLmp7",
+    "skin_name": "Dragon Tamer",
+    "sort": "9"
   }
 }
