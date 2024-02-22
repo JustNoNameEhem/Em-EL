@@ -3677,5 +3677,14 @@
     "key": "Jawhead-Du273sDlqp",
     "skin_name": "Collector",
     "sort": "1"
+  },
+  "Jawhead-WisVPceWKr": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/jawhead%20mpl.zip",
+    "hero": "Jawhead",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/66/Hero548-portrait.png/revision/latest?cb=20220804115329",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/66/Hero548-portrait.png/revision/latest?cb=20220804115329",
+    "key": "Jawhead-WisVPceWKr",
+    "skin_name": "MPL",
+    "sort": "2"
   }
 }
