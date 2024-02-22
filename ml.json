@@ -3722,5 +3722,14 @@
     "key": "Martis-lT7KKyTxjZ",
     "skin_name": "Special",
     "sort": "6"
+  },
+  "Martis-clESv0ZSYV": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/martis%20star.zip",
+    "hero": "Martis",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/13/Hero583-portrait.png/revision/latest?cb=20220525165507",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/13/Hero583-portrait.png/revision/latest?cb=20220525165507",
+    "key": "Martis-clESv0ZSYV",
+    "skin_name": "Starlight",
+    "sort": "7"
   }
 }
