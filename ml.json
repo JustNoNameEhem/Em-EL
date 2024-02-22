@@ -3749,5 +3749,14 @@
     "key": "Masha-AHW1tkLmp7",
     "skin_name": "Dragon Tamer",
     "sort": "9"
+  },
+  "Masha-zSItHIqShL": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/masha%20special.zip",
+    "hero": "Masha",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/27/Hero886-portrait.png/revision/latest?cb=20221103134619",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/27/Hero886-portrait.png/revision/latest?cb=20221103134619",
+    "key": "Masha-zSItHIqShL",
+    "skin_name": "Special",
+    "sort": "10"
   }
 }
