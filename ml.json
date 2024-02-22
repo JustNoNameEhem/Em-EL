@@ -3668,5 +3668,14 @@
     "key": "Guinevere-ptvvJ1vRjp",
     "skin_name": "Summer",
     "sort": "3"
+  },
+  "Jawhead-Du273sDlqp": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/jawhead%20collector.zip",
+    "hero": "Jawhead",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/9a/Hero546-portrait.png/revision/latest?cb=20220525165417",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/9a/Hero546-portrait.png/revision/latest?cb=20220525165417",
+    "key": "Jawhead-Du273sDlqp",
+    "skin_name": "Collector",
+    "sort": "1"
   }
 }
