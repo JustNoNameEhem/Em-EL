@@ -3767,5 +3767,14 @@
     "key": "Minsittar-Ey7WMWqB62",
     "skin_name": "Elite",
     "sort": "11"
+  },
+  "Minsittar-l13Zqy8EBC": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/minsitthar%20starlight.zip",
+    "hero": "Minsittar",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/31/Hero745-portrait.png/revision/latest?cb=20230623125755",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/31/Hero745-portrait.png/revision/latest?cb=20230623125755",
+    "key": "Minsittar-l13Zqy8EBC",
+    "skin_name": "Starlight",
+    "sort": "12"
   }
 }
