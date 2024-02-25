@@ -3776,5 +3776,14 @@
     "key": "Minsittar-l13Zqy8EBC",
     "skin_name": "Starlight",
     "sort": "12"
+  },
+  "Paquito-Z08swAu9ub": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/paquito%20pacquiao.zip",
+    "hero": "Paquito",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/b7/Hero1033-portrait.png/revision/latest?cb=20220525170358",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/b7/Hero1033-portrait.png/revision/latest?cb=20220525170358",
+    "key": "Paquito-Z08swAu9ub",
+    "skin_name": "Pacquiao",
+    "sort": "1"
   }
 }
