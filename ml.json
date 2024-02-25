@@ -3920,5 +3920,14 @@
     "key": "Thamus-9Vgg0ZSLc0",
     "skin_name": "Elite",
     "sort": "5"
+  },
+  "Thamus-QlZ7nvYabc": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/thamuz%20starlight.zip",
+    "hero": "Thamus",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/6b/Hero726-portrait.png/revision/latest?cb=20230514163423",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/6b/Hero726-portrait.png/revision/latest?cb=20230514163423",
+    "key": "Thamus-QlZ7nvYabc",
+    "skin_name": "Starlight",
+    "sort": "6"
   }
 }
