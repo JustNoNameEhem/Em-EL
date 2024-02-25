@@ -3785,5 +3785,14 @@
     "key": "Paquito-Z08swAu9ub",
     "skin_name": "Pacquiao",
     "sort": "1"
+  },
+  "Paquito-r58pZeoWQ6": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/paquito%20star.zip",
+    "hero": "Paquito",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Hero1035-portrait.png/revision/latest?cb=20220525170401",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Hero1035-portrait.png/revision/latest?cb=20220525170401",
+    "key": "Paquito-r58pZeoWQ6",
+    "skin_name": "Star",
+    "sort": "2"
   }
 }
