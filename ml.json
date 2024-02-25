@@ -3884,5 +3884,14 @@
     "key": "Sun-LzVGaZvX5R",
     "skin_name": "Collector",
     "sort": "1"
+  },
+  "Sun-oaLwlQivm0": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/sun%20lunar%20fest.zip",
+    "hero": "Sun",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/c4/Hero277-portrait.png/revision/latest?cb=20220525164910",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/c/c4/Hero277-portrait.png/revision/latest?cb=20220525164910",
+    "key": "Sun-oaLwlQivm0",
+    "skin_name": "Lunar Fest",
+    "sort": "2"
   }
 }
