@@ -3893,5 +3893,14 @@
     "key": "Sun-oaLwlQivm0",
     "skin_name": "Lunar Fest",
     "sort": "2"
+  },
+  "Terizla-XE90YMRJvg": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/terizla%20elite.zip",
+    "hero": "Terizla",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/33/Hero823-portrait.png/revision/latest?cb=20220525165944",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/33/Hero823-portrait.png/revision/latest?cb=20220525165944",
+    "key": "Terizla-XE90YMRJvg",
+    "skin_name": "Elite",
+    "sort": "3"
   }
 }
