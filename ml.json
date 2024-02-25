@@ -3848,5 +3848,14 @@
     "key": "Ruby-SzSYaFu9p5",
     "skin_name": "Elite",
     "sort": "8"
+  },
+  "Ruby-fZOxTvyEGX": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/ruby%20epic.zip",
+    "hero": "Ruby",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/08/Hero295-portrait.png/revision/latest?cb=20220525164936",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/08/Hero295-portrait.png/revision/latest?cb=20220525164936",
+    "key": "Ruby-fZOxTvyEGX",
+    "skin_name": "Epic",
+    "sort": "9"
   }
 }
