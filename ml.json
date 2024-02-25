@@ -3947,5 +3947,14 @@
     "key": "Yin-LsFoGZACRx",
     "skin_name": "Star Painted",
     "sort": "8"
+  },
+  "Yin-pT1AEj70KR": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/yin%20starlight.zip",
+    "hero": "Yin",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/34/Hero1135-portrait.png/revision/latest?cb=20230623125844",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/34/Hero1135-portrait.png/revision/latest?cb=20230623125844",
+    "key": "Yin-pT1AEj70KR",
+    "skin_name": "Starlight",
+    "sort": "9"
   }
 }
