@@ -3902,5 +3902,14 @@
     "key": "Terizla-XE90YMRJvg",
     "skin_name": "Elite",
     "sort": "3"
+  },
+  "Terizla-hB9xUbwSY6": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/terizla%20halloween.zip",
+    "hero": "Terizla",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a6/Hero824-portrait.png/revision/latest?cb=20220525165945",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/a6/Hero824-portrait.png/revision/latest?cb=20220525165945",
+    "key": "Terizla-hB9xUbwSY6",
+    "skin_name": "Halloween",
+    "sort": "4"
   }
 }
