@@ -4145,5 +4145,14 @@
     "key": "Joy-22cBFpErid",
     "skin_name": "Basic",
     "sort": "6"
+  },
+  "Kadita-YAgqSnuiUi": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/kadita%20special.zip",
+    "hero": "Kadita",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/1a/Hero753-portrait.png/revision/latest?cb=20240121134301",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/1a/Hero753-portrait.png/revision/latest?cb=20240121134301",
+    "key": "Kadita-YAgqSnuiUi",
+    "skin_name": "Special",
+    "sort": "7"
   }
 }
