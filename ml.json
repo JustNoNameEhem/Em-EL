@@ -4073,5 +4073,14 @@
     "key": "Eudora-26zr99TQZ1",
     "skin_name": "Epic",
     "sort": "1"
+  },
+  "Eudora-nvEMOWvD37": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/eudora%20limited.zip",
+    "hero": "Eudora",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Hero155-portrait.png/revision/latest?cb=20220525164634",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Hero155-portrait.png/revision/latest?cb=20220525164634",
+    "key": "Eudora-nvEMOWvD37",
+    "skin_name": "Limited",
+    "sort": "2"
   }
 }
