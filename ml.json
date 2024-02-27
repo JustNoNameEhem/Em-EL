@@ -4028,5 +4028,14 @@
     "key": "Chang'e-oUvOLiLIW8",
     "skin_name": "Epic",
     "sort": "1"
+  },
+  "Cyclops-LCTdNEsVHk": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/cyclops%20collector.zip",
+    "hero": "Cyclops",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/27/Hero339-portrait.png/revision/latest?cb=20230317102253",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/27/Hero339-portrait.png/revision/latest?cb=20230317102253",
+    "key": "Cyclops-LCTdNEsVHk",
+    "skin_name": "Collector",
+    "sort": "1"
   }
 }
