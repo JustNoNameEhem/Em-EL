@@ -4154,5 +4154,14 @@
     "key": "Yin-PxVWb6kRV1",
     "skin_name": "Mworld",
     "sort": "2"
+  },
+  "Yin-RWFXzNdTWT": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/yin%20ryomen%20sukuna.zip",
+    "hero": "Yin",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZvv0Svm2nrP-1JbmLaLB412ayHsrVnOSaFw&usqp=CAU",
+    "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZvv0Svm2nrP-1JbmLaLB412ayHsrVnOSaFw&usqp=CAU",
+    "key": "Yin-RWFXzNdTWT",
+    "skin_name": "Ryomen Sukuna",
+    "sort": "3"
   }
 }
