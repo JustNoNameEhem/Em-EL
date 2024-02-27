@@ -3974,5 +3974,14 @@
     "key": "Aurora-YMZcxAmNvR",
     "skin_name": "Zodiac",
     "sort": "1"
+  },
+  "Cecilion-g3tB7vYUbx": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/cecilion%20collector.zip",
+    "hero": "Cecilion",
+    "img": "https://github.com/rahasia55/New-Default-skin/raw/main/cecilion%20collector.zip",
+    "img2": "https://github.com/rahasia55/New-Default-skin/raw/main/cecilion%20collector.zip",
+    "key": "Cecilion-g3tB7vYUbx",
+    "skin_name": "Collector",
+    "sort": "2"
   }
 }
