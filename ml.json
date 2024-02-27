@@ -4109,5 +4109,14 @@
     "key": "Harith-AbhTjsoiSt",
     "skin_name": "Champion",
     "sort": "2"
+  },
+  "Harith-HPbplrLqG2": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/harith%20epic.zip",
+    "hero": "Harith",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/76/Hero737-portrait.png/revision/latest?cb=20230212035440",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/76/Hero737-portrait.png/revision/latest?cb=20230212035440",
+    "key": "Harith-HPbplrLqG2",
+    "skin_name": "Epic",
+    "sort": "3"
   }
 }
