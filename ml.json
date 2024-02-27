@@ -4046,5 +4046,14 @@
     "key": "Cyclops-u3kEChYfA6",
     "skin_name": "Halloween",
     "sort": "1"
+  },
+  "Esmeralda-mIWfEymVWa": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/esmeralda%20blazing.zip",
+    "hero": "Esmeralda",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/7d/Hero816-portrait.png/revision/latest?cb=20220525165937",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/7d/Hero816-portrait.png/revision/latest?cb=20220525165937",
+    "key": "Esmeralda-mIWfEymVWa",
+    "skin_name": "Blazing",
+    "sort": "2"
   }
 }
