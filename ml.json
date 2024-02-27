@@ -3974,5 +3974,14 @@
     "key": "Aurora-Jm9baoCBZE",
     "skin_name": "Zodiac",
     "sort": "1"
+  },
+  "Cecilion-rdon4v6HzG": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/cecilion%20collector.zip",
+    "hero": "Cecilion",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/42/Hero916-portrait.png/revision/latest?cb=20220915122137",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/42/Hero916-portrait.png/revision/latest?cb=20220915122137",
+    "key": "Cecilion-rdon4v6HzG",
+    "skin_name": "Collector",
+    "sort": "2"
   }
 }
