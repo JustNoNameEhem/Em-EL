@@ -4010,5 +4010,14 @@
     "key": "Cecilion-URjVJ0hW91",
     "skin_name": "Star",
     "sort": "1"
+  },
+  "Chang'e-QJzNDaBthm": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/change%20epic.zip",
+    "hero": "Chang'e",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/8f/Hero615-portrait.png/revision/latest?cb=20220525165543",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/8f/Hero615-portrait.png/revision/latest?cb=20220525165543",
+    "key": "Chang'e-QJzNDaBthm",
+    "skin_name": "Epic",
+    "sort": "1"
   }
 }
