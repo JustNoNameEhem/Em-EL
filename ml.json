@@ -4055,5 +4055,14 @@
     "key": "Esmeralda-mIWfEymVWa",
     "skin_name": "Blazing",
     "sort": "2"
+  },
+  "Eudora-Fe4911Euel": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/eudora%20christmas.zip",
+    "hero": "Eudora",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/24/Hero153-portrait.png/revision/latest?cb=20220525164632",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/24/Hero153-portrait.png/revision/latest?cb=20220525164632",
+    "key": "Eudora-Fe4911Euel",
+    "skin_name": "Christmas",
+    "sort": "1"
   }
 }
