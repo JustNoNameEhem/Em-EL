@@ -4298,5 +4298,14 @@
     "key": "Valir-BCv5T3DzDl",
     "skin_name": "Collector",
     "sort": "15"
+  },
+  "Valir-PlB5dz6ff1": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/valir%20dragon%20tamer.zip",
+    "hero": "Valir",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a3/Hero575-portrait.png/revision/latest?cb=20220525165500",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/a3/Hero575-portrait.png/revision/latest?cb=20220525165500",
+    "key": "Valir-PlB5dz6ff1",
+    "skin_name": "Dragon Tamer",
+    "sort": "16"
   }
 }
