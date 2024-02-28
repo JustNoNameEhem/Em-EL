@@ -4199,5 +4199,14 @@
     "key": "Lilya-e0oKlNIKbh",
     "skin_name": "Elite",
     "sort": "4"
+  },
+  "Lilya-1vBwBs3OWG": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/lylia%20hallowen.zip",
+    "hero": "Lilya",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/69/Hero865-portrait.png/revision/latest?cb=20220525170051",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/69/Hero865-portrait.png/revision/latest?cb=20220525170051",
+    "key": "Lilya-1vBwBs3OWG",
+    "skin_name": "Halloween",
+    "sort": "5"
   }
 }
