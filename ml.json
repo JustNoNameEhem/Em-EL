@@ -4262,5 +4262,14 @@
     "key": "Odete-doyS82mPQx",
     "skin_name": "Lunar Fest",
     "sort": "11"
+  },
+  "Odete-H4zPEyjuxc": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/odette%20special.zip",
+    "hero": "Odete",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/c1/Hero465-portrait.png/revision/latest?cb=20220525165239",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/c/c1/Hero465-portrait.png/revision/latest?cb=20220525165239",
+    "key": "Odete-H4zPEyjuxc",
+    "skin_name": "Special",
+    "sort": "12"
   }
 }
