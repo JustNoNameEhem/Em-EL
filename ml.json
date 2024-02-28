@@ -4145,5 +4145,14 @@
     "key": "Kagura-0erhoRqr8z",
     "skin_name": "Summer",
     "sort": "2"
+  },
+  "Lunox-bhQiD9akeo": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/lunox%20epic.zip",
+    "hero": "Lunox",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/0e/Hero686-portrait.png/revision/latest?cb=20220525165718",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/0e/Hero686-portrait.png/revision/latest?cb=20220525165718",
+    "key": "Lunox-bhQiD9akeo",
+    "skin_name": "Epic",
+    "sort": "3"
   }
 }
