@@ -4136,5 +4136,14 @@
     "key": "Kagura-wA4q1BehKN",
     "skin_name": "Epic",
     "sort": "1"
+  },
+  "Kagura-0erhoRqr8z": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/kagura%20summer.zip",
+    "hero": "Kagura",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/0a/Hero254-portrait.png/revision/latest?cb=20220628175959",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/0a/Hero254-portrait.png/revision/latest?cb=20220628175959",
+    "key": "Kagura-0erhoRqr8z",
+    "skin_name": "Summer",
+    "sort": "2"
   }
 }
