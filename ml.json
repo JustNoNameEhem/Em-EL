@@ -4235,5 +4235,14 @@
     "key": "Nana-LiVvmZT6KX",
     "skin_name": "Epic",
     "sort": "8"
+  },
+  "Nana-OWVpOiRJ5B": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/nana%20star.zip",
+    "hero": "Nana",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/b9/Hero059-portrait.png/revision/latest?cb=20220628175952",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/b9/Hero059-portrait.png/revision/latest?cb=20220628175952",
+    "key": "Nana-OWVpOiRJ5B",
+    "skin_name": "Star",
+    "sort": "9"
   }
 }
