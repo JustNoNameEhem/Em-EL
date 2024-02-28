@@ -4226,5 +4226,14 @@
     "key": "Nana-RcFlqkySLS",
     "skin_name": "Elite",
     "sort": "7"
+  },
+  "Nana-LiVvmZT6KX": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/nana%20epic.zip",
+    "hero": "Nana",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a6/Hero056-portrait.png/revision/latest?cb=20220525164408",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/a6/Hero056-portrait.png/revision/latest?cb=20220525164408",
+    "key": "Nana-LiVvmZT6KX",
+    "skin_name": "Epic",
+    "sort": "8"
   }
 }
