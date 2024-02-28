@@ -4217,5 +4217,14 @@
     "key": "Lilya-BQwHg5nVEP",
     "skin_name": "Special",
     "sort": "6"
+  },
+  "Nana-RcFlqkySLS": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/nana%20elite2.zip",
+    "hero": "Nana",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/41/Hero054-portrait.png/revision/latest?cb=20220525164406",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/41/Hero054-portrait.png/revision/latest?cb=20220525164406",
+    "key": "Nana-RcFlqkySLS",
+    "skin_name": "Elite",
+    "sort": "7"
   }
 }
