@@ -4370,5 +4370,14 @@
     "key": "Claude-2qGMF0h1Y1",
     "skin_name": "Blazing",
     "sort": "8"
+  },
+  "Claude-GJ5cp5NYXK": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/claude%20summer.zip",
+    "hero": "Claude",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/1e/Hero655-portrait.png/revision/latest?cb=20220525165638",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/1e/Hero655-portrait.png/revision/latest?cb=20220525165638",
+    "key": "Claude-GJ5cp5NYXK",
+    "skin_name": "Summer",
+    "sort": "9"
   }
 }
