@@ -4307,5 +4307,14 @@
     "key": "Beatrix-nVIPKthh92",
     "skin_name": "Elite",
     "sort": "1"
+  },
+  "Beatrix-fAqF1eGZAq": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/beatrix%20m4.zip",
+    "hero": "Beatrix",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/6c/Hero1055-portrait.png/revision/latest?cb=20221216103144",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/6c/Hero1055-portrait.png/revision/latest?cb=20221216103144",
+    "key": "Beatrix-fAqF1eGZAq",
+    "skin_name": "M4",
+    "sort": "2"
   }
 }
