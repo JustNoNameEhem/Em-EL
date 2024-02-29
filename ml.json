@@ -4424,5 +4424,14 @@
     "key": "Hanabi-8xL4woSEqz",
     "skin_name": "Epic",
     "sort": "2"
+  },
+  "Hanabi-VR8snFf6NT": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/hanabi%20venom.zip",
+    "hero": "Hanabi",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/63/Hero604-portrait.png/revision/latest?cb=20220525165524",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/63/Hero604-portrait.png/revision/latest?cb=20220525165524",
+    "key": "Hanabi-VR8snFf6NT",
+    "skin_name": "V.E.N.O.M",
+    "sort": "3"
   }
 }
