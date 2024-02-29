@@ -4451,5 +4451,14 @@
     "key": "Irithel-okBfUZAvA2",
     "skin_name": "Epic",
     "sort": "5"
+  },
+  "Karrie-WiyRZByqJR": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/karrie%20annual%20star.zip",
+    "hero": "Karrie",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/7e/Hero408-portrait.png/revision/latest?cb=20220525165150",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/7e/Hero408-portrait.png/revision/latest?cb=20220525165150",
+    "key": "Karrie-WiyRZByqJR",
+    "skin_name": "Annual Star",
+    "sort": "6"
   }
 }
