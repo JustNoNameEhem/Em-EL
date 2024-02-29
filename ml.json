@@ -4352,5 +4352,14 @@
     "key": "Bruno-oLNhnaITPG",
     "skin_name": "Hello Striker",
     "sort": "6"
+  },
+  "Bruno-GAjFVWc7RS": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/bruno%20star.zip",
+    "hero": "Bruno",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e8/Hero127-portrait.png/revision/latest?cb=20240114091333",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/e8/Hero127-portrait.png/revision/latest?cb=20240114091333",
+    "key": "Bruno-GAjFVWc7RS",
+    "skin_name": "Star",
+    "sort": "7"
   }
 }
