@@ -4334,5 +4334,14 @@
     "key": "Brody-1GD9dr7SDg",
     "skin_name": "MPL",
     "sort": "4"
+  },
+  "Brody-hIYAqTK113": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/brody%20star.zip",
+    "hero": "Brody",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f5/Hero1004-portrait.png/revision/latest?cb=20220525170321",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/f5/Hero1004-portrait.png/revision/latest?cb=20220525170321",
+    "key": "Brody-hIYAqTK113",
+    "skin_name": "Star",
+    "sort": "5"
   }
 }
