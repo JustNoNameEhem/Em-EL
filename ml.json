@@ -4433,5 +4433,14 @@
     "key": "Hanabi-VR8snFf6NT",
     "skin_name": "V.E.N.O.M",
     "sort": "3"
+  },
+  "Irithel-yI4X7LR4AJ": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/irithel%20epic.zip",
+    "hero": "Irithel",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/30/Hero433-portrait.png/revision/latest?cb=20220525165212",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/30/Hero433-portrait.png/revision/latest?cb=20220525165212",
+    "key": "Irithel-yI4X7LR4AJ",
+    "skin_name": "Epic",
+    "sort": "4"
   }
 }
