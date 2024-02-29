@@ -4406,5 +4406,14 @@
     "key": "Clint-SpDb3fhgg2",
     "skin_name": "Star",
     "sort": "3"
+  },
+  "Hanabi-kHKsHjgl7O": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/hanabi%20collector.zip",
+    "hero": "Hanabi",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/65/Hero608-portrait.png/revision/latest?cb=20220525165528",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/65/Hero608-portrait.png/revision/latest?cb=20220525165528",
+    "key": "Hanabi-kHKsHjgl7O",
+    "skin_name": "Collector",
+    "sort": "1"
   }
 }
