@@ -4343,5 +4343,14 @@
     "key": "Brody-hIYAqTK113",
     "skin_name": "Star",
     "sort": "5"
+  },
+  "Bruno-oLNhnaITPG": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/bruno%20hello%20striker.zip",
+    "hero": "Bruno",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/ca/Hero128-portrait.png/revision/latest?cb=20221103134233",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/c/ca/Hero128-portrait.png/revision/latest?cb=20221103134233",
+    "key": "Bruno-oLNhnaITPG",
+    "skin_name": "Hello Striker",
+    "sort": "6"
   }
 }
