@@ -4379,5 +4379,14 @@
     "key": "Claude-GJ5cp5NYXK",
     "skin_name": "Summer",
     "sort": "9"
+  },
+  "Clint-DuMcyAyCOn": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/clint%20m2.zip",
+    "hero": "Clint",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/69/Hero137-portrait.png/revision/latest?cb=20220525164602",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/69/Hero137-portrait.png/revision/latest?cb=20220525164602",
+    "key": "Clint-DuMcyAyCOn",
+    "skin_name": "M2",
+    "sort": "1"
   }
 }
