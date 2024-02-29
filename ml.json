@@ -4325,5 +4325,14 @@
     "key": "Beatrix-ykfOwRMn1g",
     "skin_name": "Vibrant Fiesta",
     "sort": "3"
+  },
+  "Brody-1GD9dr7SDg": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/brody%20mpl.zip",
+    "hero": "Brody",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/33/Hero1006-portrait.png/revision/latest?cb=20230212035442",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/33/Hero1006-portrait.png/revision/latest?cb=20230212035442",
+    "key": "Brody-1GD9dr7SDg",
+    "skin_name": "MPL",
+    "sort": "4"
   }
 }
