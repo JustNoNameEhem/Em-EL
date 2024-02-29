@@ -4397,5 +4397,14 @@
     "key": "Clint-s9z2DfrCCq",
     "skin_name": "Special",
     "sort": "2"
+  },
+  "Clint-SpDb3fhgg2": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/clint%20star2.zip",
+    "hero": "Clint",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/b7/Hero138-portrait.png/revision/latest?cb=20220525164603",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/b7/Hero138-portrait.png/revision/latest?cb=20220525164603",
+    "key": "Clint-SpDb3fhgg2",
+    "skin_name": "Star",
+    "sort": "3"
   }
 }
