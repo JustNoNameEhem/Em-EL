@@ -4766,5 +4766,14 @@
     "key": "Parsha-qJtaBkUQE4",
     "skin_name": "Collector",
     "sort": "3"
+  },
+  "Parsha-0VZizFwyJ4": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/pharsa%20msc.zip",
+    "hero": "Parsha",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/20/Hero529-portrait.png/revision/latest?cb=20220525165348",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/20/Hero529-portrait.png/revision/latest?cb=20220525165348",
+    "key": "Parsha-0VZizFwyJ4",
+    "skin_name": "MSC",
+    "sort": "4"
   }
 }
