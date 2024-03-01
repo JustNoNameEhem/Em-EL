@@ -4712,5 +4712,14 @@
     "key": "Miya-YUWvNheClA",
     "skin_name": "Special",
     "sort": "22"
+  },
+  "Akai-MoGTCVBFFb": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/akai%20epic.zip",
+    "hero": "Akai",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/aa/Hero095-portrait.png/revision/latest?cb=20220525164516",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/aa/Hero095-portrait.png/revision/latest?cb=20220525164516",
+    "key": "Akai-MoGTCVBFFb",
+    "skin_name": "Epic",
+    "sort": "1"
   }
 }
