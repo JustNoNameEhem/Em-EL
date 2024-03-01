@@ -4631,5 +4631,14 @@
     "key": "Kaja-nZgaVZILx7",
     "skin_name": "Starlight",
     "sort": "13"
+  },
+  "Layla-MQP23OfK2c": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/layla%20blue%20spectre.zip",
+    "hero": "Layla",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/ef/Hero185-portrait.png/revision/latest?cb=20220525164722",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/ef/Hero185-portrait.png/revision/latest?cb=20220525164722",
+    "key": "Layla-MQP23OfK2c",
+    "skin_name": "Blue Spectre",
+    "sort": "14"
   }
 }
