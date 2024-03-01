@@ -4667,5 +4667,14 @@
     "key": "Lesley-epc4kNBlxc",
     "skin_name": "Special",
     "sort": "17"
+  },
+  "Lesley-P8xFcqMhFO": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/lesley%20valentine.zip",
+    "hero": "Lesley",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/fa/Hero536-portrait.png/revision/latest?cb=20220915121813",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/fa/Hero536-portrait.png/revision/latest?cb=20220915121813",
+    "key": "Lesley-P8xFcqMhFO",
+    "skin_name": "Valentine",
+    "sort": "18"
   }
 }
