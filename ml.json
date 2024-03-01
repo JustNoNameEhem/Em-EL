@@ -4586,5 +4586,14 @@
     "key": "Estes-zY7SnNCuGu",
     "skin_name": "Champion",
     "sort": "8"
+  },
+  "Faramis-Qqt7GaVGCh": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/faramis%20mythic.zip",
+    "hero": "Faramis",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/bc/Hero765-portrait.png/revision/latest?cb=20240114134522",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/bc/Hero765-portrait.png/revision/latest?cb=20240114134522",
+    "key": "Faramis-Qqt7GaVGCh",
+    "skin_name": "Mythic",
+    "sort": "9"
   }
 }
