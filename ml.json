@@ -4658,5 +4658,14 @@
     "key": "Lesley-xcaVIATnIV",
     "skin_name": "Collector",
     "sort": "16"
+  },
+  "Lesley-epc4kNBlxc": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/lesley%20special.zip",
+    "hero": "Lesley",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/32/Hero534-portrait.png/revision/latest?cb=20220525165402",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/32/Hero534-portrait.png/revision/latest?cb=20220525165402",
+    "key": "Lesley-epc4kNBlxc",
+    "skin_name": "Special",
+    "sort": "17"
   }
 }
