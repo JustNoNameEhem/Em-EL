@@ -4559,5 +4559,14 @@
     "key": "Diggie-yq1d6cAgO6",
     "skin_name": "Epic",
     "sort": "5"
+  },
+  "Estes-XN658eK9WD": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/estes%20dragon%20tamer.zip",
+    "hero": "Estes",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/9d/Hero346-portrait.png/revision/latest?cb=20220525165046",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/9d/Hero346-portrait.png/revision/latest?cb=20220525165046",
+    "key": "Estes-XN658eK9WD",
+    "skin_name": "Dragon Tamer",
+    "sort": "6"
   }
 }
