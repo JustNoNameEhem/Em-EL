@@ -4640,5 +4640,14 @@
     "key": "Layla-MQP23OfK2c",
     "skin_name": "Blue Spectre",
     "sort": "14"
+  },
+  "Lesley-I9AnF03fNO": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/lesley%20epic.zip",
+    "hero": "Lesley",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/25/Hero535-portrait.png/revision/latest?cb=20230805043856",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/25/Hero535-portrait.png/revision/latest?cb=20230805043856",
+    "key": "Lesley-I9AnF03fNO",
+    "skin_name": "Epic",
+    "sort": "15"
   }
 }
