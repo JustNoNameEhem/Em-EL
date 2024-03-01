@@ -4685,5 +4685,14 @@
     "key": "Mathilda-E7uRsa3JaC",
     "skin_name": "Elite",
     "sort": "19"
+  },
+  "Miya-hVMZKUaOXh": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/miya%20anniversary.zip",
+    "hero": "Miya",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/40/Hero100110-portrait.png/revision/latest?cb=20220224220136",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/40/Hero100110-portrait.png/revision/latest?cb=20220224220136",
+    "key": "Miya-hVMZKUaOXh",
+    "skin_name": "Anniversary",
+    "sort": "20"
   }
 }
