@@ -4748,5 +4748,14 @@
     "key": "Moskov-hmuzLbT5VF",
     "skin_name": "Epic",
     "sort": "1"
+  },
+  "Natan-TErArLTMyX": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/natan%20starlight.zip",
+    "hero": "Natan",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/62/Hero1074-portrait.png/revision/latest?cb=20220628180007",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/62/Hero1074-portrait.png/revision/latest?cb=20220628180007",
+    "key": "Natan-TErArLTMyX",
+    "skin_name": "Star",
+    "sort": "2"
   }
 }
