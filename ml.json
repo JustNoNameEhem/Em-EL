@@ -4694,5 +4694,14 @@
     "key": "Miya-hVMZKUaOXh",
     "skin_name": "Anniversary",
     "sort": "20"
+  },
+  "Miya-5L7XcNjgmF": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/miya%20legend.zip",
+    "hero": "Miya",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/4f/Hero016-portrait.png/revision/latest?cb=20220525164230",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/4f/Hero016-portrait.png/revision/latest?cb=20220525164230",
+    "key": "Miya-5L7XcNjgmF",
+    "skin_name": "Legend",
+    "sort": "21"
   }
 }
