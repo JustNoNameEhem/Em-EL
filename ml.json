@@ -4721,5 +4721,14 @@
     "key": "Akai-MoGTCVBFFb",
     "skin_name": "Epic",
     "sort": "1"
+  },
+  "Atlas-VbyEBTJ8CQ": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/atlas%20msc.zip",
+    "hero": "Atlas",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/bd/Hero935-portrait.png/revision/latest?cb=20230514163425",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/bd/Hero935-portrait.png/revision/latest?cb=20230514163425",
+    "key": "Atlas-VbyEBTJ8CQ",
+    "skin_name": "MSC",
+    "sort": "2"
   }
 }
