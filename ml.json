@@ -4649,5 +4649,14 @@
     "key": "Lesley-I9AnF03fNO",
     "skin_name": "Epic",
     "sort": "15"
+  },
+  "Lesley-xcaVIATnIV": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/lesley%20collector.zip",
+    "hero": "Lesley",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/27/Hero539-portrait.png/revision/latest?cb=20220525165408",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/27/Hero539-portrait.png/revision/latest?cb=20220525165408",
+    "key": "Lesley-xcaVIATnIV",
+    "skin_name": "Collector",
+    "sort": "16"
   }
 }
