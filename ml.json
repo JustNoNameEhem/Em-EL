@@ -4757,5 +4757,14 @@
     "key": "Natan-TErArLTMyX",
     "skin_name": "Star",
     "sort": "2"
+  },
+  "Parsha-qJtaBkUQE4": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/pharsa%20collector.zip",
+    "hero": "Parsha",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/75/Hero526-portrait.png/revision/latest?cb=20220525165345",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/75/Hero526-portrait.png/revision/latest?cb=20220525165345",
+    "key": "Parsha-qJtaBkUQE4",
+    "skin_name": "Collector",
+    "sort": "3"
   }
 }
