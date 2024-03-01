@@ -4604,5 +4604,14 @@
     "key": "Faramis-d4HbxolLZG",
     "skin_name": "Summer",
     "sort": "10"
+  },
+  "Floryn-zFlFRYIsiT": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/floryn%20elite.zip",
+    "hero": "Floryn",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/eb/Hero1124-portrait.png/revision/latest?cb=20230212035445",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/eb/Hero1124-portrait.png/revision/latest?cb=20230212035445",
+    "key": "Floryn-zFlFRYIsiT",
+    "skin_name": "Elite",
+    "sort": "11"
   }
 }
