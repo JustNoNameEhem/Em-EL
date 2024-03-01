@@ -4730,5 +4730,14 @@
     "key": "Atlas-VbyEBTJ8CQ",
     "skin_name": "MSC",
     "sort": "2"
+  },
+  "Baxia-jbKk0PwOru": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/baxia%20special.zip",
+    "hero": "Baxia",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Hero874-portrait.png/revision/latest?cb=20221111133611",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Hero874-portrait.png/revision/latest?cb=20221111133611",
+    "key": "Baxia-jbKk0PwOru",
+    "skin_name": "Special",
+    "sort": "3"
   }
 }
