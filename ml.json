@@ -4613,5 +4613,14 @@
     "key": "Floryn-zFlFRYIsiT",
     "skin_name": "Elite",
     "sort": "11"
+  },
+  "Kaja-PxpFXISKbn": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/kaja%20epic.zip",
+    "hero": "Kaja",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/57/Hero625-portrait.png/revision/latest?cb=20220525165553",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/57/Hero625-portrait.png/revision/latest?cb=20220525165553",
+    "key": "Kaja-PxpFXISKbn",
+    "skin_name": "Epic",
+    "sort": "12"
   }
 }
