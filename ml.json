@@ -4541,5 +4541,14 @@
     "key": "Angela-cJPSzPgfTK",
     "skin_name": "V.E.N.O.M",
     "sort": "3"
+  },
+  "Carmilla-5fjjDqeBQZ": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/carmilla%20valentine.zip",
+    "hero": "Carmilla",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/12/Hero924-portrait.png/revision/latest?cb=20220525170213",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/12/Hero924-portrait.png/revision/latest?cb=20220525170213",
+    "key": "Carmilla-5fjjDqeBQZ",
+    "skin_name": "Valentine",
+    "sort": "4"
   }
 }
