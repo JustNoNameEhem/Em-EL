@@ -4793,5 +4793,14 @@
     "key": "Popol & Kupa-Z7vwKOMwXp",
     "skin_name": "Elite",
     "sort": "1"
+  },
+  "Popol & Kupa-FWngLd2xBk": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/popol%20&%20kupa%20star.zip",
+    "hero": "Popol & Kupa",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/08/Hero944-portrait.png/revision/latest?cb=20220526053625",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/08/Hero944-portrait.png/revision/latest?cb=20220526053625",
+    "key": "Popol & Kupa-FWngLd2xBk",
+    "skin_name": "Star",
+    "sort": "2"
   }
 }
