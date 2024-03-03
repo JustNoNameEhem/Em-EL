@@ -4991,5 +4991,14 @@
     "key": "Rafaela-cAuG6TX00c",
     "skin_name": "As",
     "sort": "10"
+  },
+  "Rafaela-Mh0NAB2WFX": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/rafaela%20christmas.zip",
+    "hero": "Rafaela",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/c2/Hero147-portrait.png/revision/latest?cb=20220525164620",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/c/c2/Hero147-portrait.png/revision/latest?cb=20220525164620",
+    "key": "Rafaela-Mh0NAB2WFX",
+    "skin_name": "Christmas",
+    "sort": "11"
   }
 }
