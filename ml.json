@@ -4919,5 +4919,14 @@
     "key": "Hilda-IvMliCHdj9",
     "skin_name": "Zodiac",
     "sort": "2"
+  },
+  "Hylos-l6dioAQUBK": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/hylos%20epic.zip",
+    "hero": "Hylos",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/fa/Hero495-portrait.png/revision/latest?cb=20220525165317",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/fa/Hero495-portrait.png/revision/latest?cb=20220525165317",
+    "key": "Hylos-l6dioAQUBK",
+    "skin_name": "Epic",
+    "sort": "3"
   }
 }
