@@ -4910,5 +4910,14 @@
     "key": "Hilda-je49AiQEYO",
     "skin_name": "Special",
     "sort": "1"
+  },
+  "Hilda-IvMliCHdj9": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/hilda%20zodiac.zip",
+    "hero": "Hilda",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d7/Hero355-portrait.png/revision/latest?cb=20230317100645",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/d7/Hero355-portrait.png/revision/latest?cb=20230317100645",
+    "key": "Hilda-IvMliCHdj9",
+    "skin_name": "Zodiac",
+    "sort": "2"
   }
 }
