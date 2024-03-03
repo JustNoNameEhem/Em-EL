@@ -4874,5 +4874,14 @@
     "key": "Gloo-kHDjPIjllG",
     "skin_name": "Special",
     "sort": "3"
+  },
+  "Grock-ibMRYMZ0vM": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/grock%20epic.zip",
+    "hero": "Grock",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/63/Hero446-portrait.png/revision/latest?cb=20220525165223",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/63/Hero446-portrait.png/revision/latest?cb=20220525165223",
+    "key": "Grock-ibMRYMZ0vM",
+    "skin_name": "Epic",
+    "sort": "4"
   }
 }
