@@ -4829,5 +4829,14 @@
     "key": "Franco-yQSQROZUE8",
     "skin_name": "Blazing",
     "sort": "2"
+  },
+  "Franco-OyOukrxahf": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/franco%20halloween.zip",
+    "hero": "Franco",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/cf/Hero105-portrait.png/revision/latest?cb=20220525164526",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/c/cf/Hero105-portrait.png/revision/latest?cb=20220525164526",
+    "key": "Franco-OyOukrxahf",
+    "skin_name": "Halloween",
+    "sort": "3"
   }
 }
