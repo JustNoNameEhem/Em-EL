@@ -4973,5 +4973,14 @@
     "key": "Minotaur-ppEuTjkMuh",
     "skin_name": "Special",
     "sort": "8"
+  },
+  "Minotaur-RdfIbTt6Ha": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/minotaur%20zodiac.zip",
+    "hero": "Minotaur",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/16/Hero195-portrait.png/revision/latest?cb=20230316133655",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/16/Hero195-portrait.png/revision/latest?cb=20230316133655",
+    "key": "Minotaur-RdfIbTt6Ha",
+    "skin_name": "Zodiac",
+    "sort": "9"
   }
 }
