@@ -4847,5 +4847,14 @@
     "key": "Franco-DJ3F54BlCr",
     "skin_name": "Special",
     "sort": "4"
+  },
+  "Franco-CVUyr7b4xc": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/franco%20star.zip",
+    "hero": "Franco",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/2a/Hero103-portrait.png/revision/latest?cb=20220525164524",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/2a/Hero103-portrait.png/revision/latest?cb=20220525164524",
+    "key": "Franco-CVUyr7b4xc",
+    "skin_name": "Star",
+    "sort": "5"
   }
 }
