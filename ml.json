@@ -4937,5 +4937,14 @@
     "key": "Johnson-MYcswOwiBi",
     "skin_name": "Epic",
     "sort": "4"
+  },
+  "Johnson-F2OZIvFAQQ": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/johnson%20saber.zip",
+    "hero": "Johnson",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/81/Hero323-portrait.png/revision/latest?cb=20220525165012",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/81/Hero323-portrait.png/revision/latest?cb=20220525165012",
+    "key": "Johnson-F2OZIvFAQQ",
+    "skin_name": "S.A.B.E.R",
+    "sort": "5"
   }
 }
