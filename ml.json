@@ -4865,5 +4865,14 @@
     "key": "Gatotkaca-rDoNS1UBPC",
     "skin_name": "Epic",
     "sort": "2"
+  },
+  "Gloo-kHDjPIjllG": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/gloo%20special.zip",
+    "hero": "Gloo",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/1a/Hero1043-portrait.png/revision/latest?cb=20220526053627",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/1a/Hero1043-portrait.png/revision/latest?cb=20220526053627",
+    "key": "Gloo-kHDjPIjllG",
+    "skin_name": "Special",
+    "sort": "3"
   }
 }
