@@ -5027,5 +5027,14 @@
     "key": "Tigreal-nPztfY0Bpl",
     "skin_name": "Lightborn",
     "sort": "1"
+  },
+  "Tigreal-PLccsvNXkd": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/tigreal%20special.zip",
+    "hero": "Tigreal",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/7c/Hero067-portrait.png/revision/latest?cb=20220525164424",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/7c/Hero067-portrait.png/revision/latest?cb=20220525164424",
+    "key": "Tigreal-PLccsvNXkd",
+    "skin_name": "Special",
+    "sort": "2"
   }
 }
