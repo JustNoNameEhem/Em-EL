@@ -5099,5 +5099,14 @@
     "key": "Hayabusa-1HbP2hRDcd",
     "skin_name": "Exorcist",
     "sort": "1"
+  },
+  "Melissa-PIEveng6Xj": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/melissa%20sparkle.zip",
+    "hero": "Melissa",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7TxjzkyRLtKN-crhRP7be7VykUr4pGMYcp4hDqtWx-iitJ26zrKd7L2w&s=10",
+    "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7TxjzkyRLtKN-crhRP7be7VykUr4pGMYcp4hDqtWx-iitJ26zrKd7L2w&s=10",
+    "key": "Melissa-PIEveng6Xj",
+    "skin_name": "Sparkle",
+    "sort": "2"
   }
 }
