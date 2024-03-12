@@ -5081,5 +5081,14 @@
     "key": "Estes-tEhnv851hI",
     "skin_name": "Sparkle",
     "sort": "2"
+  },
+  "Fredrin-C1V41292f7": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/fredrinn%20sparkle.zip",
+    "hero": "Fredrin",
+    "img": "https://raw.githubusercontent.com/rahasia55/tes/main/fredrinn%20sparkle.png",
+    "img2": "https://raw.githubusercontent.com/rahasia55/tes/main/fredrinn%20sparkle.png",
+    "key": "Fredrin-C1V41292f7",
+    "skin_name": "Sparkle",
+    "sort": "0"
   }
 }
