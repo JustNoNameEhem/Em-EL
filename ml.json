@@ -5108,5 +5108,14 @@
     "key": "Melissa-PIEveng6Xj",
     "skin_name": "Sparkle",
     "sort": "2"
+  },
+  "Moskov-tbiO9pBrFP": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/moskov%20allstar.zip",
+    "hero": "Moskov",
+    "img": "https://raw.githubusercontent.com/rahasia55/tes/main/moskov%20allstar.png",
+    "img2": "https://raw.githubusercontent.com/rahasia55/tes/main/moskov%20allstar.png",
+    "key": "Moskov-tbiO9pBrFP",
+    "skin_name": "All Star",
+    "sort": "3"
   }
 }
