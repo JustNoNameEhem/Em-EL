@@ -5126,5 +5126,14 @@
     "key": "Terizla-p3M7h5j6zy",
     "skin_name": "Epic",
     "sort": "4"
+  },
+  "Vexana-N9idQkN01B": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/vexana%20zenith.zip",
+    "hero": "Vexana",
+    "img": "https://raw.githubusercontent.com/rahasia55/tes/main/vexana%20zenith.png",
+    "img2": "https://raw.githubusercontent.com/rahasia55/tes/main/vexana%20zenith.png",
+    "key": "Vexana-N9idQkN01B",
+    "skin_name": "Zenith",
+    "sort": "5"
   }
 }
