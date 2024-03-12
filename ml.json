@@ -5072,5 +5072,14 @@
     "key": "Claude-cmD0f6kxa9",
     "skin_name": "Epic",
     "sort": "1"
+  },
+  "Estes-tEhnv851hI": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/estes%20sparkle.zip",
+    "hero": "Estes",
+    "img": "https://pbs.twimg.com/media/GIFThhPbsAIcG5i.jpg:large",
+    "img2": "https://pbs.twimg.com/media/GIFThhPbsAIcG5i.jpg:large",
+    "key": "Estes-tEhnv851hI",
+    "skin_name": "Sparkle",
+    "sort": "2"
   }
 }
