@@ -5117,5 +5117,14 @@
     "key": "Kagura-xuK3ddoQ2V",
     "skin_name": "Water Lily",
     "sort": "1"
+  },
+  "Benedetta-LhdltaeR1d": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/benedetta%20mpl.zip",
+    "hero": "Benedetta",
+    "img": "https://raw.githubusercontent.com/rahasia55/tes/main/benedetta%20mpl.png",
+    "img2": "https://raw.githubusercontent.com/rahasia55/tes/main/benedetta%20mpl.png",
+    "key": "Benedetta-LhdltaeR1d",
+    "skin_name": "MPL",
+    "sort": "2"
   }
 }
