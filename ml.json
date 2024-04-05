@@ -5153,5 +5153,14 @@
     "key": "Chip-rdYCyO5o3C",
     "skin_name": "TEST",
     "sort": "0"
+  },
+  "Chip-4yGcHc4j96": {
+    "download": "TEST 1",
+    "hero": "Chip",
+    "img": "TEST 1",
+    "img2": "TEST 1",
+    "key": "Chip-4yGcHc4j96",
+    "skin_name": "TEST 1",
+    "sort": "1"
   }
 }
