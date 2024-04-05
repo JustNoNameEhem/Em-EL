@@ -5162,5 +5162,14 @@
     "key": "Chip-AuEP3v3dR9",
     "skin_name": "2",
     "sort": "1"
+  },
+  "Chip-vVqXyh3QHZ": {
+    "download": "3",
+    "hero": "Chip",
+    "img": "3",
+    "img2": "3",
+    "key": "Chip-vVqXyh3QHZ",
+    "skin_name": "3",
+    "sort": "1"
   }
 }
