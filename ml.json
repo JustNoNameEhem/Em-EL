@@ -5144,5 +5144,14 @@
     "key": "Franco-CinpptJxNi",
     "skin_name": "Legend",
     "sort": "1"
+  },
+  "Chip-rdYCyO5o3C": {
+    "download": "TEST",
+    "hero": "Chip",
+    "img": "TEST",
+    "img2": "TEST",
+    "key": "Chip-rdYCyO5o3C",
+    "skin_name": "TEST",
+    "sort": "0"
   }
 }
