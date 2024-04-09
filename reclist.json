@@ -1,4 +1,87 @@
-"roll":"Recall",
+[
+    {
+        "her":"515! Shuttle! Replacement",
+        "roll":"Recall",
+        "URL":"https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/b\/be\/515%21_Shuttle%21_Recall_Effect.png\/revision\/latest?cb=20220515021507"
+    },
+    {
+        "her":"5th Anniversary Replacement",
+        "roll":"Recall",
+        "URL":"https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/5\/57\/5th_Anniversary_Is_Here%21_Recall_Effect.png\/revision\/latest?cb=20211204091847"
+    },
+    {
+        "her":"Blazing West Replacement",
+        "roll":"Recall",
+        "URL":"https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/e\/e6\/Blazing_West_Recall_Effect.png\/revision\/latest?cb=20211204084612"
+    },
+    {
+        "her":"Carp Windsocks Fluttering Replacement",
+        "roll":"Recall",
+        "URL":"https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/f\/ff\/Carp_Windsocks_Fluttering~.png\/revision\/latest?cb=20211204090100"
+    },
+    {
+        "her":"Christmas Replacement",
+        "roll":"Recall",
+        "URL":"https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/0\/0e\/Christmas_Recall_Effect.png\/revision\/latest?cb=20211204090315"
+    },
+    {
+        "her":"Classic Replacement",
+        "roll":"Recall",
+        "URL":"https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/5\/5c\/Classic_Recall_Effect.png\/revision\/latest?cb=20211204090007"
+    },
+    {
+        "her":"Dashing Cat Replacement",
+        "roll":"Recall",
+        "URL":"https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/c\/c1\/Dashing_Cat_Recall_Effect.png\/revision\/latest?cb=20211204084418"
+    },
+    {
+        "her":"Emerald Road Replacement",
+        "roll":"Recall",
+        "URL":"https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/6\/6e\/Emerald_Road_Recall_Effect.png\/revision\/latest?cb=20211204090253"
+    },
+    {
+        "her":"Fire Crown Replacement",
+        "roll":"Recall",
+        "URL":"https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/7\/7c\/Fire_Crown_Recall_Effect.png\/revision\/latest?cb=20211204085112"
+    },
+    {
+        "her":"Halloween Replacement",
+        "roll":"Recall",
+        "URL":"https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/c\/cf\/Halloween_Recall_Effect.png\/revision\/latest?cb=20211204090139"
+    },
+    {
+        "her":"Light & Dark Replacement",
+        "roll":"Recall",
+        "URL":"https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/a\/a1\/Light_%26_Dark_Recall_Effect.png\/revision\/latest?cb=20211204090039"
+    },
+    {
+        "her":"Lucky Golden Egg Replacement",
+        "roll":"Recall",
+        "URL":"https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/5\/52\/Lucky_Golden_Egg_Recall_Effect.png\/revision\/latest?cb=20211204082643"
+    },
+    {
+        "her":"MLBB X Transformers Replacement",
+        "roll":"Recall",
+        "URL":"https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/2\/2b\/We_are_here%2C_we_are_waiting_Recall_Effect.png\/revision\/latest?cb=20211204082621"
+    },
+    {
+        "her":"MLBB x Star Wars Replacement",
+        "roll":"Recall",
+        "URL":"https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/9\/97\/MLBB_x_Star_Wars_Recall_Effect.png\/revision\/latest?cb=20210712121945"
+    },
+    {
+        "her":"Party King Replacement",
+        "roll":"Recall",
+        "URL":"https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/e\/ed\/Party_King_Recall_Effect.png\/revision\/latest?cb=20211204084739"
+    },
+    {
+        "her":"Party Star Replacement",
+        "roll":"Recall",
+        "URL":"https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/0\/0e\/Party_Star_Recall_Effect.png\/revision\/latest?cb=20211204084334"
+    },
+    {
+        "her":"Seal of Eternal Flower Replacement",
+            "roll":"Recall",
         "URL":"https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/b\/b5\/Seal_of_Eternal_Flower_Recall_Effect.png\/revision\/latest?cb=20211204084857"
     },
     {
@@ -20,7 +103,7 @@
         "her":"Summer Gala Replacement",
         "roll":"Recall",
         "URL":"https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/a\/a8\/Summer_Gala_Recall_Effect.png\/revision\/latest?cb=20211204085508"
-    }
+    },
     {
         "her":"Super Return Replacement",
         "roll":"Recall",
