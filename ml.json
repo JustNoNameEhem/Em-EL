@@ -5225,5 +5225,14 @@
     "key": "Nolan-o43tqVlMMf",
     "skin_name": "Basic",
     "sort": "1"
+  },
+  "Novaria-6fQrReVhGX": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/novaria%20star.zip",
+    "hero": "Novaria",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/40/Hero1193-portrait.png/revision/latest?cb=20240129102653",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/40/Hero1193-portrait.png/revision/latest?cb=20240129102653",
+    "key": "Novaria-6fQrReVhGX",
+    "skin_name": "Star",
+    "sort": "2"
   }
 }
