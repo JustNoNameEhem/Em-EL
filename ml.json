@@ -5207,5 +5207,14 @@
     "key": "Cici-nghgg0jkQe",
     "skin_name": "Basic",
     "sort": "3"
+  },
+  "Granger-0nbj85OziY": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/granger%20exorcist.zip",
+    "hero": "Granger",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHx8jakyYtg45oLOHlLS-ayJjYrOPFUdhr3dwUed9zL_Kp2pmuqeMlSkM&s=10",
+    "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHx8jakyYtg45oLOHlLS-ayJjYrOPFUdhr3dwUed9zL_Kp2pmuqeMlSkM&s=10",
+    "key": "Granger-0nbj85OziY",
+    "skin_name": "exorcist",
+    "sort": "1"
   }
 }
