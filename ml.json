@@ -5189,5 +5189,14 @@
     "key": "Lancelot-bHPI3GkVTj",
     "skin_name": "Dawning",
     "sort": "1"
+  },
+  "Lancelot-ccw0qzbVjc": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/lancelot%20champion.zip",
+    "hero": "Lancelot",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/32/Hero479-portrait.png/revision/latest?cb=20220525165252",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/32/Hero479-portrait.png/revision/latest?cb=20220525165252",
+    "key": "Lancelot-ccw0qzbVjc",
+    "skin_name": "Champion",
+    "sort": "2"
   }
 }
