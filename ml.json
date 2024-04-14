@@ -5198,5 +5198,14 @@
     "key": "Lancelot-ccw0qzbVjc",
     "skin_name": "Champion",
     "sort": "2"
+  },
+  "Cici-nghgg0jkQe": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/cici%20basic.zip",
+    "hero": "Cici",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/c6/Hero1232-portrait.png/revision/latest?cb=20231227083250",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/c/c6/Hero1232-portrait.png/revision/latest?cb=20231227083250",
+    "key": "Cici-nghgg0jkQe",
+    "skin_name": "Basic",
+    "sort": "3"
   }
 }
