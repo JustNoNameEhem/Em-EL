@@ -2554,5 +2554,14 @@
     "key": "Balmond-rG9OwodDJo",
     "skin_name": "Basic - Star",
     "sort": "1"
+  },
+  "Balmond-TJzTNTMia1": {
+    "download": "https://github.com/rahasia55/New-Up-Skin/raw/main/balmond%20elite%20to%20collector.zip",
+    "hero": "Balmond",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a9/Hero023-portrait.png/revision/latest?cb=20220525164302",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/01/Hero025-portrait.png/revision/latest?cb=20220525164309",
+    "key": "Balmond-TJzTNTMia1",
+    "skin_name": "Elite - Collector",
+    "sort": "2"
   }
 }
