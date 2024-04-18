@@ -2590,5 +2590,14 @@
     "key": "Brody-oWBRIfCehP",
     "skin_name": "Basic - Stun",
     "sort": "1"
+  },
+  "Bruno-cwqcZ8uGLU": {
+    "download": "https://github.com/rahasia55/New-Up-Skin/raw/main/bruno%20elite%20to%20halo%20striker.zip",
+    "hero": "Bruno",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/28/Hero122-portrait.png/revision/latest?cb=20220525164547",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/c/ca/Hero128-portrait.png/revision/latest?cb=20221103134233",
+    "key": "Bruno-cwqcZ8uGLU",
+    "skin_name": "Elite - Halo Striker",
+    "sort": "2"
   }
 }
