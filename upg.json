@@ -2527,5 +2527,14 @@
     "key": "Aurora-xxlmDhSmwE",
     "skin_name": "Basic - Zodiac",
     "sort": "1"
+  },
+  "Balmond-F0IkuhAUOR": {
+    "download": "https://github.com/rahasia55/New-Up-Skin/raw/main/balmond%20basic%20to%20collector.zip",
+    "hero": "Balmond",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/cd/Hero022-portrait.png/revision/latest?cb=20220525164259",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/01/Hero025-portrait.png/revision/latest?cb=20220525164309",
+    "key": "Balmond-F0IkuhAUOR",
+    "skin_name": "Basic - Collector",
+    "sort": "1"
   }
 }
