@@ -2581,5 +2581,14 @@
     "key": "Brody-o3bSP4XhiH",
     "skin_name": "Basic - Mpl",
     "sort": "1"
+  },
+  "Brody-oWBRIfCehP": {
+    "download": "https://github.com/rahasia55/New-Up-Skin/raw/main/brody%20basic%20to%20stun.zip",
+    "hero": "Brody",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e9/Hero1002-portrait.png/revision/latest?cb=20220525170319",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/25/Hero1003-portrait.png/revision/latest?cb=20220525170320",
+    "key": "Brody-oWBRIfCehP",
+    "skin_name": "Basic - Stun",
+    "sort": "1"
   }
 }
