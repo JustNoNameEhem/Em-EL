@@ -2599,5 +2599,14 @@
     "key": "Bruno-cwqcZ8uGLU",
     "skin_name": "Elite - Halo Striker",
     "sort": "2"
+  },
+  "Bruno-IC6TJnZeyG": {
+    "download": "https://github.com/rahasia55/New-Up-Skin/raw/main/bruno%20elite%20to%20star.zip",
+    "hero": "Bruno",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/28/Hero122-portrait.png/revision/latest?cb=20220525164547",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/e8/Hero127-portrait.png/revision/latest?cb=20240114091333",
+    "key": "Bruno-IC6TJnZeyG",
+    "skin_name": "Elite - Star",
+    "sort": "2"
   }
 }
