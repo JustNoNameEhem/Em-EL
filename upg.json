@@ -2572,5 +2572,14 @@
     "key": "Balmond-oBmeNlxwHA",
     "skin_name": "Elite - Collector",
     "sort": "3"
+  },
+  "Brody-o3bSP4XhiH": {
+    "download": "https://github.com/rahasia55/New-Up-Skin/raw/main/brody%20basic%20to%20mpl.zip",
+    "hero": "Brody",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e9/Hero1002-portrait.png/revision/latest?cb=20220525170319",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/33/Hero1006-portrait.png/revision/latest?cb=20230212035442",
+    "key": "Brody-o3bSP4XhiH",
+    "skin_name": "Basic - Mpl",
+    "sort": "1"
   }
 }
