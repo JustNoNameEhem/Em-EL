@@ -2518,5 +2518,14 @@
     "key": "Aurora-B8E4IODGm0",
     "skin_name": "basic - kof",
     "sort": "1"
+  },
+  "Aurora-xxlmDhSmwE": {
+    "download": "https://github.com/rahasia55/New-Up-Skin/raw/main/aurora%20basic%20to%20zodiac.zip",
+    "hero": "Aurora",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e5/Hero362-portrait.png/revision/latest?cb=20240212111012",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/73/Hero365-portrait.png/revision/latest?cb=20240212110806",
+    "key": "Aurora-xxlmDhSmwE",
+    "skin_name": "Basic - Zodiac",
+    "sort": "1"
   }
 }
