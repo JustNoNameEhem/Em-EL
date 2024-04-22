@@ -2725,5 +2725,14 @@
     "key": "Freya-rYYqfveEUl",
     "skin_name": "Star - Legend",
     "sort": "7"
+  },
+  "Jawhead-doT4YuhFIc": {
+    "download": "https://github.com/rahasia55/New-Up-Skin/raw/main/jawhead%20basic%20to%20collector.zip",
+    "hero": "Jawhead",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/5e/Hero542-portrait.png/revision/latest?cb=20220525165412",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/9a/Hero546-portrait.png/revision/latest?cb=20220525165417",
+    "key": "Jawhead-doT4YuhFIc",
+    "skin_name": "Basic - Collector",
+    "sort": "1"
   }
 }
