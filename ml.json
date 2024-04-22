@@ -5270,5 +5270,14 @@
     "key": "Nolan-ddqAT4yP67",
     "skin_name": "Star",
     "sort": "1"
+  },
+  "Paquito-q96sEDL2fn": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/paqoito%20kof.zip",
+    "hero": "Paquito",
+    "img": "https://github.com/rahasia55/New-Default-skin/blob/main/paquito%20kof.png?raw=true",
+    "img2": "https://github.com/rahasia55/New-Default-skin/blob/main/paquito%20kof.png?raw=true",
+    "key": "Paquito-q96sEDL2fn",
+    "skin_name": "KOF",
+    "sort": "1"
   }
 }
