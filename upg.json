@@ -2662,5 +2662,14 @@
     "key": "Chang'e-sd1gXpozct",
     "skin_name": "Basic - Sanrio",
     "sort": "1"
+  },
+  "Chang'e-KYCjIk2VqO": {
+    "download": "https://github.com/rahasia55/New-Up-Skin/raw/main/change%20elite%20to%20epic.zip",
+    "hero": "Chang'e",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/c7/Hero613-portrait.png/revision/latest?cb=20240121135007",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/8f/Hero615-portrait.png/revision/latest?cb=20220525165543",
+    "key": "Chang'e-KYCjIk2VqO",
+    "skin_name": "Elite - Epic",
+    "sort": "2"
   }
 }
