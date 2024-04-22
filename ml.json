@@ -5243,5 +5243,14 @@
     "key": "Julian-VXsfULYrH3",
     "skin_name": "Starlight",
     "sort": "1"
+  },
+  "Masha-XSpOBm4Byg": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/masha%20kof.zip",
+    "hero": "Masha",
+    "img": "https://github.com/rahasia55/New-Default-skin/blob/main/masha%20kof.png?raw=true",
+    "img2": "https://github.com/rahasia55/New-Default-skin/blob/main/masha%20kof.png?raw=true",
+    "key": "Masha-XSpOBm4Byg",
+    "skin_name": "KOF",
+    "sort": "2"
   }
 }
