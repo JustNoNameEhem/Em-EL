@@ -5252,5 +5252,14 @@
     "key": "Masha-XSpOBm4Byg",
     "skin_name": "KOF",
     "sort": "2"
+  },
+  "Khaleed-0r5bdxPovw": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/khaleed%20epic.zip",
+    "hero": "Khaleed",
+    "img": "https://github.com/rahasia55/New-Default-skin/blob/main/khaleed%20epic.png?raw=true",
+    "img2": "https://github.com/rahasia55/New-Default-skin/blob/main/khaleed%20epic.png?raw=true",
+    "key": "Khaleed-0r5bdxPovw",
+    "skin_name": "Epic",
+    "sort": "3"
   }
 }
