@@ -2716,5 +2716,14 @@
     "key": "Freya-G01ZpnmGFE",
     "skin_name": "Elite - Epic",
     "sort": "2"
+  },
+  "Freya-rYYqfveEUl": {
+    "download": "https://github.com/rahasia55/New-Up-Skin/raw/main/freya%20star%20to%20legend.zip",
+    "hero": "Freya",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/80/Hero223-portrait.png/revision/latest?cb=20220525164802",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/eb/Hero102210-portrait.png/revision/latest?cb=20240114101726",
+    "key": "Freya-rYYqfveEUl",
+    "skin_name": "Star - Legend",
+    "sort": "7"
   }
 }
