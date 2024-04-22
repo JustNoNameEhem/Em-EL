@@ -2734,5 +2734,14 @@
     "key": "Jawhead-doT4YuhFIc",
     "skin_name": "Basic - Collector",
     "sort": "1"
+  },
+  "Jawhead-MUuEgcRbRv": {
+    "download": "https://github.com/rahasia55/New-Up-Skin/raw/main/jawhead%20basic%20to%20mpl.zip",
+    "hero": "Jawhead",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/5e/Hero542-portrait.png/revision/latest?cb=20220525165412",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/66/Hero548-portrait.png/revision/latest?cb=20220804115329",
+    "key": "Jawhead-MUuEgcRbRv",
+    "skin_name": "Basic - MPL",
+    "sort": "1"
   }
 }
