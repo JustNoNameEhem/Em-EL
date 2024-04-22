@@ -2626,5 +2626,14 @@
     "key": "Cecilion-qGzf4TzJpP",
     "skin_name": "Basic - Star",
     "sort": "1"
+  },
+  "Cecilion-9FVaCKWFWl": {
+    "download": "https://github.com/rahasia55/New-Up-Skin/raw/main/cecilion%20elite%20to%20collector.zip",
+    "hero": "Cecilion",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/06/Hero913-portrait.png/revision/latest?cb=20220525170200",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/42/Hero916-portrait.png/revision/latest?cb=20220915122137",
+    "key": "Cecilion-9FVaCKWFWl",
+    "skin_name": "Elite - Collector",
+    "sort": "2"
   }
 }
