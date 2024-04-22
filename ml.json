@@ -5261,5 +5261,14 @@
     "key": "Khaleed-0r5bdxPovw",
     "skin_name": "Epic",
     "sort": "3"
+  },
+  "Nolan-XyWp1A3R7U": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/nolan%20star.zip",
+    "hero": "Nolan",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU5oD9cp_AfnXxZ8Q401WrwTs1xztfCo2KdERvFEW_CJdVkXXRLESuUQc&s=10",
+    "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU5oD9cp_AfnXxZ8Q401WrwTs1xztfCo2KdERvFEW_CJdVkXXRLESuUQc&s=10",
+    "key": "Nolan-XyWp1A3R7U",
+    "skin_name": "Starlight",
+    "sort": "4"
   }
 }
