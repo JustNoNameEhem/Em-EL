@@ -5270,5 +5270,14 @@
     "key": "Nolan-XyWp1A3R7U",
     "skin_name": "Starlight",
     "sort": "4"
+  },
+  "Paquito-P5jXpacRAR": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/paquito%20pacquiao.zip",
+    "hero": "Paquito",
+    "img": "https://github.com/rahasia55/New-Default-skin/blob/main/paquito%20kof.png?raw=true",
+    "img2": "https://github.com/rahasia55/New-Default-skin/blob/main/paquito%20kof.png?raw=true",
+    "key": "Paquito-P5jXpacRAR",
+    "skin_name": "KOF",
+    "sort": "5"
   }
 }
