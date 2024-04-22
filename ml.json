@@ -5279,5 +5279,14 @@
     "key": "Paquito-q96sEDL2fn",
     "skin_name": "KOF",
     "sort": "1"
+  },
+  "Khaleed-Bbx0Gm21uF": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/khaleed%20epic.zip",
+    "hero": "Khaleed",
+    "img": "https://github.com/rahasia55/New-Default-skin/blob/main/khaleed%20epic.png?raw=true",
+    "img2": "https://github.com/rahasia55/New-Default-skin/blob/main/khaleed%20epic.png?raw=true",
+    "key": "Khaleed-Bbx0Gm21uF",
+    "skin_name": "Epic",
+    "sort": "1"
   }
 }
