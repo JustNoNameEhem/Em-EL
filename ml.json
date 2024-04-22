@@ -5261,5 +5261,14 @@
     "key": "Masha-6fgTWLPrpu",
     "skin_name": "KOF",
     "sort": "1"
+  },
+  "Nolan-ddqAT4yP67": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/nolan%20star.zip",
+    "hero": "Nolan",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU5oD9cp_AfnXxZ8Q401WrwTs1xztfCo2KdERvFEW_CJdVkXXRLESuUQc&s=10",
+    "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU5oD9cp_AfnXxZ8Q401WrwTs1xztfCo2KdERvFEW_CJdVkXXRLESuUQc&s=10",
+    "key": "Nolan-ddqAT4yP67",
+    "skin_name": "Star",
+    "sort": "1"
   }
 }
