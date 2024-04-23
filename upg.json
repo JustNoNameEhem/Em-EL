@@ -2743,5 +2743,14 @@
     "key": "Jawhead-MUuEgcRbRv",
     "skin_name": "Basic - MPL",
     "sort": "1"
+  },
+  "Jawhead-ER1cFTnQeF": {
+    "download": "https://github.com/rahasia55/New-Up-Skin/raw/main/jawhead%20elite%20to%20collector.zip",
+    "hero": "Jawhead",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/09/Hero544-portrait.png/revision/latest?cb=20220525165414",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/9a/Hero546-portrait.png/revision/latest?cb=20220525165417",
+    "key": "Jawhead-ER1cFTnQeF",
+    "skin_name": "Elite - Collector",
+    "sort": "2"
   }
 }
