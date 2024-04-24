@@ -2887,5 +2887,14 @@
     "key": "Esmeralda-CcP9baiuAo",
     "skin_name": "Basic - Dawning",
     "sort": "1"
+  },
+  "Esmeralda-SYdyIBDgLR": {
+    "download": "https://github.com/rahasia55/New-Up-Skin/raw/main/esmeralda%20elite%20to%20dawning.zip",
+    "hero": "Esmeralda",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/70/Hero813-portrait.png/revision/latest?cb=20220525165934",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/ad/Hero817-portrait.png/revision/latest?cb=20220525165938",
+    "key": "Esmeralda-SYdyIBDgLR",
+    "skin_name": "Elite - Dawning",
+    "sort": "2"
   }
 }
