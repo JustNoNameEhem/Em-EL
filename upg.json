@@ -2869,5 +2869,14 @@
     "key": "Diggie-12NOMPCJtF",
     "skin_name": "Elite - Epic",
     "sort": "2"
+  },
+  "Edith-IKgOJohP7y": {
+    "download": "https://github.com/rahasia55/New-Up-Skin/raw/main/edith%20basic%20to%20collector.zip",
+    "hero": "Edith",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/1a/Hero1112-portrait.png/revision/latest?cb=20220525170534",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/94/Hero1114-portrait.png/revision/latest?cb=20240405034912",
+    "key": "Edith-IKgOJohP7y",
+    "skin_name": "Basic - Collector",
+    "sort": "1"
   }
 }
