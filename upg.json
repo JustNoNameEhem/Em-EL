@@ -2824,5 +2824,14 @@
     "key": "Cyclops-3Ivvkxi6Wd",
     "skin_name": "Basic - Star Wars",
     "sort": "1"
+  },
+  "Cyclops-wlo4xkRolf": {
+    "download": "https://github.com/rahasia55/New-Up-Skin/raw/main/cyclops%20elite%20to%20star%20wars.zip",
+    "hero": "Cyclops",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/6d/Hero333-portrait.png/revision/latest?cb=20220525165024",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/84/Hero337-portrait.png/revision/latest?cb=20220525165031",
+    "key": "Cyclops-wlo4xkRolf",
+    "skin_name": "Elite - Star Wars",
+    "sort": "2"
   }
 }
