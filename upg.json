@@ -2941,5 +2941,14 @@
     "key": "Eudora-FKMuP99P2e",
     "skin_name": "Basic - Epic",
     "sort": "1"
+  },
+  "Eudora-QJAef1Gk2X": {
+    "download": "https://github.com/rahasia55/New-Up-Skin/raw/main/eudora%20season%20to%20atomic.zip",
+    "hero": "Eudora",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/b0/Hero156-portrait.png/revision/latest?cb=20220525164635",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/14/Hero158-portrait.png/revision/latest?cb=20230316133651",
+    "key": "Eudora-QJAef1Gk2X",
+    "skin_name": "Season - Atomic",
+    "sort": "15"
   }
 }
