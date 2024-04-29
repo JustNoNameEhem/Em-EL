@@ -3049,5 +3049,14 @@
     "key": "Floryn-mx9pg3yX5N",
     "skin_name": "Basic - Sanrio",
     "sort": "1"
+  },
+  "Floryn-i3RphHHIi3": {
+    "download": "https://github.com/rahasia55/New-Up-Skin/raw/main/floryn%20elite%20to%20sanrio.zip",
+    "hero": "Floryn",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/eb/Hero1124-portrait.png/revision/latest?cb=20230212035445",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/92/Hero1123-portrait.png/revision/latest?cb=20220525170548",
+    "key": "Floryn-i3RphHHIi3",
+    "skin_name": "Elite Sanrio",
+    "sort": "2"
   }
 }
