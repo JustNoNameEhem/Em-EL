@@ -2905,5 +2905,14 @@
     "key": "Estes-En54wIKdGU",
     "skin_name": "Basic - Champion",
     "sort": "1"
+  },
+  "Estes-AVfUebm09y": {
+    "download": "https://github.com/rahasia55/New-Up-Skin/raw/main/estes%20basic%20to%20sparkle.zip",
+    "hero": "Estes",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a3/Hero342-portrait.png/revision/latest?cb=20220525165042",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/9f/Hero348-portrait.png/revision/latest?cb=20240416015757",
+    "key": "Estes-AVfUebm09y",
+    "skin_name": "Basic -Sparkle",
+    "sort": "1"
   }
 }
