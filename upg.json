@@ -2923,5 +2923,14 @@
     "key": "Estes-QHBcklIKkH",
     "skin_name": "Season - Champion",
     "sort": "15"
+  },
+  "Eudora-8CrtkCY05W": {
+    "download": "https://github.com/rahasia55/New-Up-Skin/raw/main/eudora%20basic%20to%20atomic.zip",
+    "hero": "Eudora",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/68/Hero152-portrait.png/revision/latest?cb=20220525164631",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/14/Hero158-portrait.png/revision/latest?cb=20230316133651",
+    "key": "Eudora-8CrtkCY05W",
+    "skin_name": "Basic - Atomic",
+    "sort": "1"
   }
 }
