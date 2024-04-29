@@ -3031,5 +3031,14 @@
     "key": "Faramis-SjWnwHhkL9",
     "skin_name": "Basic - Mythic",
     "sort": "1"
+  },
+  "Faramis-fwnzlHAnVP": {
+    "download": "https://github.com/rahasia55/New-Up-Skin/raw/main/faramis%20basic%20to%20summer.zip",
+    "hero": "Faramis",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d1/Hero762-portrait.png/revision/latest?cb=20220628173753",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Hero764-portrait.png/revision/latest?cb=20230623125804",
+    "key": "Faramis-fwnzlHAnVP",
+    "skin_name": "Basic - Summer",
+    "sort": "1"
   }
 }
