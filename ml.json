@@ -5324,5 +5324,14 @@
     "key": "Alpha-VuGYH57ne5",
     "skin_name": "Collector",
     "sort": "2"
+  },
+  "Alucard-FkJNZovJBY": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/alu%20x%20kyo%20susanagi.zip",
+    "hero": "Alucard",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr-KKXxq8hnq-uTcFOJdvUgpb_kZ1CWgxHTg&usqp=CAU",
+    "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr-KKXxq8hnq-uTcFOJdvUgpb_kZ1CWgxHTg&usqp=CAU",
+    "key": "Alucard-FkJNZovJBY",
+    "skin_name": "kyo kusanagi",
+    "sort": "3"
   }
 }
