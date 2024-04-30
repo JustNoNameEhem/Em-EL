@@ -5306,5 +5306,14 @@
     "key": "Julian-cW3GyPYBik",
     "skin_name": "JJK",
     "sort": "1"
+  },
+  "Alice-JGvd5FbK7r": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/alice%20epic2.zip",
+    "hero": "Alice",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSuxdjRce_pfdCmaVo049PI4OGo6glKat_5A&usqp=CAU",
+    "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSuxdjRce_pfdCmaVo049PI4OGo6glKat_5A&usqp=CAU",
+    "key": "Alice-JGvd5FbK7r",
+    "skin_name": "Epic",
+    "sort": "1"
   }
 }
