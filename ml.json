@@ -5315,5 +5315,14 @@
     "key": "Alice-JGvd5FbK7r",
     "skin_name": "Epic",
     "sort": "1"
+  },
+  "Alpha-VuGYH57ne5": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/alpha%20collector.zip",
+    "hero": "Alpha",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaZo47r50BY7nVR_QyyF83HtOq3FXasLz2OA&usqp=CAU",
+    "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaZo47r50BY7nVR_QyyF83HtOq3FXasLz2OA&usqp=CAU",
+    "key": "Alpha-VuGYH57ne5",
+    "skin_name": "Collector",
+    "sort": "2"
   }
 }
