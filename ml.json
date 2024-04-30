@@ -5333,5 +5333,14 @@
     "key": "Alucard-FkJNZovJBY",
     "skin_name": "kyo kusanagi",
     "sort": "3"
+  },
+  "Aurora-Qw636RF2xN": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/aurora%20x%20conan.zip",
+    "hero": "Aurora",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTL4JSdkA7yI4zLzTcGqloGi-4f7m3VhAhaewtx_quWfVTESAI_x9D1rF8&s=10",
+    "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTL4JSdkA7yI4zLzTcGqloGi-4f7m3VhAhaewtx_quWfVTESAI_x9D1rF8&s=10",
+    "key": "Aurora-Qw636RF2xN",
+    "skin_name": "Conan",
+    "sort": "4"
   }
 }
