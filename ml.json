@@ -5351,5 +5351,14 @@
     "key": "Hayabusa-zpM2Xbh5GN",
     "skin_name": "minato",
     "sort": "5"
+  },
+  "Johnson-fXEhQPKwzd": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/johnson%20epic.zip",
+    "hero": "Johnson",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCTr2yLziNErgInD27ma_l4gXWNqAzZEDW6w&usqp=CAU",
+    "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCTr2yLziNErgInD27ma_l4gXWNqAzZEDW6w&usqp=CAU",
+    "key": "Johnson-fXEhQPKwzd",
+    "skin_name": "Epic",
+    "sort": "6"
   }
 }
