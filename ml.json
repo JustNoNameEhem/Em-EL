@@ -5369,5 +5369,14 @@
     "key": "Ling-IemEWc2uPL",
     "skin_name": "Levi",
     "sort": "7"
+  },
+  "Ruby-TW6QHeeoIy": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/ruby%20special.zip",
+    "hero": "Ruby",
+    "img": "https://pbs.twimg.com/media/GK4rLJMaoAAU5en?format=jpg&name=4096x4096",
+    "img2": "https://pbs.twimg.com/media/GK4rLJMaoAAU5en?format=jpg&name=4096x4096",
+    "key": "Ruby-TW6QHeeoIy",
+    "skin_name": "Special",
+    "sort": "8"
   }
 }
