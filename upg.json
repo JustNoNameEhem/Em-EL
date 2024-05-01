@@ -3229,5 +3229,14 @@
     "key": "Grock-2ucGgWn1Qn",
     "skin_name": "Basic - Venom",
     "sort": "1"
+  },
+  "Grock-BUXBjCAOV5": {
+    "download": "https://github.com/rahasia55/New-Up-Skin/raw/main/grock%20elite%20to%20epic.zip",
+    "hero": "Grock",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/9d/Hero443-portrait.png/revision/latest?cb=20220525165221",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/63/Hero446-portrait.png/revision/latest?cb=20220525165223",
+    "key": "Grock-BUXBjCAOV5",
+    "skin_name": "Elite - Epic",
+    "sort": "2"
   }
 }
