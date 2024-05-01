@@ -3148,5 +3148,14 @@
     "key": "Granger-IJ4vhOkZgk",
     "skin_name": "Basic - Collector",
     "sort": "1"
+  },
+  "Granger-fLcFvlrl7n": {
+    "download": "https://github.com/rahasia55/New-Up-Skin/raw/main/granger%20basic%20to%20exorcist.zip",
+    "hero": "Granger",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f6/Hero792-portrait.png/revision/latest?cb=20220525165840",
+    "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHx8jakyYtg45oLOHlLS-ayJjYrOPFUdhr3dwUed9zL_Kp2pmuqeMlSkM&s=10",
+    "key": "Granger-fLcFvlrl7n",
+    "skin_name": "Basic - Exorcist",
+    "sort": "1"
   }
 }
