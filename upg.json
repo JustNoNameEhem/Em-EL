@@ -3139,5 +3139,14 @@
     "key": "Gord-HMNwApIzrA",
     "skin_name": "Season - Legend",
     "sort": "15"
+  },
+  "Granger-IJ4vhOkZgk": {
+    "download": "https://github.com/rahasia55/New-Up-Skin/raw/main/granger%20basic%20to%20collector.zip",
+    "hero": "Granger",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f6/Hero792-portrait.png/revision/latest?cb=20220525165840",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/93/Hero796-portrait.png/revision/latest?cb=20220525165845",
+    "key": "Granger-IJ4vhOkZgk",
+    "skin_name": "Basic - Collector",
+    "sort": "1"
   }
 }
