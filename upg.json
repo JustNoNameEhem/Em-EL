@@ -3328,5 +3328,14 @@
     "key": "Hanabi-qnrRxDT0GL",
     "skin_name": "Basic - Epic",
     "sort": "1"
+  },
+  "Hanabi-z12MUEI7QX": {
+    "download": "https://github.com/rahasia55/New-Up-Skin/raw/main/hanabi%20elite%20to%20allstar.zip",
+    "hero": "Hanabi",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/99/Hero603-portrait.png/revision/latest?cb=20220525165523",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/2a/Hero609-portrait.png/revision/latest?cb=20230316133735",
+    "key": "Hanabi-z12MUEI7QX",
+    "skin_name": "Elite - AllStar",
+    "sort": "2"
   }
 }
