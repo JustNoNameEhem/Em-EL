@@ -3301,5 +3301,14 @@
     "key": "Guinevere-GXPa5fSSEC",
     "skin_name": "Star - KOF",
     "sort": "1"
+  },
+  "Hanabi-y4hnZTc209": {
+    "download": "https://github.com/rahasia55/New-Up-Skin/raw/main/hanabi%20basic%20to%20allstar.zip",
+    "hero": "Hanabi",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/be/Hero602-portrait.png/revision/latest?cb=20221216103133",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/2a/Hero609-portrait.png/revision/latest?cb=20230316133735",
+    "key": "Hanabi-y4hnZTc209",
+    "skin_name": "Basic - AllStar",
+    "sort": "1"
   }
 }
