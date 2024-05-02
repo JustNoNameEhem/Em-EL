@@ -3364,5 +3364,14 @@
     "key": "Hanzo-FTx0QpnAmm",
     "skin_name": "Basic - Special",
     "sort": "1"
+  },
+  "Hanzo-RbH1ldT117": {
+    "download": "https://github.com/rahasia55/New-Up-Skin/raw/main/hanzo%20elite%20to%20special.zip",
+    "hero": "Hanzo",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/51/Hero693-portrait.png/revision/latest?cb=20220525165726",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/29/Hero694-portrait.png/revision/latest?cb=20220525165727",
+    "key": "Hanzo-RbH1ldT117",
+    "skin_name": "Elite - Special",
+    "sort": "2"
   }
 }
