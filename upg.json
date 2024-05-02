@@ -3256,5 +3256,14 @@
     "key": "Guinevere-rtok5nXZy0",
     "skin_name": "Basic - Epic",
     "sort": "1"
+  },
+  "Guinevere-Fz9NCSYgtI": {
+    "download": "https://github.com/rahasia55/New-Up-Skin/raw/main/guinevere%20basic%20to%20kof.zip",
+    "hero": "Guinevere",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/83/Hero802-portrait.png/revision/latest?cb=20220525165903",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/2e/Hero803-portrait.png/revision/latest?cb=20220525165906",
+    "key": "Guinevere-Fz9NCSYgtI",
+    "skin_name": "Basic - KOF",
+    "sort": "1"
   }
 }
