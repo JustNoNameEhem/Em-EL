@@ -3292,5 +3292,14 @@
     "key": "Guinevere-pgWe17g5vy",
     "skin_name": "Star - Epic",
     "sort": "1"
+  },
+  "Guinevere-GXPa5fSSEC": {
+    "download": "https://github.com/rahasia55/New-Up-Skin/raw/main/guinevere%20star%20to%20kof.zip",
+    "hero": "Guinevere",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/cb/Hero804-portrait.png/revision/latest?cb=20220525165909",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/2e/Hero803-portrait.png/revision/latest?cb=20220525165906",
+    "key": "Guinevere-GXPa5fSSEC",
+    "skin_name": "Star - KOF",
+    "sort": "1"
   }
 }
