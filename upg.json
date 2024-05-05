@@ -3463,5 +3463,14 @@
     "key": "Harley-VRbd68YGJc",
     "skin_name": "Basic - Special",
     "sort": "1"
+  },
+  "Harley-7thacw8z6o": {
+    "download": "https://github.com/rahasia55/New-Up-Skin/raw/main/harley%20star%20to%20collector.zip",
+    "hero": "Harley",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/ef/Hero423-portrait.png/revision/latest?cb=20220525165203",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/1f/Hero427-portrait.png/revision/latest?cb=20220525165207",
+    "key": "Harley-7thacw8z6o",
+    "skin_name": "Star - Collector",
+    "sort": "7"
   }
 }
