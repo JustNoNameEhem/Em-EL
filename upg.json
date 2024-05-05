@@ -3499,5 +3499,14 @@
     "key": "Hayabusa-Vbtj9ZvoWi",
     "skin_name": "Basic - Star",
     "sort": "1"
+  },
+  "Hayabusa-egssWECrmJ": {
+    "download": "https://github.com/rahasia55/New-Up-Skin/raw/main/hayabusa%20elite%20to%20star.zip",
+    "hero": "Hayabusa",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/59/Hero213-portrait.png/revision/latest?cb=20220525164752",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/58/Hero215-portrait.png/revision/latest?cb=20220525164754",
+    "key": "Hayabusa-egssWECrmJ",
+    "skin_name": "Elite - Star",
+    "sort": "2"
   }
 }
