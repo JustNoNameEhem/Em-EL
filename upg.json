@@ -3382,5 +3382,14 @@
     "key": "Masha-ia1Nxq5Qzt",
     "skin_name": "Season > KOF",
     "sort": "3"
+  },
+  "Harith-eVWourCzcy": {
+    "download": "https://github.com/rahasia55/New-Up-Skin/raw/main/harith%20basic%20to%20champion.zip",
+    "hero": "Harith",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/8b/Hero732-portrait.png/revision/latest?cb=20220525165754",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/96/Hero736-portrait.png/revision/latest?cb=20220525165758",
+    "key": "Harith-eVWourCzcy",
+    "skin_name": "Basic - Champion",
+    "sort": "1"
   }
 }
