@@ -3391,5 +3391,14 @@
     "key": "Harith-eVWourCzcy",
     "skin_name": "Basic - Champion",
     "sort": "1"
+  },
+  "Harith-wZUbR2HxhD": {
+    "download": "https://github.com/rahasia55/New-Up-Skin/raw/main/harith%20basic%20to%20epic.zip",
+    "hero": "Harith",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/8b/Hero732-portrait.png/revision/latest?cb=20220525165754",
+    "img2": "https://github.com/rahasia55/New-Default-skin/blob/main/harith%20collector.png?raw=true",
+    "key": "Harith-wZUbR2HxhD",
+    "skin_name": "Basic - Epic",
+    "sort": "1"
   }
 }
