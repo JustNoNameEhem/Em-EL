@@ -3544,5 +3544,14 @@
     "key": "Irithel-vSmwsytZAq",
     "skin_name": "Basic - Zodiac",
     "sort": "1"
+  },
+  "Irithel-dKrIaLaGFU": {
+    "download": "https://github.com/rahasia55/New-Up-Skin/raw/main/irithel%20star%20to%20epic2.zip",
+    "hero": "Irithel",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/21/Hero434-portrait.png/revision/latest?cb=20220525165213",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/b1/Hero436-portrait.png/revision/latest?cb=20220920091656",
+    "key": "Irithel-dKrIaLaGFU",
+    "skin_name": "Star - Epic",
+    "sort": "7"
   }
 }
