@@ -5396,5 +5396,14 @@
     "key": "Aamon-xzakYGzRUm",
     "skin_name": "Soul Vessel",
     "sort": "2"
+  },
+  "Gusion-XoKM8GLyMB": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/gusion%20star2.zip",
+    "hero": "Gusion",
+    "img": "https://raw.githubusercontent.com/rahasia55/tes/main/gusion%20star2.png",
+    "img2": "https://raw.githubusercontent.com/rahasia55/tes/main/gusion%20star2.png",
+    "key": "Gusion-XoKM8GLyMB",
+    "skin_name": "Star",
+    "sort": "3"
   }
 }
