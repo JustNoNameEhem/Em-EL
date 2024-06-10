@@ -5423,5 +5423,14 @@
     "key": "Layla-Tpo6monJSK",
     "skin_name": "Collector",
     "sort": "5"
+  },
+  "Valentina-C0dTUakFA4": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/valentina%20msc.zip",
+    "hero": "Valentina",
+    "img": "https://raw.githubusercontent.com/rahasia55/tes/main/valentina%20msc.png",
+    "img2": "https://raw.githubusercontent.com/rahasia55/tes/main/valentina%20msc.png",
+    "key": "Valentina-C0dTUakFA4",
+    "skin_name": "MSC",
+    "sort": "6"
   }
 }
