@@ -5414,5 +5414,14 @@
     "key": "Kadita-6JOPuRvCGJ",
     "skin_name": "Create",
     "sort": "4"
+  },
+  "Layla-Tpo6monJSK": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/layla%20collector.zip",
+    "hero": "Layla",
+    "img": "https://raw.githubusercontent.com/rahasia55/tes/main/layla%20collector.png",
+    "img2": "https://raw.githubusercontent.com/rahasia55/tes/main/layla%20collector.png",
+    "key": "Layla-Tpo6monJSK",
+    "skin_name": "Collector",
+    "sort": "5"
   }
 }
