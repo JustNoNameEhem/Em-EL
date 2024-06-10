@@ -5387,5 +5387,14 @@
     "key": "Hanabi-Eg4wNp0p6g",
     "skin_name": "Soul Vessel",
     "sort": "1"
+  },
+  "Aamon-xzakYGzRUm": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/aamon%20soul%20vessel.zip",
+    "hero": "Aamon",
+    "img": "https://raw.githubusercontent.com/rahasia55/tes/main/aamon%20soul%20vessel.png",
+    "img2": "https://raw.githubusercontent.com/rahasia55/tes/main/aamon%20soul%20vessel.png",
+    "key": "Aamon-xzakYGzRUm",
+    "skin_name": "Soul Vessel",
+    "sort": "2"
   }
 }
