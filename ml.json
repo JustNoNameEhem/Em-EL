@@ -5504,5 +5504,14 @@
     "key": "Lancelot-u2DlVlvVNE",
     "skin_name": "Levi",
     "sort": "8"
+  },
+  "Vexana-jcR1rEpCmY": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/vexana%20x%20megumi.zip",
+    "hero": "Vexana",
+    "img": "https://raw.githubusercontent.com/rahasia55/tes/main/vexana%20x%20megumi.png",
+    "img2": "https://raw.githubusercontent.com/rahasia55/tes/main/vexana%20x%20megumi.png",
+    "key": "Vexana-jcR1rEpCmY",
+    "skin_name": "Megumi",
+    "sort": "9"
   }
 }
