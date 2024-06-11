@@ -5477,5 +5477,14 @@
     "key": "Hayabusa-m3aabPsozB",
     "skin_name": "kakashi",
     "sort": "5"
+  },
+  "Khaleed-D5FlS8zhS8": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/khaleed%20x%20mpl.zip",
+    "hero": "Khaleed",
+    "img": "https://raw.githubusercontent.com/rahasia55/tes/main/khaleed%20x%20mpl.png",
+    "img2": "https://raw.githubusercontent.com/rahasia55/tes/main/khaleed%20x%20mpl.png",
+    "key": "Khaleed-D5FlS8zhS8",
+    "skin_name": "MPL Fan Art",
+    "sort": "6"
   }
 }
