@@ -5531,5 +5531,14 @@
     "key": "Lilya-J57NbKw1zU",
     "skin_name": "Sakura Flower",
     "sort": "11"
+  },
+  "Nana-cImVrFYTpP": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/nana%20x%20cabe.zip",
+    "hero": "Nana",
+    "img": "https://raw.githubusercontent.com/rahasia55/tes/main/nana%20x%20cabe.png",
+    "img2": "https://raw.githubusercontent.com/rahasia55/tes/main/nana%20x%20cabe.png",
+    "key": "Nana-cImVrFYTpP",
+    "skin_name": "Cabe",
+    "sort": "12"
   }
 }
