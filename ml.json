@@ -5459,5 +5459,14 @@
     "key": "Cecilion-1bqbmGt1ZE",
     "skin_name": "Geto",
     "sort": "3"
+  },
+  "Chou-1xH3Y1oLRT": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/chou%20x%20sanji.zip",
+    "hero": "Chou",
+    "img": "https://raw.githubusercontent.com/rahasia55/tes/main/chou%20x%20sanji.png",
+    "img2": "https://raw.githubusercontent.com/rahasia55/tes/main/chou%20x%20sanji.png",
+    "key": "Chou-1xH3Y1oLRT",
+    "skin_name": "Sanji",
+    "sort": "4"
   }
 }
