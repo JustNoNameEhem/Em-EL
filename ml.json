@@ -5495,5 +5495,14 @@
     "key": "Khufra-0HUgHZyx8y",
     "skin_name": "Luffy Gear 5",
     "sort": "7"
+  },
+  "Lancelot-u2DlVlvVNE": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/lancelot%20x%20Levi.zip",
+    "hero": "Lancelot",
+    "img": "https://raw.githubusercontent.com/rahasia55/tes/main/lancelot%20x%20Levi.png",
+    "img2": "https://raw.githubusercontent.com/rahasia55/tes/main/lancelot%20x%20Levi.png",
+    "key": "Lancelot-u2DlVlvVNE",
+    "skin_name": "Levi",
+    "sort": "8"
   }
 }
