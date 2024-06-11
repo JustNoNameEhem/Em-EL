@@ -5450,5 +5450,14 @@
     "key": "Badang-e2qLvUD6oT",
     "skin_name": "akaza",
     "sort": "2"
+  },
+  "Cecilion-1bqbmGt1ZE": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/cecilion%20x%20geto.zip",
+    "hero": "Cecilion",
+    "img": "https://raw.githubusercontent.com/rahasia55/tes/main/cecilion%20x%20geto.png",
+    "img2": "https://raw.githubusercontent.com/rahasia55/tes/main/cecilion%20x%20geto.png",
+    "key": "Cecilion-1bqbmGt1ZE",
+    "skin_name": "Geto",
+    "sort": "3"
   }
 }
