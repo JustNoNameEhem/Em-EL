@@ -5441,5 +5441,14 @@
     "key": "Alucard-odYZ2RJkhZ",
     "skin_name": "Rengoku",
     "sort": "1"
+  },
+  "Badang-e2qLvUD6oT": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/badang%20x%20akaza.zip",
+    "hero": "Badang",
+    "img": "https://raw.githubusercontent.com/rahasia55/tes/main/badang%20x%20akaza.png",
+    "img2": "https://raw.githubusercontent.com/rahasia55/tes/main/badang%20x%20akaza.png",
+    "key": "Badang-e2qLvUD6oT",
+    "skin_name": "akaza",
+    "sort": "2"
   }
 }
