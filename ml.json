@@ -5468,5 +5468,14 @@
     "key": "Chou-1xH3Y1oLRT",
     "skin_name": "Sanji",
     "sort": "4"
+  },
+  "Hayabusa-m3aabPsozB": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/haya%20x%20kakashi.zip",
+    "hero": "Hayabusa",
+    "img": "https://raw.githubusercontent.com/rahasia55/tes/main/haya%20x%20kakashi.png",
+    "img2": "https://raw.githubusercontent.com/rahasia55/tes/main/haya%20x%20kakashi.png",
+    "key": "Hayabusa-m3aabPsozB",
+    "skin_name": "kakashi",
+    "sort": "5"
   }
 }
