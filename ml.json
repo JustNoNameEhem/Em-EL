@@ -5540,5 +5540,14 @@
     "key": "Nana-cImVrFYTpP",
     "skin_name": "Cabe",
     "sort": "12"
+  },
+  "Yin-76cg7fC5gG": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/yin%20x%20gojo.zip",
+    "hero": "Yin",
+    "img": "https://raw.githubusercontent.com/rahasia55/tes/main/yin%20x%20gojo.png",
+    "img2": "https://raw.githubusercontent.com/rahasia55/tes/main/yin%20x%20gojo.png",
+    "key": "Yin-76cg7fC5gG",
+    "skin_name": "Gojo",
+    "sort": "13"
   }
 }
