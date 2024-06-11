@@ -5558,5 +5558,14 @@
     "key": "Yin-XSf0KFbdHB",
     "skin_name": "Naruto",
     "sort": "14"
+  },
+  "Yin-qhIpahBC2O": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/yin%20x%20yuji.zip",
+    "hero": "Yin",
+    "img": "https://raw.githubusercontent.com/rahasia55/tes/main/yin%20x%20yuji.png",
+    "img2": "https://raw.githubusercontent.com/rahasia55/tes/main/yin%20x%20yuji.png",
+    "key": "Yin-qhIpahBC2O",
+    "skin_name": "Yuji",
+    "sort": "15"
   }
 }
