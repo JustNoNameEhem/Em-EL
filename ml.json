@@ -5513,5 +5513,14 @@
     "key": "Vexana-jcR1rEpCmY",
     "skin_name": "Megumi",
     "sort": "9"
+  },
+  "Layla-XEREdB5Vha": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/layla%20x%20summer.zip",
+    "hero": "Layla",
+    "img": "https://raw.githubusercontent.com/rahasia55/tes/main/layla%20x%20summer.png",
+    "img2": "https://raw.githubusercontent.com/rahasia55/tes/main/layla%20x%20summer.png",
+    "key": "Layla-XEREdB5Vha",
+    "skin_name": "Summer Fan Art",
+    "sort": "10"
   }
 }
