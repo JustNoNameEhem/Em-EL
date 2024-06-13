@@ -3661,5 +3661,14 @@
     "key": "Karina-4r5DvCoPzy",
     "skin_name": "Elite - KOF",
     "sort": "2"
+  },
+  "Karina-tKVegTSFYD": {
+    "download": "https://github.com/rahasia55/New-Up-Skin/raw/main/karina%20elite2%20to%20epic.zip",
+    "hero": "Karina",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/31/Hero085-portrait.png/revision/latest?cb=20220525164458",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/c/cd/Hero086-portrait.png/revision/latest?cb=20220525164459",
+    "key": "Karina-tKVegTSFYD",
+    "skin_name": "Elite - Epic",
+    "sort": "3"
   }
 }
