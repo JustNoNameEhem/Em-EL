@@ -4048,5 +4048,14 @@
     "key": "Lunox-x0gpePGBim",
     "skin_name": "Basic - Zodiac",
     "sort": "1"
+  },
+  "Lunox-hmHOcbgLbv": {
+    "download": "https://github.com/rahasia55/New-Up-Skin/raw/main/lunox%20elite%20to%20epic.zip",
+    "hero": "Lunox",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/12/Hero683-portrait.png/revision/latest?cb=20220525165714",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/0e/Hero686-portrait.png/revision/latest?cb=20220525165718",
+    "key": "Lunox-hmHOcbgLbv",
+    "skin_name": "Elite - Epic",
+    "sort": "2"
   }
 }
