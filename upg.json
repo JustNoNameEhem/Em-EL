@@ -4237,5 +4237,14 @@
     "key": "Lilya-NU2vovUmwz",
     "skin_name": "Elite - NeoBeast",
     "sort": "2"
+  },
+  "Martis-HEengckOKg": {
+    "download": "https://github.com/rahasia55/New-Up-Skin/raw/main/martis%20basic%20to%20zodiac.zip",
+    "hero": "Martis",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/7b/Hero582-portrait.png/revision/latest?cb=20220525165506",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/2d/Hero585-portrait.png/revision/latest?cb=20240114125523",
+    "key": "Martis-HEengckOKg",
+    "skin_name": "Basic - Zodiac",
+    "sort": "1"
   }
 }
