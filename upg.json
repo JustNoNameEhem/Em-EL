@@ -3760,5 +3760,14 @@
     "key": "Khufra-l00phcv8EU",
     "skin_name": "Basic - Star",
     "sort": "1"
+  },
+  "Khufra-FR25KQFAoH": {
+    "download": "https://github.com/rahasia55/New-Up-Skin/raw/main/khufra%20basic%20to%20valentine.zip",
+    "hero": "Khufra",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/74/Hero782-portrait.png/revision/latest?cb=20220525165825",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/79/Hero784-portrait.png/revision/latest?cb=20220525165827",
+    "key": "Khufra-FR25KQFAoH",
+    "skin_name": "Basic - Valentine",
+    "sort": "1"
   }
 }
