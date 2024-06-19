@@ -5567,5 +5567,14 @@
     "key": "Vale-tzWGE01LQV",
     "skin_name": "red wind",
     "sort": "0"
+  },
+  "Zilong-ugH9raxrDd": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/zilong%20epic2.zip",
+    "hero": "Zilong",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/03/Hero166-portrait.png/revision/latest?cb=20220525164649",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/03/Hero166-portrait.png/revision/latest?cb=20220525164649",
+    "key": "Zilong-ugH9raxrDd",
+    "skin_name": "Epic",
+    "sort": "1"
   }
 }
