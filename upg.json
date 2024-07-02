@@ -4282,5 +4282,14 @@
     "key": "Beatrix-73QTuy6TCA",
     "skin_name": "Elite - M4",
     "sort": "2"
+  },
+  "Benedetta-oMidRMYEZs": {
+    "download": "https://github.com/rahasia55/New-Up-Skin/raw/main/benedetta%20basic%20to%20mpl.zip",
+    "hero": "Benedetta",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/0f/Hero972-portrait.png/revision/latest?cb=20220525170253",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/dc/Hero977-portrait.png/revision/latest?cb=20240314065930",
+    "key": "Benedetta-oMidRMYEZs",
+    "skin_name": "Basic - MPL",
+    "sort": "1"
   }
 }
