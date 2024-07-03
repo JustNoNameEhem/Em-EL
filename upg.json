@@ -4291,5 +4291,14 @@
     "key": "Dyrroth-Q8zqbgLXV9",
     "skin_name": "Basic - Venom",
     "sort": "1"
+  },
+  "Dyrroth-FXKuTK665L": {
+    "download": "https://github.com/rahasia55/New-Up-Skin/raw/main/dyrroth%20starlight%20to%20kof.zip",
+    "hero": "Dyrroth",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a5/Hero854-portrait.png/revision/latest?cb=20220525170034",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/1d/Hero853-portrait.png/revision/latest?cb=20220525170033",
+    "key": "Dyrroth-FXKuTK665L",
+    "skin_name": "Star - Kof",
+    "sort": "7"
   }
 }
