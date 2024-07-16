@@ -4363,5 +4363,14 @@
     "key": "Masha-Oj1EaMwLZB",
     "skin_name": "Basic - Dragon Tamer",
     "sort": "1"
+  },
+  "Masha-FDYne3aJyZ": {
+    "download": "https://github.com/rahasia55/New-Up-Skin/raw/main/masha%20basic%20to%20kof.zip",
+    "hero": "Masha",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/14/Hero882-portrait.png/revision/latest?cb=20220525170108",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/f3/Hero887-portrait.png/revision/latest?cb=20240430024127",
+    "key": "Masha-FDYne3aJyZ",
+    "skin_name": "Basic - KOF",
+    "sort": "1"
   }
 }
