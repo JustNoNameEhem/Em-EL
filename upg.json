@@ -4417,5 +4417,14 @@
     "key": "Melissa-IaUGDWsWSb",
     "skin_name": "Basic - Star",
     "sort": "1"
+  },
+  "Minotaur-bi4wNUArSZ": {
+    "download": "https://github.com/rahasia55/New-Up-Skin/raw/main/minotaur%20basic%20to%20special.zip",
+    "hero": "Minotaur",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/bb/Hero192-portrait.png/revision/latest?cb=20220525164733",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/7d/Hero196-portrait.png/revision/latest?cb=20240114091540",
+    "key": "Minotaur-bi4wNUArSZ",
+    "skin_name": "Elite - Special",
+    "sort": "2"
   }
 }
