@@ -4444,5 +4444,14 @@
     "key": "Minotaur-2lsgdHCl2j",
     "skin_name": "Elite - Zodiac",
     "sort": "3"
+  },
+  "Minotaur-e4OVmKc8I3": {
+    "download": "https://github.com/rahasia55/New-Up-Skin/raw/main/minotaur%20season%20to%20special.zip",
+    "hero": "Minotaur",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/b4/Hero193-portrait.png/revision/latest?cb=20220525164734",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/7d/Hero196-portrait.png/revision/latest?cb=20240114091540",
+    "key": "Minotaur-e4OVmKc8I3",
+    "skin_name": "Season - Special",
+    "sort": "15"
   }
 }
