@@ -4426,5 +4426,14 @@
     "key": "Minotaur-bi4wNUArSZ",
     "skin_name": "Elite - Special",
     "sort": "2"
+  },
+  "Minotaur-uWpUUZaTza": {
+    "download": "https://github.com/rahasia55/New-Up-Skin/raw/main/minotaur%20elite%20to%20zodiac.zip",
+    "hero": "Minotaur",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/bb/Hero192-portrait.png/revision/latest?cb=20220525164733",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/16/Hero195-portrait.png/revision/latest?cb=20230316133655",
+    "key": "Minotaur-uWpUUZaTza",
+    "skin_name": "Elite - Zodiac",
+    "sort": "2"
   }
 }
