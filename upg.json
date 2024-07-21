@@ -4543,5 +4543,14 @@
     "key": "Miya-RzZi7XYwQY",
     "skin_name": "Top Up - Legend",
     "sort": "16"
+  },
+  "Moskov-Kp5TwbctaG": {
+    "download": "https://github.com/rahasia55/New-Up-Skin/raw/main/moskov%20basic%20to%20abyss.zip",
+    "hero": "Moskov",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/73/Hero312-portrait.png/revision/latest?cb=20240114104739",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/aa/Hero319-portrait.png/revision/latest?cb=20220802032157",
+    "key": "Moskov-Kp5TwbctaG",
+    "skin_name": "Basic - Abyss",
+    "sort": "1"
   }
 }
