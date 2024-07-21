@@ -4579,5 +4579,14 @@
     "key": "Moskov-xN6QwIPnJl",
     "skin_name": "Elite - Abyss",
     "sort": "2"
+  },
+  "Moskov-V96duukS7N": {
+    "download": "https://github.com/rahasia55/New-Up-Skin/raw/main/moskov%20elite%20to%20all%20star.zip",
+    "hero": "Moskov",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/ae/Hero317-portrait.png/revision/latest?cb=20220525165005",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/77/Hero103111-portrait.png/revision/latest?cb=20240416092252",
+    "key": "Moskov-V96duukS7N",
+    "skin_name": "Elite - All Star",
+    "sort": "2"
   }
 }
