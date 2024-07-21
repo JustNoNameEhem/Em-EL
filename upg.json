@@ -4570,5 +4570,14 @@
     "key": "Moskov-aja3J1sCAZ",
     "skin_name": "Basic - Epic",
     "sort": "1"
+  },
+  "Moskov-xN6QwIPnJl": {
+    "download": "https://github.com/rahasia55/New-Up-Skin/raw/main/moskov%20elite%20to%20abyss.zip",
+    "hero": "Moskov",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/ae/Hero317-portrait.png/revision/latest?cb=20220525165005",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/aa/Hero319-portrait.png/revision/latest?cb=20220802032157",
+    "key": "Moskov-xN6QwIPnJl",
+    "skin_name": "Elite - Abyss",
+    "sort": "2"
   }
 }
