@@ -5567,5 +5567,14 @@
     "key": "Granger-xJWvYGmKhU",
     "skin_name": "Collector",
     "sort": "1"
+  },
+  "Granger-GWUE91wIUk": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/granger%20transformers.zip",
+    "hero": "Granger",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/c6/Hero798-portrait.png/revision/latest?cb=20220525165847",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/c/c6/Hero798-portrait.png/revision/latest?cb=20220525165847",
+    "key": "Granger-GWUE91wIUk",
+    "skin_name": "Transformers",
+    "sort": "2"
   }
 }
