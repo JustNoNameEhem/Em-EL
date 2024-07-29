@@ -5621,5 +5621,14 @@
     "key": "Freya-gFOZZICMB5",
     "skin_name": "Epic",
     "sort": "5"
+  },
+  "Karrie-3ISZ8Xf8Oz": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/karrie%20dishin%20densetsu.zip",
+    "hero": "Karrie",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJnSHB7RBTOeBi1HW004IHy23Nol0Sk8DzVhOmiIOr7T9ZDNh4_Y1XBC8&s=10",
+    "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJnSHB7RBTOeBi1HW004IHy23Nol0Sk8DzVhOmiIOr7T9ZDNh4_Y1XBC8&s=10",
+    "key": "Karrie-3ISZ8Xf8Oz",
+    "skin_name": "Dishin Densetsu",
+    "sort": "6"
   }
 }
