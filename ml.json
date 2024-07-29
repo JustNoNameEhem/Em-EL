@@ -5630,5 +5630,14 @@
     "key": "Karrie-3ISZ8Xf8Oz",
     "skin_name": "Dishin Densetsu",
     "sort": "6"
+  },
+  "Lancelot-3bgMUQoBtd": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/lancelot%20kishin%20densetsu.zip",
+    "hero": "Lancelot",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8Nb5JSGYU38Y4M--q54NhTu8ASiziEjugWuLz8a8yuxz8RUl5SKnK3pI&s=10",
+    "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8Nb5JSGYU38Y4M--q54NhTu8ASiziEjugWuLz8a8yuxz8RUl5SKnK3pI&s=10",
+    "key": "Lancelot-3bgMUQoBtd",
+    "skin_name": "Kishin Densetsu",
+    "sort": "7"
   }
 }
