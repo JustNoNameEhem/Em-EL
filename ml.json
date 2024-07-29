@@ -5585,5 +5585,14 @@
     "key": "Angela-HcTfgNcNEr",
     "skin_name": "kishin densetsu",
     "sort": "1"
+  },
+  "Atlas-6Qu5Tr2RzL": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/atlas%20collector.zip",
+    "hero": "Atlas",
+    "img": "https://pbs.twimg.com/media/GS5-n-rbIAAOY_L.jpg:large",
+    "img2": "https://pbs.twimg.com/media/GS5-n-rbIAAOY_L.jpg:large",
+    "key": "Atlas-6Qu5Tr2RzL",
+    "skin_name": "Collector",
+    "sort": "2"
   }
 }
