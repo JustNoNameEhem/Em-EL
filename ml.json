@@ -5603,5 +5603,14 @@
     "key": "Aurora-Ul3Tvxj6Rd",
     "skin_name": "Collector",
     "sort": "3"
+  },
+  "Clint-7f221WUEd8": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/clint%20epic.zip",
+    "hero": "Clint",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2webr71dmsiX4kFs80p2OQTGxsZP_A3tPfQ&usqp=CAU",
+    "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2webr71dmsiX4kFs80p2OQTGxsZP_A3tPfQ&usqp=CAU",
+    "key": "Clint-7f221WUEd8",
+    "skin_name": "Epic",
+    "sort": "4"
   }
 }
