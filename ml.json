@@ -5594,5 +5594,14 @@
     "key": "Atlas-6Qu5Tr2RzL",
     "skin_name": "Collector",
     "sort": "2"
+  },
+  "Aurora-Ul3Tvxj6Rd": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/aurora%20collector.zip",
+    "hero": "Aurora",
+    "img": "-foto",
+    "img2": "-foto",
+    "key": "Aurora-Ul3Tvxj6Rd",
+    "skin_name": "Collector",
+    "sort": "3"
   }
 }
