@@ -5657,5 +5657,14 @@
     "key": "Aldous-S6iIGZM6vV",
     "skin_name": "Dragon Fall Knight",
     "sort": "1"
+  },
+  "Alucard-tluUXcaBKS": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/alucard%20x%20shanks.zip",
+    "hero": "Alucard",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRJ0DA4JDfwoU8sk501PoqvI51UPMb083PAUwP3Nphih8UrzsMdwbbCuI&s=10",
+    "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRJ0DA4JDfwoU8sk501PoqvI51UPMb083PAUwP3Nphih8UrzsMdwbbCuI&s=10",
+    "key": "Alucard-tluUXcaBKS",
+    "skin_name": "Shanks",
+    "sort": "2"
   }
 }
