@@ -5765,5 +5765,14 @@
     "key": "Floryn-iZcbBuXaMD",
     "skin_name": "Summer",
     "sort": "2"
+  },
+  "Gord-hcoNHKcTIi": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/gord%20epic.zip",
+    "hero": "Gord",
+    "img": "https://raw.githubusercontent.com/rahasia55/tes/main/gord%20epic.png",
+    "img2": "https://raw.githubusercontent.com/rahasia55/tes/main/gord%20epic.png",
+    "key": "Gord-hcoNHKcTIi",
+    "skin_name": "Epic",
+    "sort": "3"
   }
 }
