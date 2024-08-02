@@ -5720,5 +5720,14 @@
     "key": "Paquito-r92HST8Z1e",
     "skin_name": "kyo Kusanagi",
     "sort": "8"
+  },
+  "Roger-tT2NMxbpY8": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/roger%20x%20exorcist.zip",
+    "hero": "Roger",
+    "img": "https://raw.githubusercontent.com/rahasia55/tes/main/roger%20x%20exorcist.png",
+    "img2": "https://raw.githubusercontent.com/rahasia55/tes/main/roger%20x%20exorcist.png",
+    "key": "Roger-tT2NMxbpY8",
+    "skin_name": "Exorcist",
+    "sort": "9"
   }
 }
