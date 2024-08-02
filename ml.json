@@ -5783,5 +5783,14 @@
     "key": "Lunox-YamOkZfLru",
     "skin_name": "Elite",
     "sort": "4"
+  },
+  "Silvana-RWeBVKXhbW": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/silvanna%20special.zip",
+    "hero": "Silvana",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/b8/Hero909-portrait.png/revision/latest?cb=20240619174651",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/b8/Hero909-portrait.png/revision/latest?cb=20240619174651",
+    "key": "Silvana-RWeBVKXhbW",
+    "skin_name": "Special",
+    "sort": "5"
   }
 }
