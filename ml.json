@@ -5729,5 +5729,14 @@
     "key": "Roger-tT2NMxbpY8",
     "skin_name": "Exorcist",
     "sort": "9"
+  },
+  "Selena-LcTYIXyhHC": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/selena%20epic%20x%20butterfly%20.zip",
+    "hero": "Selena",
+    "img": "https://raw.githubusercontent.com/rahasia55/tes/main/selena%20butterfly.png",
+    "img2": "https://raw.githubusercontent.com/rahasia55/tes/main/selena%20butterfly.png",
+    "key": "Selena-LcTYIXyhHC",
+    "skin_name": "Butterfly",
+    "sort": "10"
   }
 }
