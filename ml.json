@@ -5756,5 +5756,14 @@
     "key": "Carmilla-8bnsCZsJ4w",
     "skin_name": "Epic",
     "sort": "1"
+  },
+  "Floryn-iZcbBuXaMD": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/floryn%20summer.zip",
+    "hero": "Floryn",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/ae/Hero1125-portrait.png/revision/latest?cb=20240619173600",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/ae/Hero1125-portrait.png/revision/latest?cb=20240619173600",
+    "key": "Floryn-iZcbBuXaMD",
+    "skin_name": "Summer",
+    "sort": "2"
   }
 }
