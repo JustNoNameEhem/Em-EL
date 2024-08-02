@@ -5666,5 +5666,14 @@
     "key": "Alucard-tluUXcaBKS",
     "skin_name": "Shanks",
     "sort": "2"
+  },
+  "Chou-fngGFwnwnG": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/chou%20x%20yuji.zip",
+    "hero": "Chou",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB0u-gjQFzj9XAED7kGfZQPtF6BrEKLy4vztvAHg3WfjH7gh68KdbkRSo&s=10",
+    "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB0u-gjQFzj9XAED7kGfZQPtF6BrEKLy4vztvAHg3WfjH7gh68KdbkRSo&s=10",
+    "key": "Chou-fngGFwnwnG",
+    "skin_name": "yuji",
+    "sort": "3"
   }
 }
