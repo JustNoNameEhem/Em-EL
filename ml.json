@@ -5684,5 +5684,14 @@
     "key": "Dyrroth-re0aJ3B9W5",
     "skin_name": "Sasuke",
     "sort": "4"
+  },
+  "Gatotkaca-FIXxWZGibr": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/gatotkaca%20x%20kyo%20kusanagi.zip",
+    "hero": "Gatotkaca",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_9Uq9QIpyF8Lmn7Cx4f02XxB4hH40uhEFd6uR99A39pHGxfBF7si64Vcc&s=10",
+    "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_9Uq9QIpyF8Lmn7Cx4f02XxB4hH40uhEFd6uR99A39pHGxfBF7si64Vcc&s=10",
+    "key": "Gatotkaca-FIXxWZGibr",
+    "skin_name": "Kyo Kusanagi",
+    "sort": "5"
   }
 }
