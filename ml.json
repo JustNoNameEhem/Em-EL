@@ -5774,5 +5774,14 @@
     "key": "Gord-hcoNHKcTIi",
     "skin_name": "Epic",
     "sort": "3"
+  },
+  "Lunox-YamOkZfLru": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/lunox%20elite2.zip",
+    "hero": "Lunox",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/84/Hero106810-portrait.png/revision/latest?cb=20240619175050",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/84/Hero106810-portrait.png/revision/latest?cb=20240619175050",
+    "key": "Lunox-YamOkZfLru",
+    "skin_name": "Elite",
+    "sort": "4"
   }
 }
