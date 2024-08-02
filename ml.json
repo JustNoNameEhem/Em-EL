@@ -5702,5 +5702,14 @@
     "key": "Gatotkaca-oKbleCpaoq",
     "skin_name": "Tanjiro",
     "sort": "6"
+  },
+  "Kimmy-9joTegLDgy": {
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/kimmy%20x%20exorcists.zip",
+    "hero": "Kimmy",
+    "img": "https://raw.githubusercontent.com/rahasia55/tes/main/kimmy%20x%20exorcists.png",
+    "img2": "https://raw.githubusercontent.com/rahasia55/tes/main/kimmy%20x%20exorcists.png",
+    "key": "Kimmy-9joTegLDgy",
+    "skin_name": "Exorcists",
+    "sort": "7"
   }
 }
