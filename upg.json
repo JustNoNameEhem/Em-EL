@@ -4849,5 +4849,14 @@
     "key": "Paquito-5RhULwGsLG",
     "skin_name": "basic - Collector",
     "sort": "1"
+  },
+  "Paquito-G6pMXEKuqv": {
+    "download": "https://github.com/rahasia55/New-Up-Skin/raw/main/paquito%20basic%20to%20kof.zip",
+    "hero": "Paquito",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/68/Hero1032-portrait.png/revision/latest?cb=20220525170358",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/4f/Hero1038-portrait.png/revision/latest?cb=20240430024904",
+    "key": "Paquito-G6pMXEKuqv",
+    "skin_name": "Basic - KOF",
+    "sort": "1"
   }
 }
