@@ -4930,5 +4930,14 @@
     "key": "Parsha-vAzftl2KIJ",
     "skin_name": "Basic - Star",
     "sort": "1"
+  },
+  "Parsha-eYl0HCb95m": {
+    "download": "https://github.com/rahasia55/New-Up-Skin/raw/main/pharsa%20elite%20to%20collector.zip",
+    "hero": "Parsha",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d7/Hero523-portrait.png/revision/latest?cb=20220525165342",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/75/Hero526-portrait.png/revision/latest?cb=20220525165345",
+    "key": "Parsha-eYl0HCb95m",
+    "skin_name": "Elite - Collector",
+    "sort": "2"
   }
 }
