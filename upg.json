@@ -4831,5 +4831,14 @@
     "key": "Odete-g3iBLOrh6R",
     "skin_name": "Special - Zodiac",
     "sort": "4"
+  },
+  "Paquito-ygbNo7twbv": {
+    "download": "https://github.com/rahasia55/New-Up-Skin/raw/main/paquito%20basic%20pacquiao.zip",
+    "hero": "Paquito",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/68/Hero1032-portrait.png/revision/latest?cb=20220525170358",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/b7/Hero1033-portrait.png/revision/latest?cb=20220525170358",
+    "key": "Paquito-ygbNo7twbv",
+    "skin_name": "Basic - pacquiao",
+    "sort": "1"
   }
 }
