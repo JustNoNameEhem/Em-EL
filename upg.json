@@ -4885,5 +4885,14 @@
     "key": "Paquito-4CWUrx1QyY",
     "skin_name": "Star - Collector",
     "sort": "7"
+  },
+  "Paquito-boJYG47aHN": {
+    "download": "https://github.com/rahasia55/New-Up-Skin/raw/main/paquito%20star%20to%20kof.zip",
+    "hero": "Paquito",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Hero1035-portrait.png/revision/latest?cb=20220525170401",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/4f/Hero1038-portrait.png/revision/latest?cb=20240430024904",
+    "key": "Paquito-boJYG47aHN",
+    "skin_name": "Star - KOF",
+    "sort": "7"
   }
 }
